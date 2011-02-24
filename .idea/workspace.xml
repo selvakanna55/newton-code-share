@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/may-aug-quick-dsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/basic_problem_solving/ArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/basic_problem_solving/FindPositionsOfXInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/basic_problem_solving/OneDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/basic_problem_solving/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/basic_problem_solving/RotateImageBy90Degrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/basic_problem_solving/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/binary_search/KokoEatingBananas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/binary_search/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +53,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kannan/Documents/GitHub/newton-code-share&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/Kannan/Documents/GitHub/newton-code-share/may-aug-quick-dsa",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\july-fsd-a-2023\src\hashing" />
@@ -63,6 +76,7 @@
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\augbatch5\src\oops" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\may-aug-quick-dsa1" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\placecom\src\assignments" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\augbatch5\src\batch_assignments" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\slides" />
@@ -80,7 +94,7 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValidBrackets">
+  <component name="RunManager" selected="Application.FindPositionsOfXInArray">
     <configuration name="Chaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashingChaining.Chaining" />
       <module name="july-fsd-a-2023" />
@@ -107,15 +121,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeTwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa1_recap_quetions_.PalindromeTwoPointer" />
-      <module name="july-fsd-a-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa1_recap_quetions_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="FindPositionsOfXInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_problem_solving.FindPositionsOfXInArray" />
+      <module name="may-aug-quick-dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,19 +156,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.FindPositionsOfXInArray" />
       <item itemvalue="Application.Chaining" />
       <item itemvalue="Application.DoubleLinkedListRun" />
-      <item itemvalue="Application.PalindromeTwoPointer" />
       <item itemvalue="Application.QuadraticProbingImpl" />
       <item itemvalue="Application.ValidBrackets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindPositionsOfXInArray" />
         <item itemvalue="Application.ValidBrackets" />
         <item itemvalue="Application.Chaining" />
         <item itemvalue="Application.QuadraticProbingImpl" />
         <item itemvalue="Application.DoubleLinkedListRun" />
-        <item itemvalue="Application.PalindromeTwoPointer" />
       </list>
     </recent_temporary>
   </component>
