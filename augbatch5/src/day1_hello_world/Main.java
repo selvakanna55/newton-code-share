@@ -1,4 +1,4 @@
-package AugBatch5;
+package day1_hello_world;
 
 
 class Main {
