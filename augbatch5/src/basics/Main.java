@@ -1,4 +1,4 @@
-package day1_hello_world;
+package basics;
 
 
 class Main {

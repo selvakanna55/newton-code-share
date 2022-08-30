@@ -1,4 +1,4 @@
-package day1_hello_world;
+package basics;
 
 class Day1Recap {
     public static void main(String[] args) {
