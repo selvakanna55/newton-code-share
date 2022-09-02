@@ -12,6 +12,7 @@ class DataTypes {
         long num2 = sc.nextLong();
         float num3 = sc.nextFloat();
         double num4 = sc.nextDouble();
+        String s = sc.next();
 
         char ch = sc.next().charAt(0); //"c"
 
