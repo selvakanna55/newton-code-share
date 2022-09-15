@@ -8,6 +8,9 @@ public class NewtonApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(NewtonApplication.class, args);
+        // set the config
+        // class path scan -> annotations
+        // apache tomcat
     }
 
 }
