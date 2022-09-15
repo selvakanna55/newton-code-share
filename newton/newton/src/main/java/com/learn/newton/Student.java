@@ -1,11 +1,19 @@
 package com.learn.newton;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class Student {
-    int rollNo;
+    @Id
+    Integer rollNo;
     String degree;
     String dept;
     String name;
 
+    Student(){
+
+    }
     public Student(String name, int rollNo, String degree, String dept) {
         this.name = name;
         this.rollNo = rollNo;

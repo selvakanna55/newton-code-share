@@ -1,45 +1,36 @@
 package com.learn.newton;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
 @Service
 public class StudentService {
-    List<Student> studentsList = new ArrayList<>();
 
-    StudentService() {
-        studentsList.add(new Student("Abcd", 3, "BE", "Computer"));
-        studentsList.add(new Student("MNOP", 4, "MCA", "Account"));
-    }
+    @Autowired
+    StudentRepository studRep;
+
 
     List<Student> getAllStudents() {
-        return studentsList;
+        return (List<Student>) studRep.findAll();
     }
 
     public Student getStudentByRollNo(Integer roll) {
-        Optional<Student> op = studentsList.stream().filter(s -> (roll == s.rollNo)).findFirst();
-        if (op.isPresent()) return op.get();
-        return null;
+        Optional<Student> op = studRep.findById(roll);
+        return op.orElse(null);
     }
 
     public void addStudent(Student stud) {
-        studentsList.add(stud);
+        studRep.save(stud);
     }
 
-    public void updateStudent(int rollNo, Student st) {
-        for (int i = 0; i < studentsList.size(); i++) {
-            Student cur = studentsList.get(i);
-            if (cur.rollNo == rollNo) {
-                studentsList.set(i, st);
-            }
-        }
-        return;
+    public void updateStudent(int rollNo, Student stud) {
+        studRep.save(stud);
     }
 
     public void deleteStudentByRollNo(Integer rollNo) {
-        studentsList.removeIf(stud -> stud.rollNo == rollNo);
+        studRep.deleteById(rollNo);
     }
 }
