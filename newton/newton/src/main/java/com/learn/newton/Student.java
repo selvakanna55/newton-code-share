@@ -1,6 +1,8 @@
 package com.learn.newton;
 
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
@@ -10,7 +12,6 @@ public class Student {
     String degree;
     String dept;
     String name;
-
     Student(){
 
     }
