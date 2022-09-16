@@ -12,6 +12,10 @@ public class StudentService {
     @Autowired
     StudentRepository studRep;
 
+    void addDummy() {
+        studRep.save(new Student("Abcd", 3, "BE", "Computer"));
+        studRep.save(new Student("MNOP", 4, "MCA", "Account"));
+    }
 
     List<Student> getAllStudents() {
         return (List<Student>) studRep.findAll();
