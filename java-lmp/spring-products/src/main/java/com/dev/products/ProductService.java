@@ -28,7 +28,7 @@ public class ProductService {
     }
 
     public boolean updateProduct(Product prod) {
-        productRepository.save(prod);
+        productRepository.update(prod);
         return true;
     }
 

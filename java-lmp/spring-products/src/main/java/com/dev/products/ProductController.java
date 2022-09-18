@@ -27,6 +27,11 @@ public class ProductController {
         return productService.getAllProducts();
     }
 
+    @RequestMapping(method = RequestMethod.GET, value = "/user")
+    List<Product> userProducts() {
+        return productService.getAllProducts();
+    }
+
     @RequestMapping(method = RequestMethod.POST, value = "/products")
     boolean addProduct(@RequestBody Product prod) {
         return productService.addProduct(prod);
