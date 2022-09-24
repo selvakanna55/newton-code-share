@@ -7,6 +7,7 @@ import javax.persistence.Id;
 public class Product {
     @Id
     int id;
+    
     String name;
     int price;
 
