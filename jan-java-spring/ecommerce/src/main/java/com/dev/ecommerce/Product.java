@@ -1,6 +1,11 @@
 package com.dev.ecommerce;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class Product {
+    @Id
     int id;
     String name;
     int price;
