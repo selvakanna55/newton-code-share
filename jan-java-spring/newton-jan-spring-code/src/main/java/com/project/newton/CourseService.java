@@ -19,7 +19,8 @@ public class CourseService {
     }
 
     public Course getCourse(Integer id) {
-        return courseRepository.findById(id).get();
+//        return courseRepository.findById(id).get();
+        return courseRepository.findById(id);
     }
 
     public boolean addCourse(Course course) {
@@ -31,7 +32,7 @@ public class CourseService {
     // update
     // upsert
     public boolean updateCourse(Course course) {
-        courseRepository.save(course);
+        courseRepository.update(course);
         return true;
     }
 
