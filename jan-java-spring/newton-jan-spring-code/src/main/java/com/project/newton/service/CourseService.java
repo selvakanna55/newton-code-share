@@ -1,11 +1,11 @@
-package com.project.newton;
+package com.project.newton.service;
 
+import com.project.newton.models.Course;
+import com.project.newton.repository.CourseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.Arrays;
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class CourseService {
@@ -20,7 +20,12 @@ public class CourseService {
 
     public Course getCourse(Integer id) {
 //        return courseRepository.findById(id).get();
-        return courseRepository.findById(id);
+        return courseRepository.findById(id).get();
+        // select * from course where id = id;
+    }
+
+    public List<Course> getCourseByDeptId(Integer id) {
+        return courseRepository.findByDepartmentDeptId(id);
     }
 
     public boolean addCourse(Course course) {
@@ -32,7 +37,7 @@ public class CourseService {
     // update
     // upsert
     public boolean updateCourse(Course course) {
-        courseRepository.update(course);
+        courseRepository.save(course);
         return true;
     }
 
