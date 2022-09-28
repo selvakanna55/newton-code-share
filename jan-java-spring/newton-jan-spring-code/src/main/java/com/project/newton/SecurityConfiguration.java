@@ -22,11 +22,11 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         return NoOpPasswordEncoder.getInstance();
     }
 
-    @Override
-    protected void configure(HttpSecurity http) throws Exception {
-        http.authorizeRequests().antMatchers("/departments/**").hasRole("admin")
-                .antMatchers("/department/**").hasRole("admin")
-                .antMatchers("/courses/**").hasRole("professor")
-                .and().formLogin();
-    }
+//    @Override
+//    protected void configure(HttpSecurity http) throws Exception {
+//        http.authorizeRequests().antMatchers("/departments/**").hasRole("admin")
+//                .antMatchers("/department/**").hasRole("admin")
+//                .antMatchers("/courses/**").hasRole("professor")
+//                .and().formLogin();
+//    }
 }
