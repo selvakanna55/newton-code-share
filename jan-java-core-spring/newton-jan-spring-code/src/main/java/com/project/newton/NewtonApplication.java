@@ -10,13 +10,8 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableWebMvc
 public class NewtonApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(NewtonApplication.class, args);
-    }
-// inital config
-// class path scan ->
-// bring up embedded tomcat server
+	public static void main(String[] args) {
+		SpringApplication.run(NewtonApplication.class, args);
+	}
+
 }
-
-
-//creating sdk

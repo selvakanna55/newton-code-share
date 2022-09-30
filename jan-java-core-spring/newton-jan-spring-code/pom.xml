@@ -49,7 +49,10 @@
             <scope>compile</scope>
         </dependency>
 
+<<<<<<< HEAD:jan-java-core-spring/newton-jan-spring-code/pom.xml
 
+=======
+>>>>>>> 05effd6430a853f0657d9623c8dccf686cfacb31:jan-java-spring/newton-jan-spring-code/pom.xml
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
@@ -57,6 +60,10 @@
             <scope>compile</scope>
         </dependency>
 
+<<<<<<< HEAD:jan-java-core-spring/newton-jan-spring-code/pom.xml
+=======
+
+>>>>>>> 05effd6430a853f0657d9623c8dccf686cfacb31:jan-java-spring/newton-jan-spring-code/pom.xml
     </dependencies>
 
     <build>
