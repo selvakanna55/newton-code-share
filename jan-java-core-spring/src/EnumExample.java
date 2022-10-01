@@ -74,7 +74,7 @@ public class EnumExample {
         List<Integer> li = Arrays.asList(3, 1, 2);
         System.out.println(li);
 //        Collections.sort(li, (a, b) -> b - a);
-        Collections.sort(li, new Sorterrrrr());
+//        Collections.sort(li, new Sorterrrrr());
         System.out.println(li);
 
     }
