@@ -6,8 +6,12 @@ class Student {
     String name;
     StudentStatus status;
 
+    @Override
     public String toString() {
-        return "Student{" + "name='" + name + '\'' + ", status=" + status.getId() + '}';
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", status=" + status +
+                '}';
     }
 
     public Student(String name, StudentStatus status) {
@@ -27,13 +31,12 @@ enum StudentStatus {
     public int getId() {
         return id;
     }
-
+//
     public void setId(int id) {
         this.id = id;
     }
-
+//
     int id;
-
 
     StudentStatus(int id) {
         this.id = id;
@@ -53,14 +56,19 @@ class Sorterrrrr implements Comparator<Integer> {
 }
 
 //
+//text
+// choice
+
+// name: ""
+// gender -> male, female, i dont want to close
 
 public class EnumExample {
     public static void main(String[] args) {
-//        Student s1 = new Student("abcd", StudentStatus.ACTIVE);
-//        Student s2 = new Student("skjdc", StudentStatus.INACTIVE);
+        Student s1 = new Student("abcd", StudentStatus.ACTIVE);
+        Student s2 = new Student("skjdc", StudentStatus.INACTIVE);
 //        Student s3 = new Student("dkjc", StudentStatus.ISASIGNED);
-//        System.out.println(s1);
-//        System.out.println(s2);
+        System.out.println(s1);
+        System.out.println(s2);
 //        // ACTIVE, PLACED, ISASIGNED
 
         List<Integer> li = Arrays.asList(3, 1, 2);

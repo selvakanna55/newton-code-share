@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jan-java-core-spring/demo/demo.iml" filepath="$PROJECT_DIR$/jan-java-core-spring/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jan-java-core-spring/ecommerce/ecommerce.iml" filepath="$PROJECT_DIR$/jan-java-core-spring/ecommerce/ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-lmp/spring-newton/newton/newton.iml" filepath="$PROJECT_DIR$/java-lmp/spring-newton/newton/newton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jan-java-core-spring/newton-jan-spring-code/newton (1) (com.project).iml" filepath="$PROJECT_DIR$/jan-java-core-spring/newton-jan-spring-code/newton (1) (com.project).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/newton-codeshare.iml" filepath="$PROJECT_DIR$/.idea/newton-codeshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-lmp/spring-products/products.iml" filepath="$PROJECT_DIR$/java-lmp/spring-products/products.iml" />
+    </modules>
+  </component>
+</project>

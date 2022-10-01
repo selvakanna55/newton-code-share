@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/java-lmp/spring-newton/newton/pom.xml" />
+        <option value="$PROJECT_DIR$/java-lmp/spring-products/pom.xml" />
+        <option value="$PROJECT_DIR$/jan-java-core-spring/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jan-java-core-spring/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/jan-java-core-spring/newton-jan-spring-code/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
