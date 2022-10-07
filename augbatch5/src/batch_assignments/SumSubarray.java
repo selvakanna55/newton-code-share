@@ -16,15 +16,21 @@ class SumSubarray {
         }
         int miniLen = n;
 
+        int j = 0;
+        long sum = 0;
         for (int i = 0; i < n; i++) {
-            long sum = 0;
-            for (int j = i; j < n; j++) {
-                sum += arr[j];
-                if (sum >= k) {
-                    miniLen = Math.min(miniLen, j - i + 1);
-                    break;
-                }
+            //add
+            while (j < n && sum < k) {
+                sum = sum + arr[j];
+                j++;
             }
+            // sum>=k may be
+            if (sum >= k) {
+                miniLen = Math.min(miniLen, j - i);
+            }
+
+            // remove
+            sum = sum - arr[i];
         }
         System.out.println(miniLen);
     }
