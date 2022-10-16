@@ -1,5 +1,10 @@
-class Main{ 
-    public static void main(String args[]){ 
+package basics;
+
+
+// rename this class as Main and
+// remove line no 1 while running in newton school playground
+class DataTypes {
+    public static void main(String args[]) {
         // System.out.println("Hello world");  // this line show Hello world in the display
         // // how to store student data
 
@@ -23,7 +28,6 @@ class Main{
         // // side- > 4cm
         // // a = 4;
         // // a*a = 16
-        
 
 
         // int number1 = 10;
@@ -55,7 +59,7 @@ class Main{
         // System.out.println(num);
         // long num2 = 1000000000000000000L; //10^19
         // System.out.println(num2);
-        
+
 
         // // float a = 10.9534345678654678654678f;
         // // double b = 10.95343456786546786546787654677656;
@@ -73,7 +77,7 @@ class Main{
         // // a = 10; // assignment
         // // int b = 40;
         // // System.out.println(b);
-    
+
         // int ans = 10; // associativy
         // System.out.println(ans);
         // ans = ans+10; // add 1
@@ -82,27 +86,25 @@ class Main{
         // System.out.println(ans);
         // ans+=10; //shorthand ans +=1
         // System.out.println(ans);
-      // == -> comparision
-      // = assignment
+        // == -> comparision
+        // = assignment
 
         // System.out.println(10!=(5*2));
-      //+, -, /, *, %
-    int a = 10;
-    System.out.println(a);    
-    a = a + 40; 
-    System.out.println(a);
-    a +=40;
-    System.out.println(a);
-    a++; // a = a+1
-    System.out.println(a);
+        //+, -, /, *, %
+        int a = 10;
+        System.out.println(a);
+        a = a + 40;
+        System.out.println(a);
+        a += 40;
+        System.out.println(a);
+        a++; // a = a+1
+        System.out.println(a);
 
-    System.out.println(10>2);
-    System.out.println(10==(2*5));
-    System.out.println(10!=(2*5)); //10 is not equal to 10
-    System.out.println(10<9);
+        System.out.println(10 > 2);
+        System.out.println(10 == (2 * 5));
+        System.out.println(10 != (2 * 5)); //10 is not equal to 10
+        System.out.println(10 < 9);
 
 
-
-    
     }
 }
