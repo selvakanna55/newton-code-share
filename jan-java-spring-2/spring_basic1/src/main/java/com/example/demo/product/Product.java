@@ -1,22 +1,19 @@
-package com.example.demo.prodcust;
+package com.example.demo.product;
 
 public class Product {
-    String name;
-    int price;
+    int id;
+
+    public Product(int id, String name, int price) {
+        this.id = id;
+        this.name = name;
+        this.price = price;
+    }
 
     public int getId() {
         return id;
     }
 
     public void setId(int id) {
-        this.id = id;
-    }
-
-    int id;
-
-    public Product(String name, int price, int id) {
-        this.name = name;
-        this.price = price;
         this.id = id;
     }
 
@@ -35,4 +32,8 @@ public class Product {
     public void setPrice(int price) {
         this.price = price;
     }
+
+    String name;
+    int price;
+
 }

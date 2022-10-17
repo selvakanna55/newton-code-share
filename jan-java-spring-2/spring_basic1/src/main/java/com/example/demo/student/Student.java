@@ -25,13 +25,14 @@ public class Student {
         this.percentage = percentage;
     }
 
-    String name;
-
     public Student(String name, int rollNo, double percentage) {
         this.name = name;
         this.rollNo = rollNo;
         this.percentage = percentage;
     }
+
+    String name;
+
 
     int rollNo;
     double percentage;
