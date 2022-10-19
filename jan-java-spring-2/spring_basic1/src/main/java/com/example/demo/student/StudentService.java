@@ -17,7 +17,7 @@ public class StudentService {
         students.add(new Student("MNOp", 7, 90.5));
     }
 
-    Student createStudent(@RequestBody Student student) {
+    Student createStudent(Student student) {
         students.add(student);
         return student;
     }
@@ -26,7 +26,7 @@ public class StudentService {
         return students;
     }
 
-    Student getStudentByRollNo(@PathVariable int rollNo) {
+    Student getStudentByRollNo(int rollNo) {
         for (int i = 0; i < students.size(); i++) {
             if (students.get(i).rollNo == rollNo) {
                 return students.get(i);
@@ -35,7 +35,7 @@ public class StudentService {
         return null;
     }
 
-    boolean updateStudent(@RequestBody Student student) {
+    boolean updateStudent(Student student) {
         boolean isUpdated = false;
 
         for (int i = 0; i < students.size(); i++) {
@@ -48,7 +48,7 @@ public class StudentService {
         return isUpdated;
     }
 
-    boolean deleteStudent(@PathVariable int rollNo) {
+    boolean deleteStudent(int rollNo) {
         boolean isDelete = false;
         for (int i = 0; i < students.size(); i++) {
             if (students.get(i).rollNo == rollNo) {
