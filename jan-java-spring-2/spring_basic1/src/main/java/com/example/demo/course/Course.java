@@ -1,7 +1,17 @@
 package com.example.demo.course;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
 
+@Entity
 public class Course {
+    Course() {
+    }
+
+    @Id
+    int id;
+    String name;
+
     public int getId() {
         return id;
     }
@@ -18,8 +28,6 @@ public class Course {
         this.name = name;
     }
 
-    int id;
-    String name;
 
     public Course(int id, String name) {
         this.id = id;

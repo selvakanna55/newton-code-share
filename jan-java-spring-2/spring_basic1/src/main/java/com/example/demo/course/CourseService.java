@@ -1,42 +1,33 @@
 package com.example.demo.course;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestBody;
 
 import java.util.ArrayList;
 import java.util.List;
 
 @Service
 public class CourseService {
-    List<Course> courseList = new ArrayList<>();
+
+    @Autowired
+    CourseRepository courseRepository;
 
     List<Course> getAllCourse() {
-        return courseList;
+        return (List<Course>) courseRepository.findAll();
     }
 
     boolean addCourse(Course courseObj) {
-        courseList.add(courseObj);
+        courseRepository.save(courseObj);
         return true;
     }
 
     boolean updateCourse(Course courseObj) {
-        for (int i = 0; i < courseList.size(); i++) {
-            if (courseObj.id == courseList.get(i).id) {
-                courseList.set(i, courseObj);
-                return true;
-            }
-        }
-        return false;
+        courseRepository.save(courseObj);
+        return true;
     }
 
     boolean deleteCourse(int id) {
-        for (int i = 0; i < courseList.size(); i++) {
-            if (id == courseList.get(i).id) {
-                courseList.remove(i);
-                return true;
-            }
-        }
-        return false;
+        courseRepository.deleteById(id);
+        return true;
     }
 }
