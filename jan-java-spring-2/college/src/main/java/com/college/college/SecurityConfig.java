@@ -13,8 +13,9 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
-        auth.inMemoryAuthentication().withUser("abhishek").password("abhishek").roles("admin");
-        auth.inMemoryAuthentication().withUser("jai").password("jai").roles("professor");
+
+//        auth.inMemoryAuthentication().withUser("abhishek").password("abhishek").roles("admin");
+//        auth.inMemoryAuthentication().withUser("jai").password("jai").roles("professor");
         auth.inMemoryAuthentication().withUser("newton").password("newton").roles("admin");
     }
 
@@ -23,12 +24,14 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         return NoOpPasswordEncoder.getInstance();
     }
 
+    //
     @Override
     protected void configure(HttpSecurity http) throws Exception {
-        http.authorizeRequests()
-                .antMatchers("/departments").hasRole("admin")
-                .antMatchers("/courses").hasRole("professor")
-                .and().formLogin();
+        http.csrf().disable();
+//        http.authorizeRequests()
+//                .antMatchers("/departments").hasRole("admin")
+//                .antMatchers("/courses").hasRole("professor")
+//                .and().formLogin();
     }
 }
 

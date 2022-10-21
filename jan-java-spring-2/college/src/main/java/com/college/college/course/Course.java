@@ -1,7 +1,11 @@
 package com.college.college.course;
 
+import com.college.college.departments.Department;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
 
 @Entity
 public class Course {
@@ -11,10 +15,11 @@ public class Course {
     public Course() {
     }
 
-    public Course(int id, String name, int hours) {
+    public Course(int id, String name, int hours, Department department) {
         this.id = id;
         this.name = name;
         this.hours = hours;
+        this.department = department;
     }
 
     public int getId() {
@@ -43,4 +48,15 @@ public class Course {
 
     String name;
     int hours;
+
+    public Department getDepartment() {
+        return department;
+    }
+
+    public void setDepartment(Department department) {
+        this.department = department;
+    }
+
+    @ManyToOne
+    Department department;
 }

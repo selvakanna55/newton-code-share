@@ -1,5 +1,7 @@
 package com.college.college.course;
 
+import com.college.college.departments.Department;
+import com.college.college.departments.DepartmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -9,9 +11,11 @@ import java.util.List;
 public class CourseController {
     @Autowired
     CourseService courseService;
+    @Autowired
+    DepartmentService departmentService;
 
     @GetMapping("/courses")
-    List<Course> getAllCourses( @RequestParam(required = false) Integer mark) {
+    List<Course> getAllCourses(@RequestParam(required = false) Integer mark) {
         System.out.println(mark);
         return courseService.getAllCourses();
     }
@@ -21,8 +25,9 @@ public class CourseController {
         return courseService.getCourseById(id);
     }
 
-    @PostMapping("/courses")
-    boolean addCourse(@RequestBody Course course) {
+    @PostMapping("/department/{deptId}/course")
+    boolean addCourse(@PathVariable Integer deptId, @RequestBody Course course) {
+            course.department = departmentService.getDepartmentById(deptId);
         return courseService.addCourse(course);
     }
 
