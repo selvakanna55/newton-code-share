@@ -1,4 +1,4 @@
-package basics;
+package input_output_datatypes;
 
 
 // rename this class as Main and

@@ -1,4 +1,4 @@
-package basics;
+package conditions;
 
 
 class LoopsRecap { //class

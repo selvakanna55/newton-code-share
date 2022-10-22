@@ -1,4 +1,4 @@
-package basics;
+package input_output_datatypes;
 
 // rename this class as Main and
 // remove line no 1 while running in newton school playground

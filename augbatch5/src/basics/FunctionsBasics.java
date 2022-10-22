@@ -1,4 +1,4 @@
-package basics;
+package input_output_datatypes;
 
 public class FunctionsBasics {
     // public static return type function name

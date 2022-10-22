@@ -1,4 +1,4 @@
-package basics;
+package input_output_datatypes;
 
 public class TypeCasting {
     public static void main(String[] args) {

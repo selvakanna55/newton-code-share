@@ -1,4 +1,4 @@
-package basics;
+package input_output_datatypes;
 
 class Day1Recap {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package basics;
+package input_output_datatypes;
 
 import java.util.*;
 import java.lang.*;
