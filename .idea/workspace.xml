@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/october-ms/basics/DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/october-ms/basics/InputOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/october-ms/basics/Loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/october-ms/basics/LoopsRecap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/october-ms/basics/PatternPrinting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/october-ms/basics/SimpleOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/conditions/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/conditions/ReverseNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +43,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LoopsRecap2">
-    <configuration name="ConditionsRecap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditions.ConditionsRecap" />
+  <component name="RunManager" selected="Application.InputOutPut2">
+    <configuration name="BufferReaderInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output_datatypes.BufferReaderInput" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditions.*" />
+          <option name="PATTERN" value="input_output_datatypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditions.Loops" />
+    <configuration name="InputOutPut2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output_datatypes.InputOutPut2" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditions.*" />
+          <option name="PATTERN" value="input_output_datatypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print010203Inter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.Print010203Inter" />
-      <module name="playground" />
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditions.ReverseNumber" />
+      <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print010203Inter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.Print010203Inter" />
-      <module name="playground" />
+    <configuration name="Typecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output_datatypes.Typecasting" />
+      <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="input_output_datatypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputOutPut2" />
+        <item itemvalue="Application.Typecasting" />
+        <item itemvalue="Application.BufferReaderInput" />
+        <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.LoopsRecap2" />
-        <item itemvalue="Application.ConditionsRecap" />
-        <item itemvalue="Application.Loops" />
-        <item itemvalue="Application.Print010203Inter (1)" />
-        <item itemvalue="Application.Print010203Inter" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +163,16 @@
           <url>file://$PROJECT_DIR$/october-ms/src/conditions/LoopsRecap2.java</url>
           <line>28</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/conditions/ReverseNumber.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/input_output_datatypes/Typecasting.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
