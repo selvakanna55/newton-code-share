@@ -1,3 +1,5 @@
+package batch_assignments;
+
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
 
@@ -22,7 +24,7 @@ class LinearProbingInHashing {
                 int hash = hashf(num, hashSize);
                 int i = 0;
 
-                while (i < hashSize && ht[(hash + i))%hashSize]!=-1){
+                while (i < hashSize && ht[(hash + i) % hashSize] != -1) {
                     i++; // linear probing
                 }
                 if (i < hashSize) {
