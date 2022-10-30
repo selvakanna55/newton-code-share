@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class FunctionsNoParameter {
     // function definition
     public static void printHai() {
@@ -11,9 +13,17 @@ public class FunctionsNoParameter {
         System.out.println("I'm Learning");
     }
 
+    // function defntion
+    public static void printHello() {
+        System.out.println("how are you?");
+        System.out.println("Im fine");
+    }
+
     public static void main(String[] args) {
         System.out.println("begin");
-        newtonSchool(); // function call
+        printHello();// calling the function
+        System.out.println("ok");
+        printHello();
         System.out.println("end");
     }
 }
