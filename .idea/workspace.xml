@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="">
+    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/SarasPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/conditions/Patterns.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newton-code-share.iml" beforeDir="false" afterPath="$PROJECT_DIR$/newton-code-share.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/arrays/ArrayBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/arrays/ArrayBasics.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayBasics">
+  <component name="RunManager" selected="Application.Patterns">
     <configuration name="ArrayBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.ArrayBasics" />
       <module name="october-ms" />
@@ -75,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputOutPut2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="input_output_datatypes.InputOutPut2" />
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditions.Patterns" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="input_output_datatypes.*" />
+          <option name="PATTERN" value="conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Patterns" />
         <item itemvalue="Application.ArrayBasics" />
         <item itemvalue="Application.FunctionParameter" />
         <item itemvalue="Application.FunctionsNoParameter" />
         <item itemvalue="Application.Typecasting" />
-        <item itemvalue="Application.InputOutPut2" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +125,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666432679983</updated>
     </task>
+    <task id="LOCAL-00001" summary="next class ques">
+      <created>1667236155219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667236155220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +145,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="next class ques" />
+    <option name="LAST_COMMIT_MESSAGE" value="next class ques" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -195,6 +212,21 @@
           <url>file://$PROJECT_DIR$/october-ms/src/arrays/ArrayBasics.java</url>
           <line>7</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/conditions/Patterns.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/conditions/Patterns.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/conditions/Patterns.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
