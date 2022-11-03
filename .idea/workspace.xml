@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/SarasPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/conditions/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/arrays/ArrayBasic1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/Dishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/MaximumMinimumArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newton-code-share.iml" beforeDir="false" afterPath="$PROJECT_DIR$/newton-code-share.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/october-ms/arrays/ArrayBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/arrays/ArrayBasics.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Patterns">
+  <component name="RunManager" selected="Application.MaximumMinimumArray">
+    <configuration name="ArrayBasic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.ArrayBasic1" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.ArrayBasics" />
       <module name="october-ms" />
@@ -66,16 +77,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionParameter" />
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.ForLoop" />
       <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionsNoParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsNoParameter" />
+    <configuration name="MaximumMinimumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.MaximumMinimumArray" />
       <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,26 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Typecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="input_output_datatypes.Typecasting" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="input_output_datatypes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumMinimumArray" />
+        <item itemvalue="Application.ArrayBasic1" />
+        <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.Patterns" />
         <item itemvalue="Application.ArrayBasics" />
-        <item itemvalue="Application.FunctionParameter" />
-        <item itemvalue="Application.FunctionsNoParameter" />
-        <item itemvalue="Application.Typecasting" />
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +237,31 @@
           <url>file://$PROJECT_DIR$/october-ms/src/conditions/Patterns.java</url>
           <line>72</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/assignments/ForLoop.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/arrays/ArrayBasic1.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/arrays/ArrayBasic1.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/assignments/MaximumMinimumArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/assignments/MaximumMinimumArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
