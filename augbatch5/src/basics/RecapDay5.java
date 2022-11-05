@@ -1,6 +1,5 @@
-package input_output_datatypes;
+package basics;
 
-import com.sun.corba.se.impl.legacy.connection.USLPort;
 
 import java.util.Scanner;
 

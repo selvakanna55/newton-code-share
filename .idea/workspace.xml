@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques" />
+    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/oops/BasicsOOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/oops/FunctionOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/oops/inheritance/SingleInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augbatch5/src/basics/LoopsBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/augbatch5/src/basics/LoopsBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augbatch5/src/basics/RecapDay5.java" beforeDir="false" afterPath="$PROJECT_DIR$/augbatch5/src/basics/RecapDay5.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,24 +41,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Kannan/Documents/GitHub/newton-code-share/july",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kannan/Documents/GitHub/newton-code-share/july&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SecondLargest">
-    <configuration name="ArrayBasic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ArrayBasic1" />
-      <module name="october-ms" />
+}</component>
+  <component name="RunManager" selected="Application.SingleInheritance">
+    <configuration name="BasicsOOps (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.BasicsOOps" />
+      <module name="augbatch5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumMinimumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.MaximumMinimumArray" />
-      <module name="october-ms" />
+    <configuration name="BasicsOOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.BasicsOOps" />
+      <module name="augbatch5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,19 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedRemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeTwoSortedRemoveDuplicates" />
-      <module name="july" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Print010203Inter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.Print010203Inter" />
-      <module name="playground" />
+    <configuration name="FunctionOverloading (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.FunctionOverloading" />
+      <module name="augbatch5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,20 +92,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondLargest" />
-      <module name="july" />
+    <configuration name="FunctionOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.FunctionOverloading" />
+      <module name="augbatch5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.inheritance.SingleInheritance" />
+      <module name="augbatch5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SecondLargest" />
-        <item itemvalue="Application.MergeTwoSortedRemoveDuplicates" />
-        <item itemvalue="Application.Print010203Inter" />
-        <item itemvalue="Application.MaximumMinimumArray" />
-        <item itemvalue="Application.ArrayBasic1" />
+        <item itemvalue="Application.SingleInheritance" />
+        <item itemvalue="Application.BasicsOOps" />
+        <item itemvalue="Application.BasicsOOps (1)" />
+        <item itemvalue="Application.FunctionOverloading" />
+        <item itemvalue="Application.FunctionOverloading (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -131,11 +150,41 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="64a2ee88-981b-40d2-aab4-8b617417b81a">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Kannan/Documents/GitHub/newton-code-share/augbatch5" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="64a2ee88-981b-40d2-aab4-8b617417b81a" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -250,6 +299,21 @@
           <url>file://$PROJECT_DIR$/july/src/SecondLargest.java</url>
           <line>8</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/augbatch5/src/oops/BasicsOOps.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/augbatch5/src/oops/FunctionOverloading.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/augbatch5/src/oops/inheritance/SingleInheritance.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

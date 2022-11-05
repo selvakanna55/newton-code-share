@@ -1,6 +1,4 @@
-package input_output_datatypes;
-
-import com.sun.corba.se.impl.legacy.connection.USLPort;
+package basics;
 
 // class, functions, loops, condtions
 //{ -> begin
