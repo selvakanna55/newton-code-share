@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arrays/ArrayBasic1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/Dishes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/MaximumMinimumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july/src/MergeTwoSortedRemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/multithreading/Print010203Inter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/multithreading/Print010203Inter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/multithreading/Thread012.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/multithreading/Thread012.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,33 +40,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kannan/Documents/GitHub/newton-code-share/augbatch5&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Kannan/Documents/GitHub/newton-code-share/july",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.MaximumMinimumArray">
+}]]></component>
+  <component name="RunManager" selected="Application.MergeTwoSortedRemoveDuplicates">
     <configuration name="ArrayBasic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.ArrayBasic1" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ArrayBasics" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditions.Patterns" />
-      <module name="october-ms" />
+    <configuration name="MergeTwoSortedRemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeTwoSortedRemoveDuplicates" />
+      <module name="july" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print010203Inter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.Print010203Inter" />
+      <module name="playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditions.*" />
+          <option name="PATTERN" value="multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeTwoSortedRemoveDuplicates" />
+        <item itemvalue="Application.Print010203Inter" />
         <item itemvalue="Application.MaximumMinimumArray" />
         <item itemvalue="Application.ArrayBasic1" />
         <item itemvalue="Application.ForLoop" />
-        <item itemvalue="Application.Patterns" />
-        <item itemvalue="Application.ArrayBasics" />
       </list>
     </recent_temporary>
   </component>
