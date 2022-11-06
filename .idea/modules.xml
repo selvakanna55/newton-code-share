@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/augbatch5/augbatch5.iml" filepath="$PROJECT_DIR$/augbatch5/augbatch5.iml" />
       <module fileurl="file://$PROJECT_DIR$/july/july.iml" filepath="$PROJECT_DIR$/july/july.iml" />
+      <module fileurl="file://$PROJECT_DIR$/july-advance/july-advance.iml" filepath="$PROJECT_DIR$/july-advance/july-advance.iml" />
       <module fileurl="file://$PROJECT_DIR$/newton-code-share.iml" filepath="$PROJECT_DIR$/newton-code-share.iml" />
       <module fileurl="file://$PROJECT_DIR$/october-ms/october-ms.iml" filepath="$PROJECT_DIR$/october-ms/october-ms.iml" />
       <module fileurl="file://$PROJECT_DIR$/playground/playground.iml" filepath="$PROJECT_DIR$/playground/playground.iml" />
