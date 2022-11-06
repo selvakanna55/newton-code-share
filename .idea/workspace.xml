@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/july-advance/july-advance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-advance/src/CountNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-advance/src/IncreasingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-advance/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-advance/src/nextclass.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/TimeSpace/TimeBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/StrangeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +51,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SingleInheritance">
+  <component name="RunManager" selected="Application.TimeBasic">
     <configuration name="BasicsOOps (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.BasicsOOps" />
       <module name="augbatch5" />
@@ -69,19 +67,6 @@
     </configuration>
     <configuration name="BasicsOOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.BasicsOOps" />
-      <module name="augbatch5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionOverloading (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.FunctionOverloading" />
       <module name="augbatch5" />
       <extension name="coverage">
         <pattern>
@@ -119,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimeBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeSpace.TimeBasic" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TimeSpace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimeBasic" />
         <item itemvalue="Application.SingleInheritance" />
         <item itemvalue="Application.BasicsOOps" />
         <item itemvalue="Application.BasicsOOps (1)" />
         <item itemvalue="Application.FunctionOverloading" />
-        <item itemvalue="Application.FunctionOverloading (1)" />
       </list>
     </recent_temporary>
   </component>
