@@ -46,17 +46,3 @@ public class SingleInheritance {
 }
 
 
-
-//
-//    Pratibha Rajendrapra...
-//        6m ago
-//
-//        Lec on time complexity
-//        Archana Satyanarayan...
-//        just now
-//
-//        hashing
-//        Mohd Isham
-//        just now
-//
-//        quick sort && hashing

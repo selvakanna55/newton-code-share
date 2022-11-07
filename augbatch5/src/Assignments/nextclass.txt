@@ -4,3 +4,11 @@ https://my.newtonschool.co/playground/code/ovd9s4tblevf/
 https://my.newtonschool.co/playground/code/fuidgukuu9t4/
 
 https://my.newtonschool.co/playground/code/htkbicc8wa2e/
+
+
+
+
+
+//        Lec on time complexity
+//        hashing
+//        quick sort && hashing
