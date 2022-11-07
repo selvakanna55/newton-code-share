@@ -1,4 +1,5 @@
-package input_output_datatypes;
+package basics;
+import oops.inheritance.SingleInheritance;
 
 public class Day3 {
     public static void main(String[] args) {

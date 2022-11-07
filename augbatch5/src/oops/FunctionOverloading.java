@@ -1,7 +1,17 @@
 package oops;
 
 class Calculator {
-    int add(int a, int b) {
+    static class InnerClass {
+        void hello() {
+            System.out.println("hi");
+        }
+    }
+
+    static int sum;
+    int num = 10;
+
+    static int add(int a, int b) {
+
         return a + b;
     }
 
@@ -23,6 +33,11 @@ class Calculator {
 public class FunctionOverloading {
     public static void main(String[] args) {
         Calculator calc = new Calculator();
+        calc.sum = 10;
+        Calculator.sum = 10;
+        Calculator.add(10, 20);
+        Calculator.InnerClass ic = new Calculator.InnerClass();
+//        Calculator.num = 10;
         System.out.println(calc.add(10, 20));
         System.out.println(calc.add(10, 20));
         System.out.println(calc.add(10.5, 20.2));
