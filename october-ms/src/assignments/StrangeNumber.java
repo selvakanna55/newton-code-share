@@ -2,6 +2,7 @@ package assignments;
 
 public class StrangeNumber {
     public static void main(String[] args) {
+        // nlogn
         int n = 3;
 //        System.out.println((n - 1) * 9);
         int strange = 0;
@@ -20,6 +21,7 @@ public class StrangeNumber {
 
             }
         }
+        // n^2
         System.out.println(strange);
     }
 }

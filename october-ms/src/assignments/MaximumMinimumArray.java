@@ -9,7 +9,7 @@ class MaximumMinimumArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int testcase = sc.nextInt();
-        for (int prob = 1; prob <= testcase; prob++) {
+        for (int prob = 1; prob <= testcase; prob++) { //n*(3n) -> 3n^2 -> n^2
             int n = sc.nextInt();
             int arr[] = new int[n];
             for (int i = 0; i < n; i++) {
