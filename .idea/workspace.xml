@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arrays/CountFreqOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/MaxFreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/arrays/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/CountDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/MaximumDifferenceArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/TimeSpace/TimeBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/TimeSpace/TimeBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/assignments/AppleAndOranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/AppleAndOranges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/assignments/ConsecutivesContest.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/ConsecutivesContest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/assignments/Donation.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/Donation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/assignments/MaxNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/MaxNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/assignments/MaximumMinimumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/MaximumMinimumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/assignments/StrangeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/StrangeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/assignments/TriangleRightAngle.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/TriangleRightAngle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/assignments/WaitingTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/WaitingTime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,21 +60,8 @@
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\slides" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxFreq">
+  <component name="RunManager" selected="Application.LinearSearch">
     <configuration name="AbstractionExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
-      <module name="augbatch5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AbstractionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
       <module name="augbatch5" />
       <extension name="coverage">
@@ -97,6 +76,19 @@
     </configuration>
     <configuration name="CountFreqOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.CountFreqOfNumber" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.LinearSearch" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.MaxFreq" />
         <item itemvalue="Application.TimeBasic" />
         <item itemvalue="Application.CountFreqOfNumber" />
         <item itemvalue="Application.AbstractionExample (2)" />
-        <item itemvalue="Application.AbstractionExample" />
       </list>
     </recent_temporary>
   </component>
