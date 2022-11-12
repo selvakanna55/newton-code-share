@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/july/src/GuardiansOfGalaxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july/src/IntersectionOfTwoLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july/src/MaxWidowSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july/src/MaximumSubarraySumModuloM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july/src/NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july/src/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july/src/QueryTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july/src/ReverseAnything.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july/src/ReverseLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -421,12 +412,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/july/src/ReverseLinkedList.java</url>
-          <line>28</line>
+          <line>30</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/july/src/ReverseLinkedList.java</url>
-          <line>47</line>
+          <line>49</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
