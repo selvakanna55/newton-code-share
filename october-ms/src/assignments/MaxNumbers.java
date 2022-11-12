@@ -1,28 +1,29 @@
 package assignments;
 
+import java.io.*;
 
-import java.util.Scanner;
 
 // don't change the name of this class
 // you can add inner classes if needed
-class MaxNumbers {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt();
-        for (int testcase = 1; testcase <= t; testcase++) { //n*(4n) -> 4n^2 -> n^2
-            // t*(4n)
-            int n = sc.nextInt();
+public class MaxNumbers {
+    public static void main(String[] args) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        int t = Integer.parseInt(reader.readLine()); // convert string to integer
+        for (double testcase = 1; testcase <= t; testcase++) {
+            int n = Integer.parseInt(reader.readLine()); //"5" -> 5
+            String nums[] = reader.readLine().split(" "); // {"1", "4", "2", "4", "5"}
+            // {1, 4, 2, 4, 5}
             int arr[] = new int[n];
             for (int i = 0; i < n; i++) {
-                arr[i] = sc.nextInt();
-            } //n
+                arr[i] = Integer.parseInt(nums[i]);
+            }
             int firstMaxiIdx = -1, firstMaxi = -1;
             for (int i = 0; i < n; i++) {
                 if (firstMaxi < arr[i]) {
                     firstMaxi = arr[i];
                     firstMaxiIdx = i;
                 }
-            } //n
+            }
             arr[firstMaxiIdx] = -1;
 
             int secondMaxiIdx = -1, secondMaxi = -1;
@@ -31,7 +32,7 @@ class MaxNumbers {
                     secondMaxi = arr[i];
                     secondMaxiIdx = i;
                 }
-            } //n
+            }
 
             arr[secondMaxiIdx] = -1;
 
@@ -42,8 +43,8 @@ class MaxNumbers {
                     thirdMaxi = arr[i];
                     thirdMaxiIdx = i;
                 }
-            } //n
-            // n+ n+ n+n => 4n
+            }
+
             System.out.println(firstMaxi + " " + secondMaxi + " " + thirdMaxi);
         }
     }
