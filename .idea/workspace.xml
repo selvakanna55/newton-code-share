@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
+      <change afterPath="$PROJECT_DIR$/october-ms/src/arrays/twod/Day2TwoD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/arrays/twod/MatrixAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/arrays/twod/PatternStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,24 +60,42 @@
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\slides" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoDSame">
-    <configuration name="QueryTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueryTime" />
-      <module name="july" />
+  <component name="RunManager" selected="Application.MatrixAddition">
+    <configuration name="Day2TwoD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.twod.Day2TwoD" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.twod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseLinkedList" />
-      <module name="july" />
+    <configuration name="MatrixAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.twod.MatrixAddition" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.twod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseLinkedList" />
-      <module name="july" />
+    <configuration name="PatternStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.twod.PatternStar" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.twod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixAddition" />
+        <item itemvalue="Application.Day2TwoD" />
+        <item itemvalue="Application.PatternStar" />
         <item itemvalue="Application.TwoDSame" />
         <item itemvalue="Application.TwoD" />
-        <item itemvalue="Application.QueryTime" />
-        <item itemvalue="Application.ReverseLinkedList (2)" />
-        <item itemvalue="Application.ReverseLinkedList (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -456,6 +477,36 @@
           <url>file://$PROJECT_DIR$/october-ms/src/arrays/twod/TwoD.java</url>
           <line>62</line>
           <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/arrays/twod/Day2TwoD.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/arrays/twod/Day2TwoD.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/arrays/twod/Day2TwoD.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/arrays/twod/Day2TwoD.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/arrays/twod/Day2TwoD.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/arrays/twod/MatrixAddition.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="106" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
