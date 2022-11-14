@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arrays/twod/Day2TwoD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arrays/twod/MatrixAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arrays/twod/PatternStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\slides" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MatrixAddition">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Day2TwoD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.twod.Day2TwoD" />
       <module name="october-ms" />
@@ -70,6 +70,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="nov-dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,19 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.twod.TwoD" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.twod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwoDSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.twod.TwoDSame" />
       <module name="october-ms" />
@@ -128,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MatrixAddition" />
         <item itemvalue="Application.Day2TwoD" />
         <item itemvalue="Application.PatternStar" />
         <item itemvalue="Application.TwoDSame" />
-        <item itemvalue="Application.TwoD" />
       </list>
     </recent_temporary>
   </component>
