@@ -1,4 +1,4 @@
-package Assignments;
+package batch_assignments;
 
 
 import java.util.Scanner;
