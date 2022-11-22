@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/ScannerReacp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/modulo/ApowBLogn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/modulo/Hashing1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/MatrixZigZagTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/NNContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/StrangeElementEasyVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/ValueOfPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/FunctionParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/FunctionParameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/october-ms/FunctionParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/FunctionParameter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +67,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ArrayReacp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ArrayReacp2" />
-      <module name="october-ms" />
+  <component name="RunManager" selected="Application.Hashing1">
+    <configuration name="ApowBLogn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo.ApowBLogn" />
+      <module name="augbatch5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="modulo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,22 +88,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="nov-dsa" />
+    <configuration name="Hashing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo.Hashing1" />
+      <module name="augbatch5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModifyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.ModifyString" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="nov-dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,19 +122,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ApowBLogn" />
+      <item itemvalue="Application.Hashing1" />
       <item itemvalue="Application.FunctionParameter" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ArrayReacp2" />
       <item itemvalue="Application.TwoDRecap" />
-      <item itemvalue="Application.ModifyString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hashing1" />
+        <item itemvalue="Application.ApowBLogn" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FunctionParameter" />
         <item itemvalue="Application.TwoDRecap" />
-        <item itemvalue="Application.ArrayReacp2" />
-        <item itemvalue="Application.ModifyString" />
       </list>
     </recent_temporary>
   </component>
@@ -633,6 +634,16 @@
           <url>file://$PROJECT_DIR$/october-ms/src/arrays/TwoDRecap.java</url>
           <line>19</line>
           <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/augbatch5/src/modulo/Hashing1.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/augbatch5/src/modulo/Hashing1.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
