@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/augbatch5/src/batch_assignments/AlternateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/augbatch5/src/modulo/KadanesAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/augbatch5/src/modulo/LinearProbing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/batch_assignments/DivisibilityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/batch_assignments/RightMost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/modulo/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/arraylist/ArrayFiniteness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/arraylist/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/arraylist/ArrayObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/arraylist/WrapperClasses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/string/DivisibilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/DivisibilityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/FunctionParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/FunctionParameter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,16 +67,17 @@
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\slides" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="batch_assignments" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KadanesAlgo">
-    <configuration name="ApowBLogn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo.ApowBLogn" />
-      <module name="augbatch5" />
+  <component name="RunManager" selected="Application.ArrayListExample">
+    <configuration name="ArrayFiniteness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylist.ArrayFiniteness" />
+      <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo.*" />
+          <option name="PATTERN" value="arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +85,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hashing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo.Hashing1" />
-      <module name="augbatch5" />
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylist.ArrayListExample" />
+      <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo.*" />
+          <option name="PATTERN" value="arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylist.ArrayObject" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearProbing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo.LinearProbing" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo.QuickSort" />
       <module name="augbatch5" />
       <extension name="coverage">
         <pattern>
@@ -117,27 +137,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="nov-dsa" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.ArrayFiniteness" />
+      <item itemvalue="Application.ArrayListExample" />
+      <item itemvalue="Application.ArrayObject" />
+      <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.KadanesAlgo" />
-      <item itemvalue="Application.LinearProbing" />
-      <item itemvalue="Application.ApowBLogn" />
-      <item itemvalue="Application.Hashing1" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.ArrayObject" />
+        <item itemvalue="Application.ArrayFiniteness" />
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.KadanesAlgo" />
-        <item itemvalue="Application.LinearProbing" />
-        <item itemvalue="Application.Hashing1" />
-        <item itemvalue="Application.ApowBLogn" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -653,11 +666,31 @@
           <line>61</line>
           <option name="timeStamp" value="128" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/augbatch5/src/modulo/QuickSort.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/arraylist/ArrayFiniteness.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/arraylist/ArrayListExample.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="arr2.get(0)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
