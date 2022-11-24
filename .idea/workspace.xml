@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/augbatch5/src/modulo/ApowBLogn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/augbatch5/src/modulo/Hashing1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/MatrixZigZagTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/NNContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/StrangeElementEasyVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/ValueOfPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/batch_assignments/AlternateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/modulo/KadanesAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/modulo/LinearProbing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kannan/Documents/GitHub/newton-code-share/nov-dsa&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kannan/Documents/GitHub/interviewcodingpractise&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -67,7 +64,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hashing1">
+  <component name="RunManager" selected="Application.KadanesAlgo">
     <configuration name="ApowBLogn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modulo.ApowBLogn" />
       <module name="augbatch5" />
@@ -81,15 +78,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionParameter" />
-      <module name="october-ms" />
+    <configuration name="Hashing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo.Hashing1" />
+      <module name="augbatch5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hashing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo.Hashing1" />
+    <configuration name="KadanesAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo.KadanesAlgo" />
+      <module name="augbatch5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearProbing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo.LinearProbing" />
       <module name="augbatch5" />
       <extension name="coverage">
         <pattern>
@@ -108,33 +124,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDRecap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.TwoDRecap" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.KadanesAlgo" />
+      <item itemvalue="Application.LinearProbing" />
       <item itemvalue="Application.ApowBLogn" />
       <item itemvalue="Application.Hashing1" />
-      <item itemvalue="Application.FunctionParameter" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.TwoDRecap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KadanesAlgo" />
+        <item itemvalue="Application.LinearProbing" />
         <item itemvalue="Application.Hashing1" />
         <item itemvalue="Application.ApowBLogn" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FunctionParameter" />
-        <item itemvalue="Application.TwoDRecap" />
       </list>
     </recent_temporary>
   </component>
@@ -644,6 +647,11 @@
           <url>file://$PROJECT_DIR$/augbatch5/src/modulo/Hashing1.java</url>
           <line>31</line>
           <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/augbatch5/src/modulo/LinearProbing.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
