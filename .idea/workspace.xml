@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/augbatch5/src/batch_assignments/DivisibilityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/augbatch5/src/batch_assignments/RightMost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/augbatch5/src/modulo/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arraylist/ArrayFiniteness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arraylist/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arraylist/ArrayObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arraylist/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/batch_assignments/Aliceslibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/augbatch5/src/batch_assignments/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/Bidding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/CheckingANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/OddOrEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/TriangleRightAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/WeekName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/branch/IfElseS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/branch/LoopsBasics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/string/DivisibilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/DivisibilityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/october-ms/FunctionParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/FunctionParameter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +73,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListExample">
-    <configuration name="ArrayFiniteness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.ArrayFiniteness" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LoopsBasics">
     <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraylist.ArrayListExample" />
       <module name="october-ms" />
@@ -111,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KadanesAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo.KadanesAlgo" />
-      <module name="augbatch5" />
+    <configuration name="IfElseS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="branch.IfElseS" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo.*" />
+          <option name="PATTERN" value="branch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +113,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo.QuickSort" />
-      <module name="augbatch5" />
+    <configuration name="LoopsBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="branch.LoopsBasics" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo.*" />
+          <option name="PATTERN" value="branch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeekName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.WeekName" />
+      <module name="nov-dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,19 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayFiniteness" />
+      <item itemvalue="Application.IfElseS" />
+      <item itemvalue="Application.LoopsBasics" />
+      <item itemvalue="Application.WeekName" />
       <item itemvalue="Application.ArrayListExample" />
       <item itemvalue="Application.ArrayObject" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.KadanesAlgo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoopsBasics" />
+        <item itemvalue="Application.WeekName" />
+        <item itemvalue="Application.IfElseS" />
         <item itemvalue="Application.ArrayListExample" />
         <item itemvalue="Application.ArrayObject" />
-        <item itemvalue="Application.ArrayFiniteness" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.KadanesAlgo" />
       </list>
     </recent_temporary>
   </component>
@@ -681,16 +683,41 @@
           <line>36</line>
           <option name="timeStamp" value="137" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/branch/IfElseS.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/branch/IfElseS.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/branch/IfElseS.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/assignments/WeekName.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/assignments/WeekName.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/assignments/WeekName.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="arr2.get(0)" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
