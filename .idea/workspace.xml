@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/augbatch5/src/batch_assignments/Aliceslibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/augbatch5/src/batch_assignments/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/Bidding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/CheckingANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/OddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/TriangleRightAngle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/WeekName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/branch/IfElseS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/branch/LoopsBasics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
