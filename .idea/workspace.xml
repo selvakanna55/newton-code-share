@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recursion/FunctionWorking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recursion/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recursion/RecursionBase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/PrintPatternRecursionNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/QueensAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +63,14 @@
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\slides" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="recursion" />
       <recent name="batch_assignments" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="FunctionWorking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.FunctionWorking" />
+  <component name="RunManager" selected="Application.PrintPatternRecursionNew">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Factorial" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -79,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="branch.LoopsBasics" />
-      <module name="nov-dsa" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Fibonacci" />
+      <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="branch.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,8 +108,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionBase1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.RecursionBase1" />
+    <configuration name="PrintPatternRecursionNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.PrintPatternRecursionNew" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum1ToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Sum1ToN" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -118,33 +134,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeekName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.WeekName" />
-      <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.FunctionWorking" />
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.Fibonacci" />
+      <item itemvalue="Application.PrintPatternRecursionNew" />
+      <item itemvalue="Application.Sum1ToN" />
       <item itemvalue="Application.Palindrome" />
-      <item itemvalue="Application.RecursionBase1" />
-      <item itemvalue="Application.LoopsBasics" />
-      <item itemvalue="Application.WeekName" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintPatternRecursionNew" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Sum1ToN" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.RecursionBase1" />
-        <item itemvalue="Application.FunctionWorking" />
-        <item itemvalue="Application.LoopsBasics" />
-        <item itemvalue="Application.WeekName" />
       </list>
     </recent_temporary>
   </component>
@@ -734,6 +737,26 @@
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Palindrome.java</url>
           <line>17</line>
           <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/recursion/Factorial.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/recursion/Factorial.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/assignments/PrintPatternRecursionNew.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/assignments/PrintPatternRecursionNew.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="159" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
