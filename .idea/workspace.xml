@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/PrintPatternRecursionNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/QueensAttack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recursion/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/branch/PatternsPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/searching/LinearSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +67,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintPatternRecursionNew">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Factorial" />
+  <component name="RunManager" selected="Application.LinearSearch">
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searching.LinearSearch" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,25 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Fibonacci" />
-      <module name="october-ms" />
+    <configuration name="PatternsPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="branch.PatternsPrint" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Palindrome" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="branch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,6 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseNumber" />
+      <module name="nov-dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sum1ToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.Sum1ToN" />
       <module name="october-ms" />
@@ -135,19 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Factorial" />
-      <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.PrintPatternRecursionNew" />
+      <item itemvalue="Application.LinearSearch" />
       <item itemvalue="Application.Sum1ToN" />
-      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.PatternsPrint" />
+      <item itemvalue="Application.ReverseNumber" />
+      <item itemvalue="Application.PrintPatternRecursionNew" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintPatternRecursionNew" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.Sum1ToN" />
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.PatternsPrint" />
+        <item itemvalue="Application.PrintPatternRecursionNew" />
       </list>
     </recent_temporary>
   </component>
@@ -758,9 +751,33 @@
           <line>19</line>
           <option name="timeStamp" value="159" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/assignments/Multiplication.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/ReverseNumber.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/searching/LinearSearch.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
           <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
+          <line>12</line>
+          <properties class="recursion.Sum1ToN" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="162" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

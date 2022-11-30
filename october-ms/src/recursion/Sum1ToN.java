@@ -2,7 +2,8 @@ package recursion;
 
 public class Sum1ToN {
     static int sumOfN(int num) {
-        if (num == 0) {
+        System.out.println(num);
+        if (num > 1000) { // condition - base condition
             return 0;
         }
         int sum = num + sumOfN(num - 1);
@@ -14,7 +15,8 @@ public class Sum1ToN {
 //        int n = 10;
 ////        // 1+2+3+4+5
 //        int sum = 0;
-//        for (int i = 1; i <= n; i++) {
+//        for (int i = 1; i > 0; i++) {
+//            System.out.println(i);
 //            sum = sum + i;
 //        }
 //        System.out.println(sum);
