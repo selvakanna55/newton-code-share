@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/KillingMonsters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/MohitAndArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/recap/ArraysRecap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/recap/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/sorting/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +67,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KillingMonsters">
-    <configuration name="ArraysRecap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recap.ArraysRecap" />
-      <module name="nov-dsa" />
+  <component name="RunManager" selected="Application.InsertionSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.BubbleSort" />
+      <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recap.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recap.Functions" />
-      <module name="nov-dsa" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.InsertionSort" />
+      <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recap.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +97,6 @@
     <configuration name="KillingMonsters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignments.KillingMonsters" />
       <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinCutTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.MinCutTree" />
-      <module name="october-ms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="assignments.*" />
@@ -134,20 +120,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.SelectionSort" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ArraysRecap" />
-      <item itemvalue="Application.Functions" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.InsertionSort" />
+      <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.KillingMonsters" />
       <item itemvalue="Application.MohitAndArray" />
-      <item itemvalue="Application.MinCutTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.KillingMonsters" />
         <item itemvalue="Application.MohitAndArray" />
-        <item itemvalue="Application.ArraysRecap" />
-        <item itemvalue="Application.Functions" />
-        <item itemvalue="Application.MinCutTree" />
       </list>
     </recent_temporary>
   </component>
@@ -827,6 +826,36 @@
           <url>file://$PROJECT_DIR$/nov-dsa/src/assignments/KillingMonsters.java</url>
           <line>22</line>
           <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/sorting/SelectionSort.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/sorting/SelectionSort.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/sorting/BubbleSort.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/sorting/BubbleSort.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/sorting/BubbleSort.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/sorting/BubbleSort.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
