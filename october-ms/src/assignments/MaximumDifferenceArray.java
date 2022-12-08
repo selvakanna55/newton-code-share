@@ -15,16 +15,36 @@ class MaximumDifferenceArray {
         }
 
         int ans = -1;
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (arr[i] < arr[j]) {
-                    int diff = j - i;
-                    if (ans < diff) {
-                        ans = diff;
-                    }
+
+        int maxRight[] = new int[n];
+        maxRight[n - 1] = arr[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            maxRight[i] = Math.max(arr[i], maxRight[i + 1]);
+        }
+
+        int minLeft[] = new int[n];
+        minLeft[0] = arr[0];
+        for (int i = 1; i < n; i++) {
+            minLeft[i] = Math.min(arr[i], minLeft[i - 1]);
+        }
+
+
+        int i = 0;
+        int j = 0;
+        while (i < n && j < n) {
+            if (minLeft[i] < maxRight[j]) {
+                if (ans < j - i) {
+                    ans = j - i;
                 }
+                j++;
+            } else {
+                i++;
             }
         }
+
         System.out.println(ans);
     }
 }
+
+// maximum on right
+// minimum on left
