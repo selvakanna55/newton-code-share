@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/RevArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/MakeABEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/MaximumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/Multiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/NegativeInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +70,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CircularRotationOfArrayUsingDeque">
+  <component name="RunManager" selected="Application.RevArray">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.BubbleSort" />
       <module name="october-ms" />
@@ -98,15 +104,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KillingMonsters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.KillingMonsters" />
+    <configuration name="RevArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RevArray" />
       <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,19 +125,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.RevArray" />
       <item itemvalue="Application.CircularRotationOfArrayUsingDeque" />
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.InsertionSort" />
       <item itemvalue="Application.SelectionSort" />
-      <item itemvalue="Application.KillingMonsters" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RevArray" />
         <item itemvalue="Application.CircularRotationOfArrayUsingDeque" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.KillingMonsters" />
       </list>
     </recent_temporary>
   </component>
@@ -847,6 +847,16 @@
           <url>file://$PROJECT_DIR$/october-ms/src/sorting/BubbleSort.java</url>
           <line>9</line>
           <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/RevArray.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/RevArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="195" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
