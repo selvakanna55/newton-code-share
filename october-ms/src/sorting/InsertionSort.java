@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 public class InsertionSort {
     public static void insertionSortArray(int arr[]) {
+        // T: O(n2)
+        // S: O(1)
         int n = arr.length;
         for (int i = 1; i < n; i++) {
             int j = i - 1;

@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/playground/src/Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esther-linus/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/sorting/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/sorting/InsertionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +68,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RevArray">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.BubbleSort" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="CircularRotationOfArrayUsingDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircularRotationOfArrayUsingDeque" />
       <module name="esther-linus" />
@@ -99,15 +89,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RevArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RevArray" />
-      <module name="nov-dsa" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <module name="esther-linus" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.SelectionSort" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.QuickSort" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -119,20 +109,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RevArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RevArray" />
+      <module name="nov-dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.RevArray" />
       <item itemvalue="Application.CircularRotationOfArrayUsingDeque" />
-      <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.InsertionSort" />
-      <item itemvalue="Application.SelectionSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.RevArray" />
         <item itemvalue="Application.CircularRotationOfArrayUsingDeque" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -852,6 +849,31 @@
           <url>file://$PROJECT_DIR$/nov-dsa/src/RevArray.java</url>
           <line>13</line>
           <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/esther-linus/src/MergeSort.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/esther-linus/src/MergeSort.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/esther-linus/src/MergeSort.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/esther-linus/src/MergeSort.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/esther-linus/src/MergeSort.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="201" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
