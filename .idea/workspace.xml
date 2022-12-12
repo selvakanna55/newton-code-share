@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/ElectionResultContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/MaximumAndMinimumInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/NewtonSchoolProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/OddSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/QueensAttack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/RareNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/TheRotationPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/TicketsToCollege.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/sorting/MergeTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -270,6 +257,31 @@
             </State>
           </value>
         </entry>
+        <entry key="895661d0-c45d-4f2d-be62-130f588f23b8">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Kannan/Documents/GitHub/newton-code-share/october-ms/src/assignments" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="9f31b565-d22f-42f1-9b39-88aacba3f98c">
           <value>
             <State>
@@ -304,6 +316,7 @@
     </option>
     <option name="OPEN_GENERIC_TABS">
       <map>
+        <entry key="895661d0-c45d-4f2d-be62-130f588f23b8" value="TOOL_WINDOW" />
         <entry key="9f31b565-d22f-42f1-9b39-88aacba3f98c" value="TOOL_WINDOW" />
       </map>
     </option>
