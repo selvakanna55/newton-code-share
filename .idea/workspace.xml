@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques" />
+    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/EasySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/OddOccurring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/ThreeWayPartitioning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,7 +69,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sorting.MergeSort">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeSort" />
       <module name="esther-linus" />
@@ -127,9 +132,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.sorting.MergeSort" />
         <item itemvalue="Application.MergeTwoSortedArrays" />
-        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.RevArray" />
       </list>
@@ -932,6 +937,26 @@
           <url>file://$PROJECT_DIR$/october-ms/src/sorting/MergeSort.java</url>
           <line>21</line>
           <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/sorting/QuickSort.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/sorting/QuickSort.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/sorting/QuickSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/sorting/QuickSort.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="214" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
