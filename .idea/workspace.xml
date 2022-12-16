@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/mathgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/maths/Factorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/maths/GcdLcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/maths/PrimeFactorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/maths/Primes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/BufferedReaderInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/SumTillN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/ABooleanMatrixProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SimpleDeterminant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SpiralMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +73,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Primes">
+  <component name="RunManager" selected="Application.SumTillN">
     <configuration name="Factorization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="maths.Factorization" />
       <module name="october-ms" />
@@ -124,33 +126,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.QuickSort" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="SumTillN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumTillN" />
+      <module name="nov-dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SumTillN" />
       <item itemvalue="Application.Factorization" />
       <item itemvalue="Application.GcdLcm" />
       <item itemvalue="Application.PrimeFactorization" />
       <item itemvalue="Application.Primes" />
-      <item itemvalue="Application.QuickSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumTillN" />
         <item itemvalue="Application.Primes" />
         <item itemvalue="Application.PrimeFactorization" />
         <item itemvalue="Application.Factorization" />
         <item itemvalue="Application.GcdLcm" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
