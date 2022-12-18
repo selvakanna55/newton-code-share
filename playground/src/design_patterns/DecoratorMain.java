@@ -51,7 +51,7 @@ public class DecoratorMain {
     public static void main(String[] args) {
         int a = 10, b = 3;
         StringBuffer x = new StringBuffer();
-        x.append(a/b);
+        x.append(a / b);
         x.append('.');
 
 //        Margaritta m = new Margaritta();

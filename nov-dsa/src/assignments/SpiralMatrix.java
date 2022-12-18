@@ -9,7 +9,6 @@ import java.util.*; // contains Collections framework
 class SpiralMatrix {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
         String nums[] = br.readLine().split(" "); //"4 3" -> ["4", "3"]
         int rows = Integer.parseInt(nums[0]);
         int cols = Integer.parseInt(nums[1]);

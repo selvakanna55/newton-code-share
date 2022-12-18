@@ -25,8 +25,11 @@ public class Primes {
     }
 
     public static void main(String[] args) {
-        System.out.println(isPrimeSqrtN(10));
-        System.out.println(isPrimeSqrtN(97));
-        System.out.println(isPrimeSqrtN(107));
+        int n = 100;
+        for (int i = 2; i <= n; i++) {
+            if (isPrimeSqrtN(i)) {
+                System.out.print(i + " ");
+            }
+        }
     }
 }

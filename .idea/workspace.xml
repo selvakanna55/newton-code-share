@@ -5,14 +5,98 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/BufferedReaderInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/SumTillN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/ABooleanMatrixProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SimpleDeterminant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SpiralMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/MakeAAndBEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/MaximumSubmissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/maths/Divsiblity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/maths/NumberSys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/maths/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/maths/PrimeFactorsSieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/maths/PrimeSieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/maths/Seq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/src/design_patterns/ObserverDesignPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov-dsa/src/assignments/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SpiralMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/maths/Primes.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/maths/Primes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/FunctionParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/FunctionParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/FunctionsNoParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/FunctionsNoParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/arrays/ArrayBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/arrays/ArrayBasics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/AppleAndOranges.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/AppleAndOranges.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/DataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/DataTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/FahrenheitToCelsius.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/FahrenheitToCelsius.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/FiniteInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/FiniteInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/FizzBuzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/IceCream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/IceCream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/LoopDebugging14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/LoopDebugging14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/MagicTrick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/MagicTrick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/NobitaAndProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/NobitaAndProfit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/NumberOfDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/NumberOfDays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/OddOrEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/OddOrEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/Operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/PalindromeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/PrintDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/PrintDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/SimpleInputInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/SimpleInputInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/SimpleInputString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/SimpleInputString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/SimpleSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/SimpleSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/Stars5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/Stars5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/StudentGrades.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/StudentGrades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/TriangleRightAngle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/TriangleRightAngle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/WaitingTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/WaitingTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/conditions/ConditionsRecap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/conditions/ConditionsRecap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/conditions/ControlStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/conditions/ControlStatements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/conditions/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/conditions/Loops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/conditions/LoopsRecap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/conditions/LoopsRecap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/conditions/LoopsRecap2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/conditions/LoopsRecap2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/conditions/PatternPrinting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/conditions/PatternPrinting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/conditions/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/conditions/ReverseNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/BufferReaderInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/BufferReaderInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/DataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/DataTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/InputOutPut2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/InputOutPut2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/InputOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/InputOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/SimpleOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/SimpleOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/Typecasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/input_output_datatypes/Typecasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/BalancedPara.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/BalancedPara.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/GenericsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/GenericsExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/HeapImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/HeapImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/LinkedListImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/LinkedListImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/MaxBinaryHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/MaxBinaryHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/Node1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/Node1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/PrintOneTwoThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/PrintOneTwoThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/PrintSequenceRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/PrintSequenceRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/QueueArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/QueueArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/QueueUsingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/QueueUsingArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/StackArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/StackArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/StackUsingArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/StackUsingArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/AbstractFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Alto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Alto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Audi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Audi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/BasePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/BasePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Benz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Benz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Cell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/CheeseToppings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/CheeseToppings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/DecoratorMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/DecoratorMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Dice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/FarmHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/FarmHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Jump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Jump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/LuxuryVehicleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/LuxuryVehicleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Margaritta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Margaritta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/MushroomToppings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/MushroomToppings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/OrdinaryVehicleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/OrdinaryVehicleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/SnakeAndLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/SnakeAndLadder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/SnakeAndLadderGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/SnakeAndLadderGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Swift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Swift.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Toppings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Toppings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/design_patterns/VehicleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/design_patterns/VehicleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/multithreading/Print010203Inter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/multithreading/Print010203Inter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/multithreading/PrintOddEvenByDiffThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/multithreading/PrintOddEvenByDiffThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/multithreading/Thread012.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/multithreading/Thread012.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/multithreading/ThreadOddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/playground/multithreading/ThreadOddEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground/src/design_patterns/DecoratorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/design_patterns/DecoratorMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,22 +157,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumTillN">
-    <configuration name="Factorization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.Factorization" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maths.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GcdLcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.GcdLcm" />
+  <component name="RunManager" selected="Application.PrimeFactorsSieve">
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maths.Pattern" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -113,6 +184,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeFactorsSieve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maths.PrimeFactorsSieve" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeSieve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maths.PrimeSieve" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Primes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="maths.Primes" />
       <module name="october-ms" />
@@ -126,27 +223,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumTillN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumTillN" />
-      <module name="nov-dsa" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SumTillN" />
-      <item itemvalue="Application.Factorization" />
-      <item itemvalue="Application.GcdLcm" />
+      <item itemvalue="Application.Pattern" />
       <item itemvalue="Application.PrimeFactorization" />
+      <item itemvalue="Application.PrimeFactorsSieve" />
+      <item itemvalue="Application.PrimeSieve" />
       <item itemvalue="Application.Primes" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumTillN" />
-        <item itemvalue="Application.Primes" />
+        <item itemvalue="Application.PrimeFactorsSieve" />
         <item itemvalue="Application.PrimeFactorization" />
-        <item itemvalue="Application.Factorization" />
-        <item itemvalue="Application.GcdLcm" />
+        <item itemvalue="Application.PrimeSieve" />
+        <item itemvalue="Application.Primes" />
+        <item itemvalue="Application.Pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -977,6 +1067,26 @@
           <url>file://$PROJECT_DIR$/october-ms/src/maths/PrimeFactorization.java</url>
           <line>19</line>
           <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/maths/Pattern.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/maths/PrimeSieve.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/maths/PrimeSieve.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/maths/PrimeSieve.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="224" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
