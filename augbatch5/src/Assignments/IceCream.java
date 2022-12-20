@@ -1,6 +1,6 @@
 package Assignments;
 
-public class IceCream {
+public class IceCream { 
     static int Icecreams(int N, int D) {
         for (int i = 1; i <= D; i++) {
             int eat = N / 2;
