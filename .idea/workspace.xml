@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/Dq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/modulo/ModuloExpo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/modulo/ModuloFact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/FunctionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/bit_manipulation/BitManipulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/augbatch5/src/Assignments/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/augbatch5/src/Assignments/IceCream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/assignments/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/assignments/IceCream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/october-ms/assignments/IceCream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/october-ms/assignments/IceCream.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +69,23 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ModuloExpo">
-    <configuration name="Dq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dq" />
+  <component name="RunManager" selected="Application.BitManipulation">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="nov-dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BitManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bit_manipulation.BitManipulation" />
+      <module name="october-ms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsExample" />
       <module name="nov-dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,46 +117,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeFactorization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.PrimeFactorization" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maths.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeFactorsSieve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.PrimeFactorsSieve" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maths.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.BitManipulation" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.FunctionsExample" />
       <item itemvalue="Application.ModuloExpo" />
       <item itemvalue="Application.ModuloFact" />
-      <item itemvalue="Application.Dq" />
-      <item itemvalue="Application.PrimeFactorization" />
-      <item itemvalue="Application.PrimeFactorsSieve" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BitManipulation" />
+        <item itemvalue="Application.FunctionsExample" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.ModuloExpo" />
         <item itemvalue="Application.ModuloFact" />
-        <item itemvalue="Application.Dq" />
-        <item itemvalue="Application.PrimeFactorsSieve" />
-        <item itemvalue="Application.PrimeFactorization" />
       </list>
     </recent_temporary>
   </component>
@@ -1001,6 +986,11 @@
           <url>file://$PROJECT_DIR$/october-ms/src/modulo/ModuloExpo.java</url>
           <line>4</line>
           <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/bit_manipulation/BitManipulation.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
