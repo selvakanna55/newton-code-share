@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/FunctionsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/bit_manipulation/BitManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/SumOfnNatural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/ABStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/ArrayListImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/CountFrequencies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/CountFrequencyOfCharactersInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/OperationsOnArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/RepeatedCharactersAndTheirCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SimpleTranspose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/UniqueSortedElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +76,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BitManipulation">
+  <component name="RunManager" selected="Application.CountFrequencies">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="nov-dsa" />
@@ -84,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CountFrequencies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.CountFrequencies" />
+      <module name="nov-dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FunctionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionsExample" />
       <module name="nov-dsa" />
@@ -91,46 +111,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModuloExpo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo.ModuloExpo" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="modulo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ModuloFact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo.ModuloFact" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="modulo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="SumOfnNatural" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfnNatural" />
+      <module name="nov-dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CountFrequencies" />
+      <item itemvalue="Application.SumOfnNatural" />
       <item itemvalue="Application.BitManipulation" />
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.FunctionsExample" />
-      <item itemvalue="Application.ModuloExpo" />
-      <item itemvalue="Application.ModuloFact" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountFrequencies" />
+        <item itemvalue="Application.SumOfnNatural" />
         <item itemvalue="Application.BitManipulation" />
         <item itemvalue="Application.FunctionsExample" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.ModuloExpo" />
-        <item itemvalue="Application.ModuloFact" />
       </list>
     </recent_temporary>
   </component>
@@ -991,6 +992,16 @@
           <url>file://$PROJECT_DIR$/october-ms/src/bit_manipulation/BitManipulation.java</url>
           <line>15</line>
           <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/SumOfnNatural.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/assignments/CountFrequencies.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="228" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
