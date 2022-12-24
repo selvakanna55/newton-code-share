@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/SumOfnNatural.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/ABStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/ArrayListImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/CountFrequencies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/CountFrequencyOfCharactersInList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/OperationsOnArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/RepeatedCharactersAndTheirCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SimpleTranspose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/UniqueSortedElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/bit_manipulation/BitMasking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/ClassObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/ConstructorOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/ConstructorsInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/FunctionOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/PassByValueReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/inheritance/InheritanceBasic1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,27 +73,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountFrequencies">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
-      <module name="nov-dsa" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BitManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit_manipulation.BitManipulation" />
+  <component name="RunManager" selected="Application.InheritanceBasic1 (1)">
+    <configuration name="ConstructorOverloading (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.ConstructorOverloading" />
       <module name="october-ms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountFrequencies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.CountFrequencies" />
-      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,34 +87,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsExample" />
-      <module name="nov-dsa" />
+    <configuration name="ConstructorOverloading (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.ConstructorOverloading" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfnNatural" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfnNatural" />
-      <module name="nov-dsa" />
+    <configuration name="ConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.ConstructorOverloading" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceBasic1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.inheritance.InheritanceBasic1" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceBasic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.inheritance.InheritanceBasic1" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountFrequencies" />
-      <item itemvalue="Application.SumOfnNatural" />
-      <item itemvalue="Application.BitManipulation" />
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.FunctionsExample" />
+      <item itemvalue="Application.ConstructorOverloading" />
+      <item itemvalue="Application.ConstructorOverloading (2)" />
+      <item itemvalue="Application.ConstructorOverloading (3)" />
+      <item itemvalue="Application.InheritanceBasic1" />
+      <item itemvalue="Application.InheritanceBasic1 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountFrequencies" />
-        <item itemvalue="Application.SumOfnNatural" />
-        <item itemvalue="Application.BitManipulation" />
-        <item itemvalue="Application.FunctionsExample" />
-        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.InheritanceBasic1 (1)" />
+        <item itemvalue="Application.InheritanceBasic1" />
+        <item itemvalue="Application.ConstructorOverloading (3)" />
+        <item itemvalue="Application.ConstructorOverloading" />
+        <item itemvalue="Application.ConstructorOverloading (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -1002,6 +1023,71 @@
           <url>file://$PROJECT_DIR$/nov-dsa/src/assignments/CountFrequencies.java</url>
           <line>13</line>
           <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/bit_manipulation/BitMasking.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/ClassObjects.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/ConstructorsInJava.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/ConstructorsInJava.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/ConstructorsInJava.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/FunctionOverloading.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/FunctionOverloading.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/FunctionOverloading.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/FunctionOverloading.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/FunctionOverloading.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/ConstructorOverloading.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/ConstructorOverloading.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/ConstructorOverloading.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="246" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
