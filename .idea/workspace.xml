@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/bit_manipulation/BitMasking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/ClassObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/ConstructorOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/ConstructorsInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/FunctionOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/PassByValueReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/inheritance/InheritanceBasic1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/BoundaryTraversalOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/CountDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/FreddyDilemma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/MaxNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/RotateTheMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/TriangularMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oct_meta/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oct_meta/QueueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oct_meta/StcakArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,46 +75,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InheritanceBasic1 (1)">
-    <configuration name="ConstructorOverloading (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.ConstructorOverloading" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConstructorOverloading (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.ConstructorOverloading" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.ConstructorOverloading" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RotateTheMatrix">
     <configuration name="InheritanceBasic1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.inheritance.InheritanceBasic1" />
       <module name="october-ms" />
@@ -126,12 +89,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceBasic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.InheritanceBasic1" />
-      <module name="october-ms" />
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oct_meta.Patterns" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="PATTERN" value="oct_meta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oct_meta.QueueArray" />
+      <module name="nov-dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oct_meta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.RotateTheMatrix" />
+      <module name="nov-dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StcakArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oct_meta.StcakArray" />
+      <module name="nov-dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oct_meta.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,19 +142,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConstructorOverloading" />
-      <item itemvalue="Application.ConstructorOverloading (2)" />
-      <item itemvalue="Application.ConstructorOverloading (3)" />
-      <item itemvalue="Application.InheritanceBasic1" />
+      <item itemvalue="Application.Patterns" />
+      <item itemvalue="Application.QueueArray" />
+      <item itemvalue="Application.RotateTheMatrix" />
+      <item itemvalue="Application.StcakArray" />
       <item itemvalue="Application.InheritanceBasic1 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateTheMatrix" />
+        <item itemvalue="Application.Patterns" />
+        <item itemvalue="Application.QueueArray" />
+        <item itemvalue="Application.StcakArray" />
         <item itemvalue="Application.InheritanceBasic1 (1)" />
-        <item itemvalue="Application.InheritanceBasic1" />
-        <item itemvalue="Application.ConstructorOverloading (3)" />
-        <item itemvalue="Application.ConstructorOverloading" />
-        <item itemvalue="Application.ConstructorOverloading (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -1088,6 +1090,41 @@
           <url>file://$PROJECT_DIR$/october-ms/src/oops/ConstructorOverloading.java</url>
           <line>26</line>
           <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/oct_meta/StcakArray.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/oct_meta/StcakArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/oct_meta/StcakArray.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/oct_meta/StcakArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/oct_meta/StcakArray.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/oct_meta/QueueArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/assignments/RotateTheMatrix.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="253" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>
