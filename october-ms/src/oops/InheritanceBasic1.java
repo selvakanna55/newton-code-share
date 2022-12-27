@@ -1,4 +1,4 @@
-package oops.inheritance;
+package oops;
 
 class Parent {
     void printHello() {

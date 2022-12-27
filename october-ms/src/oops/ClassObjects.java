@@ -3,14 +3,18 @@ package oops;
 import java.util.Scanner;
 
 class Student {
+    // member variables, attributes
     int rollNo;
     String name;
     double percentage;
 
+    // member functions
     void printHello() {
         System.out.println("hello");
     }
 }
+// static methods -
+// instance method
 
 
 class Employee {
