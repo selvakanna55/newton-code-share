@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/RuntimePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/access_modifiers/GetterSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/access_modifiers/SameClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/inheritance/SuperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/thurday_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/today_tests/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov-dsa/src/SumTillN.java" beforeDir="false" afterPath="$PROJECT_DIR$/nov-dsa/src/SumTillN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov-dsa/src/oct_meta/AssignmentSolved.md" beforeDir="false" afterPath="$PROJECT_DIR$/nov-dsa/src/oct_meta/AssignmentSolved.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/mathgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/mathgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nov-dsa/oct_meta/AssignmentSolved.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nov-dsa/oct_meta/AssignmentSolved.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +74,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumTillN">
-    <configuration name="HierrachicalInheritacen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.HierrachicalInheritacen" />
+  <component name="RunManager" selected="Application.RuntimePolymorphism">
+    <configuration name="GetterSetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.access_modifiers.GetterSetter" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="PATTERN" value="oops.access_modifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,21 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiLevelInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.MultiLevelInheritance" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.SingleInheritance" />
+    <configuration name="RuntimePolymorphism (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.RuntimePolymorphism" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -108,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.SumRun" />
+    <configuration name="RuntimePolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.RuntimePolymorphism" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,27 +114,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumTillN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumTillN" />
-      <module name="nov-dsa" />
+    <configuration name="SameClassExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.access_modifiers.SameClassExample" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.access_modifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SameClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.access_modifiers.SameClassExample" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.access_modifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SumTillN" />
-      <item itemvalue="Application.HierrachicalInheritacen" />
-      <item itemvalue="Application.MultiLevelInheritance" />
-      <item itemvalue="Application.SingleInheritance" />
-      <item itemvalue="Application.SumRun" />
+      <item itemvalue="Application.GetterSetter" />
+      <item itemvalue="Application.RuntimePolymorphism" />
+      <item itemvalue="Application.RuntimePolymorphism (1)" />
+      <item itemvalue="Application.SameClassExample" />
+      <item itemvalue="Application.SameClassExample (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumTillN" />
-        <item itemvalue="Application.MultiLevelInheritance" />
-        <item itemvalue="Application.HierrachicalInheritacen" />
-        <item itemvalue="Application.SingleInheritance" />
-        <item itemvalue="Application.SumRun" />
+        <item itemvalue="Application.RuntimePolymorphism" />
+        <item itemvalue="Application.RuntimePolymorphism (1)" />
+        <item itemvalue="Application.GetterSetter" />
+        <item itemvalue="Application.SameClassExample (1)" />
+        <item itemvalue="Application.SameClassExample" />
       </list>
     </recent_temporary>
   </component>
@@ -1142,6 +1154,21 @@
           <url>file://$PROJECT_DIR$/october-ms/src/oops/inheritance/StudentSavingsAccount.java</url>
           <line>6</line>
           <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/inheritance/SingleInheritance.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/inheritance/SuperExample.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/inheritance/SuperExample.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="271" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>

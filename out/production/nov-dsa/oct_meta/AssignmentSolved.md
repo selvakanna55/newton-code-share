@@ -24,7 +24,7 @@ First non-repeating character in a String - https://my.newtonschool.co/playgroun
 
 Group of Numbers - https://my.newtonschool.co/playground/code/dbfylhab73p4/
 
-Merge two sorted linked list  - https://my.newtonschool.co/playground/code/56c2alkpdrws/
+Merge two sorted linked list - https://my.newtonschool.co/playground/code/56c2alkpdrws/
 
 Add two numbers - https://my.newtonschool.co/playground/code/t434sxr4i080/
 
@@ -53,3 +53,9 @@ Max Widow Sum - https://my.newtonschool.co/playground/code/plk348pp34vi/
 Subarray Product - https://my.newtonschool.co/playground/code/nveikugb43mj/
 
 Bob's Interview - https://my.newtonschool.co/playground/code/0gzv3duwjeae/
+
+Sum Subarray - https://my.newtonschool.co/playground/code/bwu2cjbur1qt/
+
+Implementing Insertion sort - https://my.newtonschool.co/playground/code/24dru2h1u67z/
+
+It's Birthday -  https://my.newtonschool.co/playground/code/7qo1zwhoeltf/
