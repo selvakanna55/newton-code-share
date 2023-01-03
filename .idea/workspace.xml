@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/AddStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/CleanTheRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/FibonacciNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/TowerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/AbstractionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov-dsa/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/nov-dsa/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,36 +70,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="GetterSetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.access_modifiers.GetterSetter" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.access_modifiers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="nov-dsa" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RedirectKaro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RedirectKaro" />
-      <module name="playground" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RuntimePolymorphism (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.RuntimePolymorphism" />
+  <component name="RunManager" selected="Application.AbstractionExample">
+    <configuration name="AbstractionExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +84,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimePolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.RuntimePolymorphism" />
+    <configuration name="AbstractionExample (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractionExample (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractionExample (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -127,19 +137,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.RedirectKaro" />
-      <item itemvalue="Application.GetterSetter" />
-      <item itemvalue="Application.RuntimePolymorphism" />
-      <item itemvalue="Application.RuntimePolymorphism (1)" />
+      <item itemvalue="Application.AbstractionExample" />
+      <item itemvalue="Application.AbstractionExample (2)" />
+      <item itemvalue="Application.AbstractionExample (3)" />
+      <item itemvalue="Application.AbstractionExample (4)" />
+      <item itemvalue="Application.AbstractionExample (5)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.RedirectKaro" />
-        <item itemvalue="Application.RuntimePolymorphism" />
-        <item itemvalue="Application.RuntimePolymorphism (1)" />
-        <item itemvalue="Application.GetterSetter" />
+        <item itemvalue="Application.AbstractionExample" />
+        <item itemvalue="Application.AbstractionExample (5)" />
+        <item itemvalue="Application.AbstractionExample (4)" />
+        <item itemvalue="Application.AbstractionExample (3)" />
+        <item itemvalue="Application.AbstractionExample (2)" />
       </list>
     </recent_temporary>
   </component>
