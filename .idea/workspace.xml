@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/ShapesClassInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/SingleLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/RunGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,46 +71,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AbstractionExample">
-    <configuration name="AbstractionExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AbstractionExample (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AbstractionExample (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SingleLL">
     <configuration name="AbstractionExample (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
       <module name="october-ms" />
@@ -133,20 +98,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.tictactoe.RunGame" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.tictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleLL (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.SingleLL" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.SingleLL" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.RunGame" />
+      <item itemvalue="Application.SingleLL" />
+      <item itemvalue="Application.SingleLL (1)" />
       <item itemvalue="Application.AbstractionExample" />
-      <item itemvalue="Application.AbstractionExample (2)" />
-      <item itemvalue="Application.AbstractionExample (3)" />
-      <item itemvalue="Application.AbstractionExample (4)" />
       <item itemvalue="Application.AbstractionExample (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleLL" />
+        <item itemvalue="Application.SingleLL (1)" />
+        <item itemvalue="Application.RunGame" />
         <item itemvalue="Application.AbstractionExample" />
         <item itemvalue="Application.AbstractionExample (5)" />
-        <item itemvalue="Application.AbstractionExample (4)" />
-        <item itemvalue="Application.AbstractionExample (3)" />
-        <item itemvalue="Application.AbstractionExample (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -1182,6 +1186,26 @@
           <url>file://$PROJECT_DIR$/playground/src/RedirectKaro.java</url>
           <line>5</line>
           <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/tictactoe/Board.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/linkedlist/SingleLL.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="296" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>

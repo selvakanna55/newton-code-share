@@ -15,15 +15,27 @@ public class Board {
     }
 
     boolean isValidMove(int row, int col) {
-        return row >= 0 && row < boardSize && col >= 0 && col < boardSize && board[row][col] == '-';
+        if (row >= 0 && row < boardSize && col >= 0 && col < boardSize && board[row][col] == '-') {
+            return true;
+        } else {
+            return false;
+        }
     }
 
     void move(int row, int col, char piece) {
-        if (!isValidMove(row, col)) {
+        if (isValidMove(row, col)) {
+            board[row][col] = piece;
+        } else {
             System.out.println("Invalid move");
-            return;
         }
-        board[row][col] = piece;
     }
 
+    void print() {
+        for (int i = 0; i < boardSize; i++) {
+            for (int j = 0; j < boardSize; j++) {
+                System.out.print(board[i][j] + " ");
+            }
+            System.out.println();
+        }
+    }
 }
