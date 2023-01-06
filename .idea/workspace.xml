@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/SingleLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/RunGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/CountingZeroesToOnesContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/DoraemonAndBigLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/NoXorSimpleContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SortItContest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +70,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingleLL">
-    <configuration name="AbstractionExample (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.CountingZeroesToOnesContest">
+    <configuration name="AbstractionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
       <module name="october-ms" />
       <extension name="coverage">
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AbstractionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
-      <module name="october-ms" />
+    <configuration name="CountingZeroesToOnesContest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.CountingZeroesToOnesContest" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,19 +137,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CountingZeroesToOnesContest" />
       <item itemvalue="Application.RunGame" />
       <item itemvalue="Application.SingleLL" />
       <item itemvalue="Application.SingleLL (1)" />
       <item itemvalue="Application.AbstractionExample" />
-      <item itemvalue="Application.AbstractionExample (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountingZeroesToOnesContest" />
         <item itemvalue="Application.SingleLL" />
         <item itemvalue="Application.SingleLL (1)" />
         <item itemvalue="Application.RunGame" />
         <item itemvalue="Application.AbstractionExample" />
-        <item itemvalue="Application.AbstractionExample (5)" />
       </list>
     </recent_temporary>
   </component>
