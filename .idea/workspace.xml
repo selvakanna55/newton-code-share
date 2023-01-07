@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/CountingZeroesToOnesContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/DoraemonAndBigLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/NoXorSimpleContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SortItContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/collections/ArrayListRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/collections/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/collections/HashSetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/RunGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/RunGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +71,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountingZeroesToOnesContest">
-    <configuration name="AbstractionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.AbstractionExample" />
+  <component name="RunManager" selected="Application.RunGame">
+    <configuration name="ArrayListRecap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.ArrayListRecap" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +98,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.HashMapExample" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.HashSetExample" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.tictactoe.RunGame" />
       <module name="october-ms" />
@@ -110,46 +137,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleLL (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.SingleLL" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.SingleLL" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.ArrayListRecap" />
+      <item itemvalue="Application.HashMapExample" />
+      <item itemvalue="Application.HashSetExample" />
       <item itemvalue="Application.CountingZeroesToOnesContest" />
       <item itemvalue="Application.RunGame" />
-      <item itemvalue="Application.SingleLL" />
-      <item itemvalue="Application.SingleLL (1)" />
-      <item itemvalue="Application.AbstractionExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountingZeroesToOnesContest" />
-        <item itemvalue="Application.SingleLL" />
-        <item itemvalue="Application.SingleLL (1)" />
         <item itemvalue="Application.RunGame" />
-        <item itemvalue="Application.AbstractionExample" />
+        <item itemvalue="Application.HashSetExample" />
+        <item itemvalue="Application.HashMapExample" />
+        <item itemvalue="Application.ArrayListRecap" />
+        <item itemvalue="Application.CountingZeroesToOnesContest" />
       </list>
     </recent_temporary>
   </component>
@@ -1193,18 +1194,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java</url>
-          <line>25</line>
+          <line>27</line>
           <option name="timeStamp" value="293" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java</url>
-          <line>30</line>
+          <line>40</line>
           <option name="timeStamp" value="295" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/october-ms/src/linkedlist/SingleLL.java</url>
           <line>15</line>
           <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/collections/HashSetExample.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/oops/tictactoe/TicTacToeGame.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="301" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/playground/src/run.py</url>

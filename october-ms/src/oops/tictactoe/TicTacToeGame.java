@@ -1,10 +1,12 @@
 package oops.tictactoe;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class TicTacToeGame {
     Board tictactoeBoard;
     Player players[];
+    Random random = new Random();
 
     TicTacToeGame() {
         tictactoeBoard = new Board();
@@ -24,8 +26,16 @@ public class TicTacToeGame {
         tictactoeBoard.print();
         while (isGameRunning) {
             Player currPlayer = players[turn % playerCount];
-            int row = sc.nextInt();
-            int col = sc.nextInt();
+            int row;
+            int col;
+            if (currPlayer.name.equals("comp")) {
+                row = random.nextInt(boardSize);
+                col = random.nextInt(boardSize);
+            } else {
+                row = sc.nextInt();
+                col = sc.nextInt();
+            }
+
             tictactoeBoard.move(row, col, currPlayer.key);
             tictactoeBoard.print();
             if (isWinner(currPlayer)) {
