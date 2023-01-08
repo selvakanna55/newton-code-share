@@ -26,6 +26,7 @@ public class HashMapExample {
                 freq.put(arr[i], 1);
             }
         }
+        System.out.println(freq);
         for (Integer num : freq.keySet()) {
             System.out.println(num + " " + freq.get(num));
         }
@@ -51,7 +52,7 @@ public class HashMapExample {
 
     public static void main(String[] args) {
         double nums[] = {3.3, 1.1, 2.2, 3.3, 1.1, 2.2, 9.1};
-        LinkedHashMap<Double, Integer> freq = new LinkedHashMap<>();
+        HashMap<Double, Integer> freq = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
             if (freq.containsKey(nums[i])) {
                 int count = freq.get(nums[i]);

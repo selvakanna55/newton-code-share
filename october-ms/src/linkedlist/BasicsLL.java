@@ -1,17 +1,7 @@
 package linkedlist;
 
-class Node {
-    int val;
 
-    Node(int val) {
-        this.val = val;
-    }
-
-    Node next;
-
-}
-
-public class SingleLL {
+public class BasicsLL {
     public static void main(String[] args) {
         Node head = new Node(11);
         Node node1 = new Node(21);
@@ -19,9 +9,13 @@ public class SingleLL {
         head.next = node1;
         node1.next = node2;
 
-        for (Node curr = head; curr != null; curr = curr.next) {
-            System.out.print(curr.val + " ");
+        Node run = head;
+        while (run != null) {
+            System.out.println(run.val);
+            run = run.next;
         }
-
+        for (Node curr = head; curr != null; curr = curr.next) {
+            System.out.println(curr.val);
+        }
     }
 }

@@ -9,7 +9,7 @@ public class HashSetExample {
     public static void main(String[] args) {
         // uniq
         int nums[] = {1, 2, 3, 4, 5, 1, 2, 3, 4, 5};
-        LinkedHashSet<Integer> set = new LinkedHashSet<>();
+        HashSet<Integer> set = new HashSet<>();
         for (int num : nums) {
             set.add(num);
         }
