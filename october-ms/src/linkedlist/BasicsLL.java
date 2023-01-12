@@ -2,6 +2,16 @@ package linkedlist;
 
 
 public class BasicsLL {
+    static class Node {
+        int val;
+
+        Node(int val) {
+            this.val = val;
+        }
+
+        Node next;
+    }
+
     public static void main(String[] args) {
         Node head = new Node(11);
         Node node1 = new Node(21);

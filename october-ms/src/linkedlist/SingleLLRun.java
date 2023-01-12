@@ -1,7 +1,18 @@
 package linkedlist;
 
 class SingleLL {
+    static class Node {
+        int val;
+
+        Node(int val) {
+            this.val = val;
+        }
+
+        Node next;
+    }
+
     Node head = null;
+    Node tail = null;
 
     void insertAtTheEnd(int val) {
         Node newNode = new Node(val);
@@ -13,7 +24,9 @@ class SingleLL {
                 curr = curr.next;
             }
             curr.next = newNode;
+//            tail.next = newNode;
         }
+//        tail = newNode;
     }
 
     void updateAtPos(int pos, int val) {
@@ -72,10 +85,6 @@ public class SingleLLRun {
             list.insertAtTheEnd(i);
         }
         list.print();
-        list.deleteAtPos(3);
-        list.print();
-
-        Node a = new Node(10);
-        a.val = 999;
+//        list.print();
     }
 }
