@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SingleDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/recursion/PrintArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/CircleLLRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/DoubleCircleLLRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/linkedlist/DoubleLLRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/DoubleLLRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/linkedlist/SingleLLRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/SingleLLRun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +71,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingleDigit">
-    <configuration name="DoubleLLRun (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleLLRun" />
+  <component name="RunManager" selected="Application.DoubleCircleLLRun (4)">
+    <configuration name="CircleLLRun (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.CircleLLRun" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleLLRun (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleLLRun" />
+    <configuration name="CircleLLRun (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.CircleLLRun" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.PrintArray" />
-      <module name="nov-dsa" />
+    <configuration name="CircleLLRun (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.CircleLLRun" />
+      <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,19 +111,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RedirectKaro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RedirectKaro" />
-      <module name="playground" />
+    <configuration name="CircleLLRun (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.CircleLLRun" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.SingleDigit" />
-      <module name="nov-dsa" />
+    <configuration name="DoubleCircleLLRun (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleCircleLLRun" />
+      <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.*" />
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleCircleLLRun (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleCircleLLRun" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleCircleLLRun (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleCircleLLRun" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleCircleLLRun (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleCircleLLRun" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleCircleLLRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleCircleLLRun" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,19 +190,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrintArray" />
-      <item itemvalue="Application.SingleDigit" />
-      <item itemvalue="Application.DoubleLLRun (1)" />
-      <item itemvalue="Application.DoubleLLRun (5)" />
-      <item itemvalue="Application.RedirectKaro" />
+      <item itemvalue="Application.DoubleCircleLLRun" />
+      <item itemvalue="Application.DoubleCircleLLRun (1)" />
+      <item itemvalue="Application.DoubleCircleLLRun (2)" />
+      <item itemvalue="Application.DoubleCircleLLRun (3)" />
+      <item itemvalue="Application.DoubleCircleLLRun (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SingleDigit" />
-        <item itemvalue="Application.PrintArray" />
-        <item itemvalue="Application.RedirectKaro" />
-        <item itemvalue="Application.DoubleLLRun (1)" />
-        <item itemvalue="Application.DoubleLLRun (5)" />
+        <item itemvalue="Application.DoubleCircleLLRun (4)" />
+        <item itemvalue="Application.DoubleCircleLLRun" />
+        <item itemvalue="Application.DoubleCircleLLRun (3)" />
+        <item itemvalue="Application.DoubleCircleLLRun (2)" />
+        <item itemvalue="Application.DoubleCircleLLRun (1)" />
       </list>
     </recent_temporary>
   </component>

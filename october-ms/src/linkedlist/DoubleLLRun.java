@@ -10,16 +10,16 @@ class DoubleLL {
         if (head == null) {
             head = newNode;
         } else {
-//            NodeDLL curr = head;
-//            while (curr.next != null) {
-//                curr = curr.next;
-//            }
-//            curr.next = newNode;
-            tail.next = newNode;
-            newNode.prev = tail; // new line DLL
+            NodeDLL curr = head;
+            while (curr.next != null) {
+                curr = curr.next;
+            }
+            curr.next = newNode;
+            //            tail.next = newNode;
+            newNode.prev = curr; // new line DLL
         }
-        tail = newNode;
-        length++;
+//        tail = newNode;
+//        length++;
     }
 
     void printForward() {
