@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/CircleLLRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/DoubleCircleLLRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/RowIndexIdentificationContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/XorToThePowerI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/linkedlist/DoubleLLRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/DoubleLLRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/linkedlist/SingleLLRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/SingleLLRun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,6 +187,10 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CircleLLRun (1)" />
+      <item itemvalue="Application.CircleLLRun (2)" />
+      <item itemvalue="Application.CircleLLRun (3)" />
+      <item itemvalue="Application.CircleLLRun (4)" />
       <item itemvalue="Application.DoubleCircleLLRun" />
       <item itemvalue="Application.DoubleCircleLLRun (1)" />
       <item itemvalue="Application.DoubleCircleLLRun (2)" />
@@ -1293,10 +1294,6 @@
           <url>file://$PROJECT_DIR$/nov-dsa/src/assignments/SingleDigit.java</url>
           <line>11</line>
           <option name="timeStamp" value="312" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/playground/src/run.py</url>
-          <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
