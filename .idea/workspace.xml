@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/RowIndexIdentificationContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/XorToThePowerI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/hashing/HashingChainingRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/hashing/HashingLinearProbingRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/hashing/HashingQuadraticProbingRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/hashing/HashingSimpleRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/linkedlist/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kannan/Documents/GitHub/lld-coding&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/Kannan/Documents/GitHub/newton-code-share/october-ms/src/hashing",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\src\hashing" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\augbatch5\src\oops" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\slides" />
     </key>
@@ -68,13 +72,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoubleCircleLLRun (4)">
-    <configuration name="CircleLLRun (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.CircleLLRun" />
+  <component name="RunManager" selected="Application.HashingLinearProbingRun">
+    <configuration name="HashingLinearProbingRun (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashing.HashingLinearProbingRun" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleLLRun (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.CircleLLRun" />
+    <configuration name="HashingLinearProbingRun (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashing.HashingLinearProbingRun" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleLLRun (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.CircleLLRun" />
+    <configuration name="HashingLinearProbingRun (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashing.HashingLinearProbingRun" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleLLRun (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.CircleLLRun" />
+    <configuration name="HashingLinearProbingRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashing.HashingLinearProbingRun" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,64 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleCircleLLRun (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleCircleLLRun" />
+    <configuration name="HashingQuadraticProbingRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashing.HashingQuadraticProbingRun" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleCircleLLRun (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleCircleLLRun" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleCircleLLRun (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleCircleLLRun" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleCircleLLRun (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleCircleLLRun" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleCircleLLRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleCircleLLRun" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,23 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CircleLLRun (1)" />
-      <item itemvalue="Application.CircleLLRun (2)" />
-      <item itemvalue="Application.CircleLLRun (3)" />
-      <item itemvalue="Application.CircleLLRun (4)" />
-      <item itemvalue="Application.DoubleCircleLLRun" />
-      <item itemvalue="Application.DoubleCircleLLRun (1)" />
-      <item itemvalue="Application.DoubleCircleLLRun (2)" />
-      <item itemvalue="Application.DoubleCircleLLRun (3)" />
-      <item itemvalue="Application.DoubleCircleLLRun (4)" />
+      <item itemvalue="Application.HashingLinearProbingRun" />
+      <item itemvalue="Application.HashingLinearProbingRun (1)" />
+      <item itemvalue="Application.HashingLinearProbingRun (2)" />
+      <item itemvalue="Application.HashingLinearProbingRun (4)" />
+      <item itemvalue="Application.HashingQuadraticProbingRun" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoubleCircleLLRun (4)" />
-        <item itemvalue="Application.DoubleCircleLLRun" />
-        <item itemvalue="Application.DoubleCircleLLRun (3)" />
-        <item itemvalue="Application.DoubleCircleLLRun (2)" />
-        <item itemvalue="Application.DoubleCircleLLRun (1)" />
+        <item itemvalue="Application.HashingLinearProbingRun" />
+        <item itemvalue="Application.HashingLinearProbingRun (2)" />
+        <item itemvalue="Application.HashingLinearProbingRun (1)" />
+        <item itemvalue="Application.HashingQuadraticProbingRun" />
+        <item itemvalue="Application.HashingLinearProbingRun (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -1294,6 +1242,31 @@
           <url>file://$PROJECT_DIR$/nov-dsa/src/assignments/SingleDigit.java</url>
           <line>11</line>
           <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/hashing/HashingSimpleRun.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/hashing/HashingSimpleRun.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/hashing/HashingChainingRun.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/hashing/HashingQuadraticProbingRun.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/hashing/HashingQuadraticProbingRun.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="343" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>

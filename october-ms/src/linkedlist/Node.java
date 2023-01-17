@@ -1,11 +1,16 @@
 package linkedlist;
 
 public class Node {
-    int val;
+    public int val;
 
-    Node(int val) {
+    public Node(int val) {
         this.val = val;
     }
 
-    Node next;
+    public Node next;
+
+    @Override
+    public String toString() {
+        return Integer.toString(val);
+    }
 }
