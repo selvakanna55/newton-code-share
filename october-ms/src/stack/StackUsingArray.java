@@ -12,7 +12,7 @@ class StackArray {
 
     void push(int val) { //insertion
         if (top + 1 >= size) {
-            System.out.println("stack is full");
+            System.out.println("stack is full"); // stack overflow
         } else {
             top++;
             arr[top] = val;
@@ -21,7 +21,7 @@ class StackArray {
 
     void pop() { //delete
         if (top == -1) {
-            System.out.println("stack is empty");
+            System.out.println("stack is empty"); // stack underflow
         } else {
             System.out.println(arr[top]);
             top--;
