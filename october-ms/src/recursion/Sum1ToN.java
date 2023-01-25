@@ -1,27 +1,25 @@
 package recursion;
 
 public class Sum1ToN {
-    static int sumOfN(int num) {
-        System.out.println(num);
-        if (num > 1000) { // condition - base condition
-            return 0;
+    static void printTillN(int i, int n) {
+        if (i > n) {
+            return;
         }
-        int sum = num + sumOfN(num - 1);
-        return sum;
+        System.out.print(i + " ");
+        printTillN(i + 1, n);
     }
 
     public static void main(String[] args) {
-        // sum -> n
-//        int n = 10;
-////        // 1+2+3+4+5
-//        int sum = 0;
-//        for (int i = 1; i > 0; i++) {
-//            System.out.println(i);
-//            sum = sum + i;
+        int n = 5;
+        printTillN(1, n);
+//        int i = 1;
+//        while (true) {
+//            if (i > n) {
+//                break;
+//            }
+//            System.out.print(i + " ");
+//            i++;
 //        }
-//        System.out.println(sum);
-        int sum = sumOfN(5);
-        System.out.println(sum);
     }
 }
 

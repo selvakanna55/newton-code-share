@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arraylist/ArrayListRevision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/arraylist/FIndPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recap_dsa1_day1/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recap_dsa1_day1/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recap_dsa1_day1/MaxSumColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recap_dsa1_day1/PrintTheMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recap_dsa1_day1/ReverseWordsInAGivenString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/recap_dsa1_day1/SortAnArrayOf0s1sAnd2s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/revision_dsa1_day1/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/revision_dsa1_day1/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/revision_dsa1_day1/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/revision_dsa1_day1/UpperBound.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/october-ms/src/arraylist/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/arraylist/ArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +72,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FIndPrimes">
-    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.ArrayListExample" />
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revision_dsa1.BinarySearch" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="revision_dsa1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FIndPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.FIndPrimes" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revision_dsa1.MergeSort" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="revision_dsa1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsValidBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.IsValidBracket" />
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revision_dsa1.Sorting" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="revision_dsa1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.StackJava" />
+    <configuration name="Sum1ToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Sum1ToN" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.StackUsingArray" />
+    <configuration name="UpperBound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revision_dsa1.UpperBound" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="revision_dsa1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayListExample" />
-      <item itemvalue="Application.FIndPrimes" />
-      <item itemvalue="Application.IsValidBracket" />
-      <item itemvalue="Application.StackJava" />
-      <item itemvalue="Application.StackUsingArray" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.Sorting" />
+      <item itemvalue="Application.Sum1ToN" />
+      <item itemvalue="Application.UpperBound" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FIndPrimes" />
-        <item itemvalue="Application.ArrayListExample" />
-        <item itemvalue="Application.IsValidBracket" />
-        <item itemvalue="Application.StackJava" />
-        <item itemvalue="Application.StackUsingArray" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.Sorting" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.UpperBound" />
+        <item itemvalue="Application.Sum1ToN" />
       </list>
     </recent_temporary>
   </component>
@@ -1282,9 +1278,14 @@
           <line>25</line>
           <option name="timeStamp" value="347" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/october-ms/src/revision_dsa1_day1/Sorting.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
-          <line>12</line>
+          <line>11</line>
           <properties class="recursion.Sum1ToN" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

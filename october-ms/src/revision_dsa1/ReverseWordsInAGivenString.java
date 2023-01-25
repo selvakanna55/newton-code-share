@@ -1,4 +1,4 @@
-package revision_dsa1_day1;
+package revision_dsa1;
 
 
 public class ReverseWordsInAGivenString {
