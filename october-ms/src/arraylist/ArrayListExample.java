@@ -4,12 +4,25 @@ import java.util.*;
 
 public class ArrayListExample {
     public static void main(String[] args) {
-//        System.out.println("Begin");
-//        int arr[] = new int[4];// [0,0,0,0]
-//        arr[0] = 10;
-//        arr[1] = 20;
-//        int n = arr.length;
+        System.out.println("Begin");
+        int arr[] = new int[4];// [0,0,0,0]
+        arr[0] = 10;
+        arr[1] = 20;
+        int n = arr.length;
 //        System.out.println(arr[0]);
+
+        ArrayList<Integer> li1 = new ArrayList<>();
+        li1.add(10); // insert at the end
+        li1.add(0, 20); // arr[0] = 20
+        System.out.println(li1.get(0)); //arr[0]
+        n = li1.size();
+        for (int i = 0; i < n; i++) {
+            System.out.print(li1.get(i) + " ");
+        }
+
+
+
+
 //
 //
 //        ArrayList<Integer> arr2 = new ArrayList<>();
