@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/october-ms/src/revision_dsa1/ModuloExpo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/revision_dsa1/oopsrecap/FunctionOverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/revision_dsa1/oopsrecap/InheritanceExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/revision_dsa1/oopsrecap/RunTimePoly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/october-ms/src/revision_dsa1/oopsrecap/SimpleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/queue/QueueJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/queue/QueueUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/stack/StackUsingLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +70,39 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RunTimePoly">
-    <configuration name="FunctionOverLoading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revision_dsa1.oopsrecap.FunctionOverLoading" />
+  <component name="RunManager" selected="Application.QueueJava">
+    <configuration name="QueueJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.QueueJava" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="revision_dsa1.oopsrecap.*" />
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueUsingArray (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.QueueUsingArray" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.QueueUsingArray" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,38 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revision_dsa1.oopsrecap.SimpleClass" />
+    <configuration name="StackUsingLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.StackUsingLinkedList" />
       <module name="october-ms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="revision_dsa1.oopsrecap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleClass (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revision_dsa1.oopsrecap.SimpleClass" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="revision_dsa1.oopsrecap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revision_dsa1.oopsrecap.SimpleClass" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="revision_dsa1.oopsrecap.*" />
+          <option name="PATTERN" value="stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +137,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FunctionOverLoading" />
+      <item itemvalue="Application.QueueJava" />
+      <item itemvalue="Application.QueueUsingArray" />
+      <item itemvalue="Application.QueueUsingArray (1)" />
+      <item itemvalue="Application.StackUsingLinkedList" />
       <item itemvalue="Application.RunTimePoly" />
-      <item itemvalue="Application.SimpleClass" />
-      <item itemvalue="Application.SimpleClass (1)" />
-      <item itemvalue="Application.SimpleClass (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueJava" />
+        <item itemvalue="Application.QueueUsingArray" />
+        <item itemvalue="Application.QueueUsingArray (1)" />
+        <item itemvalue="Application.StackUsingLinkedList" />
         <item itemvalue="Application.RunTimePoly" />
-        <item itemvalue="Application.SimpleClass" />
-        <item itemvalue="Application.FunctionOverLoading" />
-        <item itemvalue="Application.SimpleClass (2)" />
-        <item itemvalue="Application.SimpleClass (1)" />
       </list>
     </recent_temporary>
   </component>
