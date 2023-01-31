@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/CloseToRightContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/IsoLexoStringContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/NumberOfRecentCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/assignments/SortCharactersByFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/october-ms/src/queue/DqueueJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/october-ms/src/queue/QueueJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/october-ms/src/queue/QueueJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueJava">
+  <component name="RunManager" selected="Application.DqueueJava">
+    <configuration name="DqueueJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.DqueueJava" />
+      <module name="october-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QueueJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queue.QueueJava" />
       <module name="october-ms" />
@@ -109,19 +124,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunTimePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revision_dsa1.oopsrecap.RunTimePoly" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="revision_dsa1.oopsrecap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StackUsingLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.StackUsingLinkedList" />
       <module name="october-ms" />
@@ -136,19 +138,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DqueueJava" />
       <item itemvalue="Application.QueueJava" />
-      <item itemvalue="Application.QueueUsingArray" />
       <item itemvalue="Application.QueueUsingArray (1)" />
+      <item itemvalue="Application.QueueUsingArray" />
       <item itemvalue="Application.StackUsingLinkedList" />
-      <item itemvalue="Application.RunTimePoly" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DqueueJava" />
         <item itemvalue="Application.QueueJava" />
         <item itemvalue="Application.QueueUsingArray" />
         <item itemvalue="Application.QueueUsingArray (1)" />
         <item itemvalue="Application.StackUsingLinkedList" />
-        <item itemvalue="Application.RunTimePoly" />
       </list>
     </recent_temporary>
   </component>
