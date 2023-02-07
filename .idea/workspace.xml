@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/sort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/sort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/DeleteEveryKthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/MinimizeProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SortByAbsoluteDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +65,11 @@
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\slides" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sort" />
       <recent name="assignments" />
       <recent name="sorting" />
       <recent name="searching" />
       <recent name="recursion" />
-      <recent name="batch_assignments" />
     </key>
   </component>
   <component name="RunManager" selected="Application.QueueStackRecap">
