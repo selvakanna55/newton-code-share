@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/DeleteEveryKthNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/MinimizeProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SortByAbsoluteDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueStackRecap">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DqueueJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queue.DqueueJava" />
       <module name="october-ms" />
@@ -82,6 +82,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="feb-dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,19 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueUsingArray (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue.QueueUsingArray" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="QueueUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queue.QueueUsingArray" />
       <module name="october-ms" />
@@ -139,19 +133,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.QueueStackRecap" />
       <item itemvalue="Application.DqueueJava" />
       <item itemvalue="Application.QueueJava" />
-      <item itemvalue="Application.QueueUsingArray (1)" />
       <item itemvalue="Application.QueueUsingArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.QueueStackRecap" />
         <item itemvalue="Application.DqueueJava" />
         <item itemvalue="Application.QueueJava" />
         <item itemvalue="Application.QueueUsingArray" />
-        <item itemvalue="Application.QueueUsingArray (1)" />
       </list>
     </recent_temporary>
   </component>
