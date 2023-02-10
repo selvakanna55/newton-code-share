@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/EvenlyDivisibleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/FinalOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/GrossSalaryContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/HipHipArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/LargestPrimeDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/NearestPerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/NextVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SubtractionWithoutArithmeticOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/maths/PrintAllFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/maths/PrintPrimeFactors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/ConcatenateStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/DuplicatesAtADistanceK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/NumberOfDistinctNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/SumUpContest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
