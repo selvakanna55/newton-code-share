@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/feb-dsa/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/EvenlyDivisibleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/FinalOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/GrossSalaryContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/HipHipArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/LargestPrimeDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/NearestPerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/NextVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SubtractionWithoutArithmeticOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/maths/PrintAllFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/maths/PrintPrimeFactors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +79,7 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.PrintPrimeFactors">
     <configuration name="DqueueJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queue.DqueueJava" />
       <module name="october-ms" />
@@ -93,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue.QueueJava" />
-      <module name="october-ms" />
+    <configuration name="PrintAllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maths.PrintAllFactors" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queue.*" />
+          <option name="PATTERN" value="maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintPrimeFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maths.PrintPrimeFactors" />
+      <module name="nov-dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,33 +139,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue.QueueUsingArray" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.PrintAllFactors" />
+      <item itemvalue="Application.PrintPrimeFactors" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.QueueStackRecap" />
       <item itemvalue="Application.DqueueJava" />
-      <item itemvalue="Application.QueueJava" />
-      <item itemvalue="Application.QueueUsingArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintPrimeFactors" />
+        <item itemvalue="Application.PrintAllFactors" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.QueueStackRecap" />
         <item itemvalue="Application.DqueueJava" />
-        <item itemvalue="Application.QueueJava" />
-        <item itemvalue="Application.QueueUsingArray" />
       </list>
     </recent_temporary>
   </component>
