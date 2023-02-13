@@ -83,7 +83,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="feb-dsa" />
+      <module name="feb-dsa-23" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
