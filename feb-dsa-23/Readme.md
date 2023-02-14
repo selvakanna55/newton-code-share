@@ -1,1 +1,7 @@
 Slides - https://drive.google.com/drive/folders/1CEQ2ER5FGtLrx2AMt_hrsTAI28_6idd4
+
+Install Java - https://www.java.com/en/download/manual.jsp
+
+Install IntelliJ - https://www.jetbrains.com/idea/download/#section=windows
+
+Duck Ball - https://learn.newtonschool.co/block-games/duck-ball
