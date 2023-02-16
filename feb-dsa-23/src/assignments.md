@@ -1,0 +1,3 @@
+- Data types https://my.newtonschool.co/playground/code/0mhh04m7dg3p/
+- Simple Input - Integer https://my.newtonschool.co/playground/code/iz389b8p2deu/
+- Start Coding https://my.newtonschool.co/playground/code/8hxnweh7hcr2/
