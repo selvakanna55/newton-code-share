@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/basics_of_programming/Datatypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/basics_of_programming/PrintData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/practice/AdjacentSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/practice/CandieDistrbution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/practice/IsDivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/practice/MaxiSumPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/practice/SumOfSquareRootsTillK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/practice/ThreeConsecutiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/practice/VarunTarun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,33 +77,13 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DqueueJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue.DqueueJava" />
-      <module name="october-ms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="feb-dsa-23" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintAllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.PrintAllFactors" />
+  <component name="RunManager" selected="Application.ThreeConsecutiveNumbers">
+    <configuration name="AdjacentSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.AdjacentSum" />
       <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maths.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintPrimeFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.PrintPrimeFactors" />
+    <configuration name="MaxiSumPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.MaxiSumPair" />
       <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maths.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +104,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueStackRecap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue.QueueStackRecap" />
-      <module name="october-ms" />
+    <configuration name="SumOfSquareRootsTillK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.SumOfSquareRootsTillK" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queue.*" />
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeConsecutiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ThreeConsecutiveNumbers" />
+      <module name="nov-dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarunTarun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.VarunTarun" />
+      <module name="nov-dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,19 +144,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrintAllFactors" />
-      <item itemvalue="Application.PrintPrimeFactors" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.QueueStackRecap" />
-      <item itemvalue="Application.DqueueJava" />
+      <item itemvalue="Application.AdjacentSum" />
+      <item itemvalue="Application.MaxiSumPair" />
+      <item itemvalue="Application.SumOfSquareRootsTillK" />
+      <item itemvalue="Application.ThreeConsecutiveNumbers" />
+      <item itemvalue="Application.VarunTarun" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PrintPrimeFactors" />
-        <item itemvalue="Application.PrintAllFactors" />
-        <item itemvalue="Application.QueueStackRecap" />
-        <item itemvalue="Application.DqueueJava" />
+        <item itemvalue="Application.ThreeConsecutiveNumbers" />
+        <item itemvalue="Application.SumOfSquareRootsTillK" />
+        <item itemvalue="Application.MaxiSumPair" />
+        <item itemvalue="Application.AdjacentSum" />
+        <item itemvalue="Application.VarunTarun" />
       </list>
     </recent_temporary>
   </component>
@@ -1302,6 +1313,31 @@
           <url>file://$PROJECT_DIR$/october-ms/src/revision_dsa1/Sorting.java</url>
           <line>19</line>
           <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/practice/IsDivisibleBy3.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/practice/VarunTarun.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/practice/VarunTarun.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/practice/AdjacentSum.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/practice/ThreeConsecutiveNumbers.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="354" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
