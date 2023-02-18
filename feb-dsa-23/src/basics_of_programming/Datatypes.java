@@ -2,23 +2,21 @@ package basics_of_programming;
 
 class Datatypes {
     public static void main(String args[]) {
+        // datatype variablename = value;
         short number1 = 10;
-
         int intVariable = 56;
-        System.out.println(intVariable);
-
-
         long number3 = 105678765;
 
-        float percentage = 99.8f;
+        float percentage = 45.77777771777475f;
         double average = 45.77777771777475;
 
-        boolean isPlaced = true;
+        boolean isPlaced = true; // binary 1 -> true, 0 -> false
+        boolean hadDinner = false;
 
         byte num = 10;
 
         char geneder = 'M';
-        char symbol = '$';
+        char symbol = '(';
 
         System.out.println(number1);
         System.out.println(number1);
