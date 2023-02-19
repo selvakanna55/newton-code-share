@@ -1,7 +1,7 @@
 - Data types https://my.newtonschool.co/playground/code/0mhh04m7dg3p/
-- Simple Input - Integer https://my.newtonschool.co/playground/code/iz389b8p2deu/
+- Simple Input Integer https://my.newtonschool.co/playground/code/iz389b8p2deu/
 - Start Coding https://my.newtonschool.co/playground/code/8hxnweh7hcr2/
-- Swap - https://my.newtonschool.co/playground/code/ure5j5q1xrj2/
-- Increment and Decrement - https://my.newtonschool.co/playground/code/n95f5wklgzjv/
-- Simple Sum - https://my.newtonschool.co/playground/code/h2rqz7yn6pgu/
+- Swap https://my.newtonschool.co/playground/code/ure5j5q1xrj2/
+- Increment and Decrement https://my.newtonschool.co/playground/code/n95f5wklgzjv/
+- Simple Sum https://my.newtonschool.co/playground/code/h2rqz7yn6pgu/
 - 
