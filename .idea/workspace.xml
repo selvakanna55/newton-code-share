@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/input_output/ScannerExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Operators">
+  <component name="RunManager" selected="Application.SimpleIntInput">
     <configuration name="Datatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basics_of_programming.Datatypes" />
       <module name="feb-dsa-23" />
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxiSumPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.MaxiSumPair" />
-      <module name="nov-dsa" />
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics_of_programming.Operators" />
+      <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="basics_of_programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_of_programming.Operators" />
+    <configuration name="SimpleIntInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output.SimpleIntInput" />
       <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics_of_programming.*" />
+          <option name="PATTERN" value="input_output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,19 +138,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SimpleIntInput" />
       <item itemvalue="Application.Datatypes" />
       <item itemvalue="Application.Operators" />
-      <item itemvalue="Application.MaxiSumPair" />
       <item itemvalue="Application.SumOfSquareRootsTillK" />
       <item itemvalue="Application.ThreeConsecutiveNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleIntInput" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.Datatypes" />
         <item itemvalue="Application.ThreeConsecutiveNumbers" />
         <item itemvalue="Application.SumOfSquareRootsTillK" />
-        <item itemvalue="Application.MaxiSumPair" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667236155220</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="next class ques">
+      <created>1676819513193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676819513193</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

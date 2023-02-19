@@ -4,4 +4,5 @@
 - Swap https://my.newtonschool.co/playground/code/ure5j5q1xrj2/
 - Increment and Decrement https://my.newtonschool.co/playground/code/n95f5wklgzjv/
 - Simple Sum https://my.newtonschool.co/playground/code/h2rqz7yn6pgu/
+- Value of PI https://my.newtonschool.co/playground/code/8mf0c8azsfju/
 - 
