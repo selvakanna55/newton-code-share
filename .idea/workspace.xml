@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/input_output/ScannerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/SimpleObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleIntInput">
+  <component name="RunManager" selected="Application.SimpleObject">
     <configuration name="Datatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basics_of_programming.Datatypes" />
       <module name="feb-dsa-23" />
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfSquareRootsTillK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.SumOfSquareRootsTillK" />
+    <configuration name="SimpleObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.SimpleObject" />
       <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,19 +138,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SimpleObject" />
       <item itemvalue="Application.SimpleIntInput" />
       <item itemvalue="Application.Datatypes" />
       <item itemvalue="Application.Operators" />
-      <item itemvalue="Application.SumOfSquareRootsTillK" />
       <item itemvalue="Application.ThreeConsecutiveNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleObject" />
         <item itemvalue="Application.SimpleIntInput" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.Datatypes" />
         <item itemvalue="Application.ThreeConsecutiveNumbers" />
-        <item itemvalue="Application.SumOfSquareRootsTillK" />
       </list>
     </recent_temporary>
   </component>
@@ -1339,6 +1339,11 @@
           <url>file://$PROJECT_DIR$/nov-dsa/src/practice/ThreeConsecutiveNumbers.java</url>
           <line>13</line>
           <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/oops/SimpleObject.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="360" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
