@@ -5,4 +5,6 @@
 - Increment and Decrement https://my.newtonschool.co/playground/code/n95f5wklgzjv/
 - Simple Sum https://my.newtonschool.co/playground/code/h2rqz7yn6pgu/
 - Value of PI https://my.newtonschool.co/playground/code/8mf0c8azsfju/
+- Print Stars https://my.newtonschool.co/playground/code/0l0v27chdqtt/
+- Loop debugging - Print Even Integers https://my.newtonschool.co/playground/code/qxxfsw9axtjl/
 - 
