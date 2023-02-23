@@ -7,4 +7,5 @@
 - Value of PI https://my.newtonschool.co/playground/code/8mf0c8azsfju/
 - Print Stars https://my.newtonschool.co/playground/code/0l0v27chdqtt/
 - Loop debugging - Print Even Integers https://my.newtonschool.co/playground/code/qxxfsw9axtjl/
+- Loop debugging - Pattern https://my.newtonschool.co/playground/code/x094cxj28k6g/
 - 

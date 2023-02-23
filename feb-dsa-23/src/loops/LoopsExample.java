@@ -25,5 +25,14 @@ public class LoopsExample {
         }
         System.out.println();
 
+        //'A' to 'Z'
+        for (char j = 'A'; j <= 'Z'; j++) {
+            System.out.println(j);
+        }
+
+        //10, 9, 8, 7, .. 0
+        for (int i = 10; i >= 0; i--) {
+            System.out.print(i + " ");
+        }
     }
 }
