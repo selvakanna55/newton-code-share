@@ -28,6 +28,8 @@ class CountingZeroesToOnes {
                 colZero--;
             }
             System.out.print((rowZero * colZero) + " ");
+
+            new StringBuffer().insert(0,'a');
         }
     }
 }

@@ -1,10 +1,10 @@
 package assignments;
 
-import java.io.*; // for handling input/output
-import java.util.*; // contains Collections framework
+import java.util.Scanner;
 
 // don't change the name of this class
 // you can add inner classes if needed
+
 class MinCutTree {
     static long getPieces(int arr[], int height, int n) {
         long pieces = 0;
@@ -24,11 +24,17 @@ class MinCutTree {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-        int ans = 0;
-        for (int cut = 1; cut <= n; cut++) {
-            if (getPieces(arr, cut, n) <= k) {
-                ans = cut;
-                break;
+        int ans = n;
+        int left = 0, right = n;
+        while (left <= right) {
+            int cut = (left + right) / 2; //mid
+            long pieces = getPieces(arr, cut, n);
+            System.out.println(cut + " " + pieces);
+            if (pieces <= k) {
+                ans = Math.min(ans, cut);
+                right = cut - 1;
+            } else {
+                left = cut + 1;
             }
         }
         System.out.println(ans);
