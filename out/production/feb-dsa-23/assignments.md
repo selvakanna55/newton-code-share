@@ -8,4 +8,17 @@
 - Print Stars https://my.newtonschool.co/playground/code/0l0v27chdqtt/
 - Loop debugging - Print Even Integers https://my.newtonschool.co/playground/code/qxxfsw9axtjl/
 - Loop debugging - Pattern https://my.newtonschool.co/playground/code/x094cxj28k6g/
+- Doctor clinic https://my.newtonschool.co/playground/code/na6an6yjm0mn/
+- Odd or Even https://my.newtonschool.co/playground/code/ul9jx73fh4jl/
+- Is Alphabet? https://my.newtonschool.co/playground/code/i3jrld6p36vx/
+- Student Grades https://my.newtonschool.co/playground/code/gq2sa8d0the1/
+- FizzBuzz https://my.newtonschool.co/playground/code/d32zaw4o9gr8/
+- Knight https://my.newtonschool.co/playground/code/8ti9bfvegsyl/
+- Pass the Exam https://my.newtonschool.co/playground/code/yqe50944sp88/
+- Number of days https://my.newtonschool.co/playground/code/k9t1idvcxom0/
+- Checking a Number https://my.newtonschool.co/playground/code/zb8yk7touj74/
+- Week Name https://my.newtonschool.co/playground/code/1eo7qdp64zbm/
+- Max in Three Numbers https://my.newtonschool.co/playground/code/55pe0wb2siu1/
+- Logical operators https://my.newtonschool.co/playground/code/bpnynsfcx7j5/
+- Four Numbers https://my.newtonschool.co/playground/code/rq55y2sumx8v/
 - 

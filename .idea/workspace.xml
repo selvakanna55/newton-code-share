@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/SequenceFormationContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/functions/SimpleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +73,7 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleStatic">
+  <component name="RunManager" selected="Application.SimpleFunction">
     <configuration name="CalculateSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="contest2.CalculateSalary" />
       <module name="nov-dsa" />
@@ -110,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatternPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contest2.PatternPrinter" />
-      <module name="nov-dsa" />
+    <configuration name="SimpleFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.SimpleFunction" />
+      <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="contest2.*" />
+          <option name="PATTERN" value="functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,19 +140,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SimpleFunction" />
       <item itemvalue="Application.CompileTime" />
       <item itemvalue="Application.SimpleStatic" />
       <item itemvalue="Application.CalculateSalary" />
       <item itemvalue="Application.InsuranceClaim" />
-      <item itemvalue="Application.PatternPrinter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleFunction" />
         <item itemvalue="Application.SimpleStatic" />
         <item itemvalue="Application.CompileTime" />
         <item itemvalue="Application.CalculateSalary" />
         <item itemvalue="Application.InsuranceClaim" />
-        <item itemvalue="Application.PatternPrinter" />
       </list>
     </recent_temporary>
   </component>
@@ -1352,6 +1355,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/functions/SimpleFunction.java</url>
+          <line>30</line>
+          <properties class="functions.SimpleFunction" method="printBegin">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="361" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

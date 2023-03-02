@@ -21,4 +21,5 @@
 - Max in Three Numbers https://my.newtonschool.co/playground/code/55pe0wb2siu1/
 - Logical operators https://my.newtonschool.co/playground/code/bpnynsfcx7j5/
 - Four Numbers https://my.newtonschool.co/playground/code/rq55y2sumx8v/
+- Apple and Oranges (Functional Problem) https://my.newtonschool.co/playground/code/06bxb7bha8e2/
 - 
