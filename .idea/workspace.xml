@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/loops/SimpleStarPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/time_space/SimpleLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/time_space/SumOfN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placement-ready/placement-ready.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,48 +76,9 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleFunction">
-    <configuration name="CalculateSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contest2.CalculateSalary" />
-      <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="contest2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompileTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.polymorphism.CompileTime" />
-      <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsuranceClaim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contest2.InsuranceClaim" />
-      <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="contest2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.SimpleFunction" />
+  <component name="RunManager" selected="Application.FunctionRecap">
+    <configuration name="FunctionRecap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.FunctionRecap" />
       <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
@@ -123,12 +90,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.SimpleStatic" />
-      <module name="nov-dsa" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="feb-dsa-23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time_space.SimpleLoop" />
+      <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="time_space.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.SimpleStarPattern" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time_space.SumOfN" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="time_space.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,19 +137,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleFunction" />
-      <item itemvalue="Application.CompileTime" />
-      <item itemvalue="Application.SimpleStatic" />
-      <item itemvalue="Application.CalculateSalary" />
-      <item itemvalue="Application.InsuranceClaim" />
+      <item itemvalue="Application.FunctionRecap" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SimpleLoop" />
+      <item itemvalue="Application.SimpleStarPattern" />
+      <item itemvalue="Application.SumOfN" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleFunction" />
-        <item itemvalue="Application.SimpleStatic" />
-        <item itemvalue="Application.CompileTime" />
-        <item itemvalue="Application.CalculateSalary" />
-        <item itemvalue="Application.InsuranceClaim" />
+        <item itemvalue="Application.FunctionRecap" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SumOfN" />
+        <item itemvalue="Application.SimpleStarPattern" />
+        <item itemvalue="Application.SimpleLoop" />
       </list>
     </recent_temporary>
   </component>
