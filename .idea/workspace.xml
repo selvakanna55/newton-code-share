@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/CandyLoveContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/MonsterCombatContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/SwappingMatrixContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/functions/FunctionDoubt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/time_space/LogN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/time_space/TwoLoopNN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/time_space/SimpleLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/time_space/SimpleLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/time_space/SumOfN.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/time_space/SumOfN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,35 +75,35 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SuperA (4)">
+  <component name="RunManager" selected="Application.FunctionDoubt">
+    <configuration name="FunctionDoubt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.FunctionDoubt" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time_space.LogN" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="time_space.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SingleInheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.inheritance.SingleInheritanceExample" />
-      <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SuperA (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.SuperA" />
-      <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SuperA (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.SuperA" />
       <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
@@ -140,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.SuperA" />
-      <module name="nov-dsa" />
+    <configuration name="TwoLoopNN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time_space.TwoLoopNN" />
+      <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="PATTERN" value="time_space.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,19 +155,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SuperA" />
-      <item itemvalue="Application.SuperA (1)" />
-      <item itemvalue="Application.SuperA (2)" />
+      <item itemvalue="Application.FunctionDoubt" />
+      <item itemvalue="Application.LogN" />
       <item itemvalue="Application.SuperA (3)" />
       <item itemvalue="Application.SuperA (4)" />
+      <item itemvalue="Application.TwoLoopNN" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionDoubt" />
+        <item itemvalue="Application.TwoLoopNN" />
+        <item itemvalue="Application.LogN" />
         <item itemvalue="Application.SuperA (4)" />
         <item itemvalue="Application.SuperA (3)" />
-        <item itemvalue="Application.SuperA (2)" />
-        <item itemvalue="Application.SuperA (1)" />
-        <item itemvalue="Application.SuperA" />
       </list>
     </recent_temporary>
   </component>
