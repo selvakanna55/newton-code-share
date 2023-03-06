@@ -5,11 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="next class ques">
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arrays/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arrays/SimpleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arrays/SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/branch/sample1/HelloTestingPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/linkedlist/LinkedListRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/ImportPackageExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/abstraction/InterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/abstraction/SimpleAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/access/diffpackage/DiffPackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/access/diffpackage/DiffPackageNonSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/access/samepackage/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/access/samepackage/B1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/access/samepackage/SamePackageSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/polymorphism/ConstructorOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/oops/polymorphism/RuntimePoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/tictactoe/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/tictactoe/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/tictactoe/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/tictactoe/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/Contest404.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov-dsa/src/Dq.java" beforeDir="false" afterPath="$PROJECT_DIR$/nov-dsa/src/Dq.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,21 +56,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kannan/Documents/GitHub/newton-code-share/october-ms/src/hashing&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/Kannan/Documents/GitHub/newton-code-share/nov-dsa/src/oops/access/diffpackage",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\nov-dsa\src\oops\access\diffpackage" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\src\hashing" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\augbatch5\src\oops" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\slides" />
@@ -74,13 +89,13 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseArray">
-    <configuration name="FunctionDoubt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.FunctionDoubt" />
-      <module name="feb-dsa-23" />
+  <component name="RunManager" selected="Application.LinkedListRun">
+    <configuration name="ImportPackageExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.ImportPackageExample" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functions.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ReverseArray" />
-      <module name="feb-dsa-23" />
+    <configuration name="InterfaceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.abstraction.InterfaceExample" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="oops.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.SimpleArray" />
-      <module name="feb-dsa-23" />
+    <configuration name="LinkedListRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListRun" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.SumOfArray" />
-      <module name="feb-dsa-23" />
+    <configuration name="PlayGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tictactoe.PlayGame" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="tictactoe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoLoopNN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time_space.TwoLoopNN" />
-      <module name="feb-dsa-23" />
+    <configuration name="SimpleAbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.abstraction.SimpleAbstractClass" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time_space.*" />
+          <option name="PATTERN" value="oops.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,19 +156,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseArray" />
-      <item itemvalue="Application.SimpleArray" />
-      <item itemvalue="Application.SumOfArray" />
-      <item itemvalue="Application.FunctionDoubt" />
-      <item itemvalue="Application.TwoLoopNN" />
+      <item itemvalue="Application.ImportPackageExample" />
+      <item itemvalue="Application.InterfaceExample" />
+      <item itemvalue="Application.LinkedListRun" />
+      <item itemvalue="Application.PlayGame" />
+      <item itemvalue="Application.SimpleAbstractClass" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.SumOfArray" />
-        <item itemvalue="Application.SimpleArray" />
-        <item itemvalue="Application.FunctionDoubt" />
-        <item itemvalue="Application.TwoLoopNN" />
+        <item itemvalue="Application.LinkedListRun" />
+        <item itemvalue="Application.PlayGame" />
+        <item itemvalue="Application.InterfaceExample" />
+        <item itemvalue="Application.SimpleAbstractClass" />
+        <item itemvalue="Application.ImportPackageExample" />
       </list>
     </recent_temporary>
   </component>
@@ -1387,6 +1402,21 @@
           <url>file://$PROJECT_DIR$/feb-dsa-23/src/arrays/SimpleArray.java</url>
           <line>21</line>
           <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/oops/inheritance/SuperA.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/oops/ImportPackageExample.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nov-dsa/src/tictactoe/TicTacToe.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="375" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
