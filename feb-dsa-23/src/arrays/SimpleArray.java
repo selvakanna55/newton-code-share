@@ -2,15 +2,6 @@ package arrays;
 
 import java.util.Scanner;
 
-class Student {
-    int rollNo;
-    double percentage;
-
-    void eat() {
-        System.out.println("eating");
-    }
-}
-
 public class SimpleArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -19,7 +10,11 @@ public class SimpleArray {
 //
 //        int num = 10;
 //        System.out.println(rollNo);
-        int nums[] = new int[4];
+        int n = sc.nextInt();
+        int nums[] = new int[n];
+//        nums[0] = 10;
+//        nums[1] = 20;
+//        nums[3] = 99;
         for (int i = 0; i < nums.length; i++) {
             nums[i] = sc.nextInt();
         }

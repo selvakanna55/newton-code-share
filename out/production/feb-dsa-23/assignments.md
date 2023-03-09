@@ -22,4 +22,9 @@
 - Logical operators https://my.newtonschool.co/playground/code/bpnynsfcx7j5/
 - Four Numbers https://my.newtonschool.co/playground/code/rq55y2sumx8v/
 - Apple and Oranges (Functional Problem) https://my.newtonschool.co/playground/code/06bxb7bha8e2/
+- Doraemon and big light https://my.newtonschool.co/playground/code/01c8kp19ftnq
+- MCQ Exam https://my.newtonschool.co/playground/code/enrmvvuhkfza
+- Queen's attack https://my.newtonschool.co/playground/code/0oh6oagjbxvc
+- Distributing money (Functional Problem) https://my.newtonschool.co/playground/code/gshq1o4aveqf
+- Hip Hip Array https://my.newtonschool.co/playground/code/xpegnu9nlvk4/
 - 
