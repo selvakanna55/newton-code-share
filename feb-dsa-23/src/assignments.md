@@ -28,4 +28,5 @@
 - Distributing money (Functional Problem) https://my.newtonschool.co/playground/code/gshq1o4aveqf
 - Hip Hip Array https://my.newtonschool.co/playground/code/xpegnu9nlvk4/
 - Minimum adjacent difference in a circular array https://my.newtonschool.co/playground/code/xn5ge3329yvd/
+- Simple Transpose https://my.newtonschool.co/playground/code/57otr2mjvt0x/
 - 

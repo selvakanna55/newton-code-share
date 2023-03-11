@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe" />
+    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/SubarrayWithGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arrays/FindMinimumMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arrays/MatrixAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arrays/MatrixInputOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arrays/Start2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,13 +78,13 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleArray">
-    <configuration name="InterfaceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.abstraction.InterfaceExample" />
-      <module name="nov-dsa" />
+  <component name="RunManager" selected="Application.Start2D">
+    <configuration name="FindMinimumMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.FindMinimumMaximum" />
+      <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.abstraction.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleAbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.abstraction.SimpleAbstractClass" />
-      <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.abstraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SimpleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.SimpleArray" />
       <module name="feb-dsa-23" />
@@ -135,20 +131,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Start2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Start2D" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.FindMinimumMaximum" />
+      <item itemvalue="Application.Start2D" />
       <item itemvalue="Application.SimpleArray" />
-      <item itemvalue="Application.InterfaceExample" />
       <item itemvalue="Application.LinkedListRun" />
       <item itemvalue="Application.PlayGame" />
-      <item itemvalue="Application.SimpleAbstractClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Start2D" />
+        <item itemvalue="Application.FindMinimumMaximum" />
         <item itemvalue="Application.SimpleArray" />
         <item itemvalue="Application.LinkedListRun" />
         <item itemvalue="Application.PlayGame" />
-        <item itemvalue="Application.InterfaceExample" />
-        <item itemvalue="Application.SimpleAbstractClass" />
       </list>
     </recent_temporary>
   </component>
@@ -1440,5 +1449,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/newton_code_share$FindMinimumMaximum.ic" NAME="FindMinimumMaximum Coverage Results" MODIFIED="1678549417996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrays.*</FILTER>
+    </SUITE>
   </component>
 </project>
