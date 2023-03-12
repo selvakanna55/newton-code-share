@@ -29,4 +29,7 @@
 - Hip Hip Array https://my.newtonschool.co/playground/code/xpegnu9nlvk4/
 - Minimum adjacent difference in a circular array https://my.newtonschool.co/playground/code/xn5ge3329yvd/
 - Simple Transpose https://my.newtonschool.co/playground/code/57otr2mjvt0x/
+- Boundary Traversal of Matrix https://my.newtonschool.co/playground/code/ra76aaz5fepj/
+- Simple-Determinant https://my.newtonschool.co/playground/code/hyfly6g99akw/
+- Rotate the matrix https://my.newtonschool.co/playground/code/afrf0453e4ke/
 - 
