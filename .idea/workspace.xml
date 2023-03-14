@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/CountPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/HelpTinaContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arraylist/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arraylist/WrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +75,7 @@
       <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertAtPos">
+  <component name="RunManager" selected="Application.arraylist.WrapperClass">
     <configuration name="FindMinimumMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.FindMinimumMaximum" />
       <module name="feb-dsa-23" />
@@ -99,32 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListRun" />
-      <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.SimpleArray" />
-      <module name="feb-dsa-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Start2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Start2D" />
       <module name="feb-dsa-23" />
@@ -138,20 +115,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.WrapperClass" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arraylist.WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylist.WrapperClass" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.arraylist.WrapperClass" />
+      <item itemvalue="Application.WrapperClass" />
       <item itemvalue="Application.InsertAtPos" />
       <item itemvalue="Application.FindMinimumMaximum" />
       <item itemvalue="Application.Start2D" />
-      <item itemvalue="Application.SimpleArray" />
-      <item itemvalue="Application.LinkedListRun" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arraylist.WrapperClass" />
+        <item itemvalue="Application.WrapperClass" />
         <item itemvalue="Application.InsertAtPos" />
         <item itemvalue="Application.Start2D" />
         <item itemvalue="Application.FindMinimumMaximum" />
-        <item itemvalue="Application.SimpleArray" />
-        <item itemvalue="Application.LinkedListRun" />
       </list>
     </recent_temporary>
   </component>
@@ -1413,6 +1416,11 @@
           <url>file://$PROJECT_DIR$/feb-dsa-23/src/arrays/SimpleArray.java</url>
           <line>12</line>
           <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/arraylist/WrapperClass.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="383" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>

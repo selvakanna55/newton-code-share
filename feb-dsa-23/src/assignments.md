@@ -32,4 +32,5 @@
 - Boundary Traversal of Matrix https://my.newtonschool.co/playground/code/ra76aaz5fepj/
 - Simple-Determinant https://my.newtonschool.co/playground/code/hyfly6g99akw/
 - Rotate the matrix https://my.newtonschool.co/playground/code/afrf0453e4ke/
-- 
+- Operations on ArrayList https://my.newtonschool.co/playground/code/k7hnszakh9hf/
+- Count Frequency of Characters in List https://my.newtonschool.co/playground/code/600zoaf4c40z/
