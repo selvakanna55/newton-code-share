@@ -34,3 +34,4 @@
 - Rotate the matrix https://my.newtonschool.co/playground/code/afrf0453e4ke/
 - Operations on ArrayList https://my.newtonschool.co/playground/code/k7hnszakh9hf/
 - Count Frequency of Characters in List https://my.newtonschool.co/playground/code/600zoaf4c40z/
+- Divisibility Test https://my.newtonschool.co/playground/code/wllfxyxavthy/
