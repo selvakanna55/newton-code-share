@@ -38,4 +38,6 @@
 - Rev Strings https://my.newtonschool.co/playground/code/dqv4shc8ac7p/
 - Odd characters https://my.newtonschool.co/playground/code/v3u5o4n2vd2z/
 - Spiral Matrix https://my.newtonschool.co/playground/code/v0f1adj472p3
-- 
+- Counting Zeroes to Ones (Contest) https://my.newtonschool.co/playground/code/o8dgyn5l7gnx
+- Merge Lists(Contest) https://my.newtonschool.co/playground/code/y45xdyyvlryk
+- OR counting https://my.newtonschool.co/playground/code/pfkq2cu93uiw/
