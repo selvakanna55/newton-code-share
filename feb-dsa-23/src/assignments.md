@@ -41,3 +41,4 @@
 - Counting Zeroes to Ones (Contest) https://my.newtonschool.co/playground/code/o8dgyn5l7gnx
 - Merge Lists(Contest) https://my.newtonschool.co/playground/code/y45xdyyvlryk
 - OR counting https://my.newtonschool.co/playground/code/pfkq2cu93uiw/
+- Make tiny https://my.newtonschool.co/playground/code/duy1zwm879mb/
