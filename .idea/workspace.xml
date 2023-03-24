@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/KCircleSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/recursion/BasicPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/recursion/BasicPrinterWithParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/recursion/Print1toN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/string/ConvertStringToArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +70,20 @@
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\slides" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="recursion" />
       <recent name="assignments" />
       <recent name="sort" />
       <recent name="sorting" />
       <recent name="searching" />
-      <recent name="recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.arraylist.WrapperClass">
-    <configuration name="FindMinimumMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.FindMinimumMaximum" />
+  <component name="RunManager" selected="Application.Print1toN">
+    <configuration name="BasicPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.BasicPrinter" />
       <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertAtPos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.InsertAtPos" />
-      <module name="nov-dsa" />
+    <configuration name="BasicPrinterWithParams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.BasicPrinterWithParams" />
+      <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Start2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Start2D" />
+    <configuration name="Print1toN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Print1toN" />
       <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +144,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BasicPrinter" />
+      <item itemvalue="Application.BasicPrinterWithParams" />
+      <item itemvalue="Application.Print1toN" />
       <item itemvalue="Application.arraylist.WrapperClass" />
       <item itemvalue="Application.WrapperClass" />
-      <item itemvalue="Application.InsertAtPos" />
-      <item itemvalue="Application.FindMinimumMaximum" />
-      <item itemvalue="Application.Start2D" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Print1toN" />
+        <item itemvalue="Application.BasicPrinterWithParams" />
+        <item itemvalue="Application.BasicPrinter" />
         <item itemvalue="Application.arraylist.WrapperClass" />
         <item itemvalue="Application.WrapperClass" />
-        <item itemvalue="Application.InsertAtPos" />
-        <item itemvalue="Application.Start2D" />
-        <item itemvalue="Application.FindMinimumMaximum" />
       </list>
     </recent_temporary>
   </component>
@@ -1418,6 +1423,41 @@
           <url>file://$PROJECT_DIR$/feb-dsa-23/src/arraylist/WrapperClass.java</url>
           <line>19</line>
           <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/recursion/BasicPrinter.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/recursion/BasicPrinter.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/recursion/BasicPrinter.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/recursion/BasicPrinter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/recursion/BasicPrinter.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/recursion/BasicPrinter.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/recursion/Print1toN.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="393" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>

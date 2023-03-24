@@ -32,4 +32,13 @@
 - Boundary Traversal of Matrix https://my.newtonschool.co/playground/code/ra76aaz5fepj/
 - Simple-Determinant https://my.newtonschool.co/playground/code/hyfly6g99akw/
 - Rotate the matrix https://my.newtonschool.co/playground/code/afrf0453e4ke/
-- 
+- Operations on ArrayList https://my.newtonschool.co/playground/code/k7hnszakh9hf/
+- Count Frequency of Characters in List https://my.newtonschool.co/playground/code/600zoaf4c40z/
+- Divisibility Test https://my.newtonschool.co/playground/code/wllfxyxavthy/
+- Rev Strings https://my.newtonschool.co/playground/code/dqv4shc8ac7p/
+- Odd characters https://my.newtonschool.co/playground/code/v3u5o4n2vd2z/
+- Spiral Matrix https://my.newtonschool.co/playground/code/v0f1adj472p3
+- Counting Zeroes to Ones (Contest) https://my.newtonschool.co/playground/code/o8dgyn5l7gnx
+- Merge Lists(Contest) https://my.newtonschool.co/playground/code/y45xdyyvlryk
+- OR counting https://my.newtonschool.co/playground/code/pfkq2cu93uiw/
+- Make tiny https://my.newtonschool.co/playground/code/duy1zwm879mb/
