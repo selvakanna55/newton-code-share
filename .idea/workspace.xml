@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/KCircleSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/recursion/BasicPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/recursion/BasicPrinterWithParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/recursion/Print1toN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/string/ConvertStringToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/ArrayImplementationOfQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/NearestSmallerElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/assignments/NextLargerElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov-dsa/src/stack/StackUsingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <recent name="searching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Print1toN">
+  <component name="RunManager" selected="Application.StackUsingArray">
     <configuration name="BasicPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.BasicPrinter" />
       <module name="feb-dsa-23" />
@@ -117,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.WrapperClass" />
-      <module name="feb-dsa-23" />
+    <configuration name="StackUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.StackUsingArray" />
+      <module name="nov-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,19 +142,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.StackUsingArray" />
       <item itemvalue="Application.BasicPrinter" />
       <item itemvalue="Application.BasicPrinterWithParams" />
       <item itemvalue="Application.Print1toN" />
       <item itemvalue="Application.arraylist.WrapperClass" />
-      <item itemvalue="Application.WrapperClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackUsingArray" />
         <item itemvalue="Application.Print1toN" />
         <item itemvalue="Application.BasicPrinterWithParams" />
         <item itemvalue="Application.BasicPrinter" />
         <item itemvalue="Application.arraylist.WrapperClass" />
-        <item itemvalue="Application.WrapperClass" />
       </list>
     </recent_temporary>
   </component>
@@ -376,6 +374,31 @@
             </State>
           </value>
         </entry>
+        <entry key="de470700-c90c-4555-8b89-749f9ac7cbee">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Kannan/Documents/GitHub/newton-code-share/placecom/src/assignments" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
@@ -383,6 +406,7 @@
         <entry key="895661d0-c45d-4f2d-be62-130f588f23b8" value="TOOL_WINDOW" />
         <entry key="9f31b565-d22f-42f1-9b39-88aacba3f98c" value="TOOL_WINDOW" />
         <entry key="cb7b66cf-7c41-4c9d-98dc-d6794715d7dc" value="TOOL_WINDOW" />
+        <entry key="de470700-c90c-4555-8b89-749f9ac7cbee" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
