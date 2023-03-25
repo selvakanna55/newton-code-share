@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/MakingItPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/PowerFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/placecom/src/assignments/RepeatingCharacterFirstAppearanceLeftmost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/BuildingEnergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/GridMagicContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/UniqueElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/recursion/RecapRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/recursion/Sum1ToNReturnInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/recursion/SumOfNMethod2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/recursion/Print1toN.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/recursion/Print1toN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,20 +79,7 @@
       <recent name="searching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackUsingArray">
-    <configuration name="BasicPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.BasicPrinter" />
-      <module name="feb-dsa-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SumOfNMethod2">
     <configuration name="BasicPrinterWithParams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.BasicPrinterWithParams" />
       <module name="feb-dsa-23" />
@@ -127,12 +119,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraylist.WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.WrapperClass" />
+    <configuration name="Sum1ToNReturnInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Sum1ToNReturnInt" />
       <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfNMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.SumOfNMethod2" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,19 +146,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Sum1ToNReturnInt" />
+      <item itemvalue="Application.SumOfNMethod2" />
       <item itemvalue="Application.StackUsingArray" />
-      <item itemvalue="Application.BasicPrinter" />
       <item itemvalue="Application.BasicPrinterWithParams" />
       <item itemvalue="Application.Print1toN" />
-      <item itemvalue="Application.arraylist.WrapperClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfNMethod2" />
+        <item itemvalue="Application.Sum1ToNReturnInt" />
         <item itemvalue="Application.StackUsingArray" />
         <item itemvalue="Application.Print1toN" />
         <item itemvalue="Application.BasicPrinterWithParams" />
-        <item itemvalue="Application.BasicPrinter" />
-        <item itemvalue="Application.arraylist.WrapperClass" />
       </list>
     </recent_temporary>
   </component>
@@ -1479,7 +1484,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feb-dsa-23/src/recursion/Print1toN.java</url>
-          <line>18</line>
+          <line>14</line>
           <option name="timeStamp" value="393" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">

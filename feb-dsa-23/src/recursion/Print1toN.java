@@ -10,11 +10,7 @@ public class Print1toN {
     }
 
     public static void main(String[] args) {
-        int n = 5; // 1+2+3+4+5
-//        int sum = 0;
-//        for (int i = 1; i <= n; i++) {
-//            sum = sum + i;
-//        }
+        int n = 3; // 1+2+3
         sum(1, n);
         System.out.println(sum);
     }
