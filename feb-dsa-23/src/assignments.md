@@ -45,4 +45,5 @@
 - A Boolean Matrix Problem https://my.newtonschool.co/playground/code/ju3ltymx3uuk
 - Multiplication https://my.newtonschool.co/playground/code/zpwkvrbje74e
 - Palindrome [Recursive] https://my.newtonschool.co/playground/code/00p8d4bs6r2o/
+- Print all subarrays https://my.newtonschool.co/playground/code/egs9yza9z60n
 - 

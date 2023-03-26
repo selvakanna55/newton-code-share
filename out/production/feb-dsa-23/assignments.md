@@ -42,3 +42,8 @@
 - Merge Lists(Contest) https://my.newtonschool.co/playground/code/y45xdyyvlryk
 - OR counting https://my.newtonschool.co/playground/code/pfkq2cu93uiw/
 - Make tiny https://my.newtonschool.co/playground/code/duy1zwm879mb/
+- A Boolean Matrix Problem https://my.newtonschool.co/playground/code/ju3ltymx3uuk
+- Multiplication https://my.newtonschool.co/playground/code/zpwkvrbje74e
+- Palindrome [Recursive] https://my.newtonschool.co/playground/code/00p8d4bs6r2o/
+- Print all subarrays https://my.newtonschool.co/playground/code/egs9yza9z60n
+- 
