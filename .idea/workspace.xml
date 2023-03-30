@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/ConstantNumberContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/DoubleMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/GrossSalaryContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/searching/LinearSearching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/MakeAPContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/searching/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/searching/LinearSearching.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/searching/LinearSearching.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,20 @@
       <recent name="searching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinearSearching">
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searching.BinarySearch" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConvertForToRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.ConvertForToRecursion" />
       <module name="feb-dsa-23" />
@@ -96,19 +108,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="searching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.StackUsingArray" />
-      <module name="nov-dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +142,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.LinearSearching" />
       <item itemvalue="Application.ConvertForToRecursion" />
       <item itemvalue="Application.Sum1ToNReturnInt" />
       <item itemvalue="Application.SumOfNMethod2" />
-      <item itemvalue="Application.StackUsingArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.LinearSearching" />
         <item itemvalue="Application.ConvertForToRecursion" />
         <item itemvalue="Application.SumOfNMethod2" />
         <item itemvalue="Application.Sum1ToNReturnInt" />
-        <item itemvalue="Application.StackUsingArray" />
       </list>
     </recent_temporary>
   </component>

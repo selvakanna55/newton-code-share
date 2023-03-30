@@ -16,7 +16,7 @@ class LinearSearching {
     public static void main(String args[]) {
         int arr[] = {4, 99, 6, 51};
         // int arr[] = {10,12,-4,-9,6,44,66};
-        int ans = find(arr, 22);
+        int ans = find(arr, 6);
         System.out.println(ans);
     }
 }
