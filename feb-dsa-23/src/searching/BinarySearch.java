@@ -9,7 +9,7 @@ public class BinarySearch {
             int mid = (left + right) / 2;
             if (arr[mid] == target) {
                 return mid;
-            } else if (target > arr[mid]) { //left
+            } else if (target < arr[mid]) { //left
                 right = mid - 1;
             } else {
                 left = mid + 1;
@@ -19,8 +19,8 @@ public class BinarySearch {
     }
 
     public static void main(String[] args) {
-        int arr[] = {10, 12, 14, 16, 18, 28}; //ascending
-        int ans = find(arr, 18);
+        int arr[] = {10, 12, 14, 16, 18}; //ascending
+        int ans = find(arr, 16);
         System.out.println(ans);
 
     }

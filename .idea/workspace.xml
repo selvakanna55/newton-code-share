@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/MakeAPContest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/searching/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/searching/CutAt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/searching/LinearSearching.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/searching/LinearSearching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/searching/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <recent name="searching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.CutAt">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="searching.BinarySearch" />
       <module name="feb-dsa-23" />
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searching.LinearSearching" />
+    <configuration name="CutAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searching.CutAt" />
       <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
@@ -115,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum1ToNReturnInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Sum1ToNReturnInt" />
+    <configuration name="LinearSearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searching.LinearSearching" />
       <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,19 +142,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CutAt" />
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.LinearSearching" />
       <item itemvalue="Application.ConvertForToRecursion" />
-      <item itemvalue="Application.Sum1ToNReturnInt" />
       <item itemvalue="Application.SumOfNMethod2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CutAt" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.LinearSearching" />
         <item itemvalue="Application.ConvertForToRecursion" />
         <item itemvalue="Application.SumOfNMethod2" />
-        <item itemvalue="Application.Sum1ToNReturnInt" />
       </list>
     </recent_temporary>
   </component>
@@ -1502,6 +1502,36 @@
           <url>file://$PROJECT_DIR$/feb-dsa-23/src/searching/LinearSearching.java</url>
           <line>5</line>
           <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/searching/BinarySearch.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/searching/BinarySearch.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/searching/BinarySearch.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/searching/BinarySearch.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/searching/CutAt.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/searching/CutAt.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="407" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
