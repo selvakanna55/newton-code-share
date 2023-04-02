@@ -48,3 +48,4 @@
 - Print all subarrays https://my.newtonschool.co/playground/code/egs9yza9z60n
 - Merge array https://my.newtonschool.co/playground/code/20awqqxomdcp/
 - Count 1's in binary array https://my.newtonschool.co/playground/code/aw783qtsnsm1/
+- Min Cut Tree https://my.newtonschool.co/playground/code/kf2wncnugvah/
