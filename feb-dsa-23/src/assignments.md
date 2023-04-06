@@ -49,3 +49,6 @@
 - Merge array https://my.newtonschool.co/playground/code/20awqqxomdcp/
 - Count 1's in binary array https://my.newtonschool.co/playground/code/aw783qtsnsm1/
 - Min Cut Tree https://my.newtonschool.co/playground/code/kf2wncnugvah/
+- Tower of Hanoi https://my.newtonschool.co/playground/code/21crrvp3tz4e
+- Smaller elements https://my.newtonschool.co/playground/code/vdfw8hn6cx4e
+- 
