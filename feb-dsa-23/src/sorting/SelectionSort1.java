@@ -21,7 +21,6 @@ public class SelectionSort1 {
             int temp = arr[i];
             arr[i] = arr[smallestIndex];
             arr[smallestIndex] = temp;
-            System.out.println(Arrays.toString(arr));
 
         }
     }

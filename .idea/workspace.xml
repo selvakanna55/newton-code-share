@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe" />
+    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/sorting/InsertionSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/sorting/InsertionSort1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,7 @@
       <recent name="searching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintArrayRecursion">
+  <component name="RunManager" selected="Application.BubbleSort1">
     <configuration name="BubbleSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.BubbleSort1" />
       <module name="feb-dsa-23" />
@@ -124,9 +126,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintArrayRecursion" />
         <item itemvalue="Application.BubbleSort1" />
         <item itemvalue="Application.SelectionSort1" />
+        <item itemvalue="Application.PrintArrayRecursion" />
         <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
@@ -1510,11 +1512,6 @@
           <url>file://$PROJECT_DIR$/october-ms/src/sorting/SelectionSort.java</url>
           <line>8</line>
           <option name="timeStamp" value="409" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-dsa-23/src/sorting/SelectionSort1.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="412" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
