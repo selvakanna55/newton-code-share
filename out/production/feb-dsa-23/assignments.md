@@ -51,4 +51,6 @@
 - Min Cut Tree https://my.newtonschool.co/playground/code/kf2wncnugvah/
 - Tower of Hanoi https://my.newtonschool.co/playground/code/21crrvp3tz4e
 - Smaller elements https://my.newtonschool.co/playground/code/vdfw8hn6cx4e
+- Implementing Insertion sort https://my.newtonschool.co/playground/code/oe9zh5pjl1mx
+- Implementing Bubble Sort https://my.newtonschool.co/playground/code/fdzvskhg1x61/
 - 
