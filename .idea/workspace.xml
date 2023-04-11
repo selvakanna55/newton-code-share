@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/dec2022-ms/src/CountSubarraysWithGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec2022-ms/src/EqualDistinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec2022-ms/src/InsertionInSortedDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec2022-ms/src/SubarraysWithEqual1sAnd0s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/sorting/QuickSort1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/sorting/MergeSortArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/sorting/MergeSortArray1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <recent name="searching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSortArray1">
+  <component name="RunManager" selected="Application.QuickSort1">
     <configuration name="BubbleSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.BubbleSort1" />
       <module name="feb-dsa-23" />
@@ -115,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.SelectionSort" />
+    <configuration name="QuickSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.QuickSort1" />
       <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
@@ -143,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort1" />
         <item itemvalue="Application.MergeSortArray1" />
         <item itemvalue="Application.BubbleSort1" />
         <item itemvalue="Application.SelectionSort1" />
         <item itemvalue="Application.PrintArrayRecursion" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
