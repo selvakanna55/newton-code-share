@@ -53,4 +53,5 @@
 - Smaller elements https://my.newtonschool.co/playground/code/vdfw8hn6cx4e
 - Implementing Insertion sort https://my.newtonschool.co/playground/code/oe9zh5pjl1mx
 - Implementing Bubble Sort https://my.newtonschool.co/playground/code/fdzvskhg1x61/
-- 
+- Sum of largest elements https://my.newtonschool.co/playground/code/bs7ve7tpkrq3/
+- Minimize sum 
