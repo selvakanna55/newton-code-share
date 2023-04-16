@@ -56,4 +56,5 @@
 - Sum of largest elements https://my.newtonschool.co/playground/code/bs7ve7tpkrq3/
 - Minimize sum https://my.newtonschool.co/playground/code/y5czm5cr76b8
 - Inversion of array https://my.newtonschool.co/playground/code/w95wsh9prf0y
+- Make Multiple https://my.newtonschool.co/playground/code/q9vfdsonl56d/
 - 

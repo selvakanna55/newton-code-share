@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class IsPrime {
 
     public static boolean isNumberIsPrime(int n) { //Sqrt(n)
+        // sqrt(16) -> 4
         boolean isPrime = true;
         for (int i = 2; i <= Math.sqrt(n); i++) {
             if (n % i == 0) {
@@ -23,6 +24,7 @@ public class IsPrime {
                 System.out.print(i + " ");
             }
         }
+        // n*sqrt(n)  -> n*log*(logn)
 
     }
 }
