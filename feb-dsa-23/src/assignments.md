@@ -57,4 +57,6 @@
 - Minimize sum https://my.newtonschool.co/playground/code/y5czm5cr76b8
 - Inversion of array https://my.newtonschool.co/playground/code/w95wsh9prf0y
 - Make Multiple https://my.newtonschool.co/playground/code/q9vfdsonl56d/
+- Prime Numbers Before N https://my.newtonschool.co/playground/code/myajkhiuln3y/
+- Max prime number in range https://my.newtonschool.co/playground/code/rjhv41joy6dc/
 - 
