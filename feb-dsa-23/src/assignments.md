@@ -59,4 +59,5 @@
 - Make Multiple https://my.newtonschool.co/playground/code/q9vfdsonl56d/
 - Prime Numbers Before N https://my.newtonschool.co/playground/code/myajkhiuln3y/
 - Max prime number in range https://my.newtonschool.co/playground/code/rjhv41joy6dc/
-- 
+- First two https://my.newtonschool.co/playground/code/r6txxipgkf5y/
+- Minimize Product https://my.newtonschool.co/playground/code/chx6rp3xgrpt
