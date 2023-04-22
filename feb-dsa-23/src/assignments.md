@@ -61,3 +61,5 @@
 - Max prime number in range https://my.newtonschool.co/playground/code/rjhv41joy6dc/
 - First two https://my.newtonschool.co/playground/code/r6txxipgkf5y/
 - Minimize Product https://my.newtonschool.co/playground/code/chx6rp3xgrpt
+- Minimize XOR https://my.newtonschool.co/playground/code/p1p0auxqlf1w/
+- Even substrings (contest) https://my.newtonschool.co/playground/code/7yxje8m7opme
