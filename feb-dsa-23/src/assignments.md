@@ -63,3 +63,7 @@
 - Minimize Product https://my.newtonschool.co/playground/code/chx6rp3xgrpt
 - Minimize XOR https://my.newtonschool.co/playground/code/p1p0auxqlf1w/
 - Even substrings (contest) https://my.newtonschool.co/playground/code/7yxje8m7opme
+- Gray Code https://my.newtonschool.co/playground/code/tfxyv2sei5wi/
+- Extreme Sums (contest) https://my.newtonschool.co/playground/code/jy5a47e0vthl
+- Help Samar with Chopsticks (Contest) https://my.newtonschool.co/playground/code/ql4w277zysqm
+- 
