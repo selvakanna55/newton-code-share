@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/april-b2-23/src/input_output/BufferReadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/april-b2-23/src/input_output/SimpleInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/april-b2-23/src/input_output/SimpleOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/april-b2-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/april-b2-23/src/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +75,7 @@
       <recent name="searching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BitBasic1">
+  <component name="RunManager" selected="Application.BufferReadExample">
     <configuration name="BitBasic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bit_manupulation.BitBasic1" />
       <module name="feb-dsa-23" />
@@ -85,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.IsPrime" />
-      <module name="feb-dsa-23" />
+    <configuration name="BufferReadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output.BufferReadExample" />
+      <module name="april-b2-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maths.*" />
+          <option name="PATTERN" value="input_output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerInLogn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.PowerInLogn" />
-      <module name="feb-dsa-23" />
+    <configuration name="SimpleInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output.SimpleInput" />
+      <module name="april-b2-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maths.*" />
+          <option name="PATTERN" value="input_output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeSieve1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.PrimeSieve1" />
-      <module name="feb-dsa-23" />
+    <configuration name="SimpleOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output.SimpleOutput" />
+      <module name="april-b2-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maths.*" />
+          <option name="PATTERN" value="input_output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BufferReadExample" />
+        <item itemvalue="Application.SimpleInput" />
+        <item itemvalue="Application.SimpleOutput" />
         <item itemvalue="Application.BitBasic1" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PowerInLogn" />
-        <item itemvalue="Application.PrimeSieve1" />
-        <item itemvalue="Application.IsPrime" />
       </list>
     </recent_temporary>
   </component>
@@ -1536,6 +1540,21 @@
           <url>file://$PROJECT_DIR$/feb-dsa-23/src/maths/PowerInLogn.java</url>
           <line>27</line>
           <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/april-b2-23/src/input_output/SimpleInput.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/april-b2-23/src/input_output/BufferReadExample.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/april-b2-23/src/input_output/BufferReadExample.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="416" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
