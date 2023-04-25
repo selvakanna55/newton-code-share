@@ -66,4 +66,5 @@
 - Gray Code https://my.newtonschool.co/playground/code/tfxyv2sei5wi/
 - Extreme Sums (contest) https://my.newtonschool.co/playground/code/jy5a47e0vthl
 - Help Samar with Chopsticks (Contest) https://my.newtonschool.co/playground/code/ql4w277zysqm
-- 
+- Modulo Product https://my.newtonschool.co/playground/code/eqp8uhcp1frz
+- Creating Object https://my.newtonschool.co/playground/code/5c9ndq0bh7hf

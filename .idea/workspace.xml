@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/april-b2-23/src/input_output/BufferReadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/april-b2-23/src/input_output/SimpleInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/april-b2-23/src/input_output/SimpleOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/ExamsGameContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/oops/WithoutOops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/oops/basic/BasicPhoneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/oops/basic/SimpleCarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/oops/basic/SimpleStudentExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/april-b2-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/april-b2-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
