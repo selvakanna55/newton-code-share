@@ -67,4 +67,7 @@
 - Extreme Sums (contest) https://my.newtonschool.co/playground/code/jy5a47e0vthl
 - Help Samar with Chopsticks (Contest) https://my.newtonschool.co/playground/code/ql4w277zysqm
 - Modulo Product https://my.newtonschool.co/playground/code/eqp8uhcp1frz
-- Creating Object https://my.newtonschool.co/playground/code/5c9ndq0bh7hf
+- Creating Object https://my.newtonschool.co/playground/code/5c9ndq0bh7hf4
+- Sum Calculator (OOPs) https://my.newtonschool.co/playground/code/qpik7f1cpayk
+- Subtraction without arithmetic operation https://my.newtonschool.co/playground/code/v89p6zh065re
+- Final output https://my.newtonschool.co/playground/code/tw9af4tikluy
