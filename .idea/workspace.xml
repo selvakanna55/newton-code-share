@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/LargestNumberAtLeastTwiceOfOthers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/oops/CompileTimePoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/oops/SimpleInheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/oops/WithoutOops.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/oops/WithoutOops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,20 +75,7 @@
       <recent name="searching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BufferReadExample">
-    <configuration name="BitBasic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit_manupulation.BitBasic1" />
-      <module name="feb-dsa-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bit_manupulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SimpleInheritance">
     <configuration name="BufferReadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="input_output.BufferReadExample" />
       <module name="april-b2-23" />
@@ -100,12 +89,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit_manupulation.Main" />
+    <configuration name="CompileTimePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.CompileTimePoly" />
       <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bit_manupulation.*" />
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.SimpleInheritance" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleInheritance" />
+        <item itemvalue="Application.CompileTimePoly" />
         <item itemvalue="Application.BufferReadExample" />
         <item itemvalue="Application.SimpleInput" />
         <item itemvalue="Application.SimpleOutput" />
-        <item itemvalue="Application.BitBasic1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -1554,6 +1556,41 @@
           <line>10</line>
           <option name="timeStamp" value="416" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/oops/CompileTimePoly.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/oops/CompileTimePoly.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/oops/CompileTimePoly.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/oops/CompileTimePoly.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/oops/SimpleInheritance.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/oops/SimpleInheritance.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-dsa-23/src/oops/SimpleInheritance.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
           <line>11</line>
@@ -1572,6 +1609,10 @@
           </properties>
           <option name="timeStamp" value="361" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="421" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
