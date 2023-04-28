@@ -1,4 +1,8 @@
-Anti-Fibonacci - https://my.newtonschool.co/playground/code/z85m8hgndgv0/
-Pattern Printing - https://my.newtonschool.co/playground/code/8xnspzyvcp25/
-Magic Trick - https://my.newtonschool.co/playground/code/01bpzpjzn8v5/
-Steps Execution - https://my.newtonschool.co/playground/code/x10uzkk4nepg/
+- Anti-Fibonacci - https://my.newtonschool.co/playground/code/z85m8hgndgv0/
+- Pattern Printing - https://my.newtonschool.co/playground/code/8xnspzyvcp25/
+- Magic Trick - https://my.newtonschool.co/playground/code/01bpzpjzn8v5/
+- Steps Execution - https://my.newtonschool.co/playground/code/x10uzkk4nepg/
+- Four Numbers https://my.newtonschool.co/playground/code/5h442s9h88kc/
+- Logical operators https://my.newtonschool.co/playground/code/ubpw9kgp2l8v/
+- Value of PI https://my.newtonschool.co/playground/code/aiqh9dd4sh0o/
+- 
