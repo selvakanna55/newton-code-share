@@ -1,4 +1,4 @@
-package oops;
+package oops.polymorphism;
 
 public class CompileTimePoly {
     static double sum(double a, double b) {
