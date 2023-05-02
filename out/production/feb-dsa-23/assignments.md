@@ -71,3 +71,6 @@
 - Sum Calculator (OOPs) https://my.newtonschool.co/playground/code/qpik7f1cpayk
 - Subtraction without arithmetic operation https://my.newtonschool.co/playground/code/v89p6zh065re
 - Final output https://my.newtonschool.co/playground/code/tw9af4tikluy
+- Maximum Sum https://my.newtonschool.co/playground/code/voc6t8n1k86p
+- The gabba test https://my.newtonschool.co/playground/code/3f81uuebnne5
+- 
