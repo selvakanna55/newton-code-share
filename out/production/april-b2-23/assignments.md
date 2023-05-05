@@ -9,4 +9,4 @@
 - Checking a Number https://my.newtonschool.co/playground/code/8c3tkeq09cei
 - Week Name https://my.newtonschool.co/playground/code/pt8zlc2kgkox
 - Max in Three Numbers https://my.newtonschool.co/playground/code/3c1vn35404l8
-- 
+- Even Digit Sum https://my.newtonschool.co/playground/code/y2dwpjsruhzm

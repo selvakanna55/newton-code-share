@@ -10,3 +10,6 @@
 - Week Name https://my.newtonschool.co/playground/code/pt8zlc2kgkox
 - Max in Three Numbers https://my.newtonschool.co/playground/code/3c1vn35404l8
 - Even Digit Sum https://my.newtonschool.co/playground/code/y2dwpjsruhzm
+- Sum and Mean https://my.newtonschool.co/playground/code/brnsnbtaiazm
+- Mohit and array https://my.newtonschool.co/playground/code/m3mncn8nopxq
+- FizzBuzz https://my.newtonschool.co/playground/code/0lq5q5dcwxgs
