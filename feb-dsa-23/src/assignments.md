@@ -73,4 +73,5 @@
 - Final output https://my.newtonschool.co/playground/code/tw9af4tikluy
 - Maximum Sum https://my.newtonschool.co/playground/code/voc6t8n1k86p
 - The gabba test https://my.newtonschool.co/playground/code/3f81uuebnne5
+- Subsequence Product https://my.newtonschool.co/playground/code/y8xseov94q11
 - 
