@@ -1,4 +1,4 @@
-package arena;
+package leetcode;
 // https://leetcode.com/problems/valid-anagram/
 
 class ValidAnagram {

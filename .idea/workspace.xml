@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,12 +181,19 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="895661d0-c45d-4f2d-be62-130f588f23b8" value="TOOL_WINDOW" />
+        <entry key="9f31b565-d22f-42f1-9b39-88aacba3f98c" value="TOOL_WINDOW" />
+        <entry key="cb7b66cf-7c41-4c9d-98dc-d6794715d7dc" value="TOOL_WINDOW" />
+        <entry key="de470700-c90c-4555-8b89-749f9ac7cbee" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="20327d68-c0c8-4894-8064-218de1778bfd">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -206,13 +212,13 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
         <entry key="33fc4a56-7df7-40cb-9807-3fbca68db363">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -231,13 +237,13 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
         <entry key="51657238-9c6d-4792-83e4-573345760a17">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -256,13 +262,13 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
         <entry key="64a2ee88-981b-40d2-aab4-8b617417b81a">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -281,13 +287,13 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
         <entry key="895661d0-c45d-4f2d-be62-130f588f23b8">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -306,13 +312,13 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
         <entry key="9f31b565-d22f-42f1-9b39-88aacba3f98c">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -331,6 +337,7 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
@@ -342,7 +349,6 @@
         <entry key="cb7b66cf-7c41-4c9d-98dc-d6794715d7dc">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -361,13 +367,13 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
         <entry key="de470700-c90c-4555-8b89-749f9ac7cbee">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -386,17 +392,10 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
-      </map>
-    </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="895661d0-c45d-4f2d-be62-130f588f23b8" value="TOOL_WINDOW" />
-        <entry key="9f31b565-d22f-42f1-9b39-88aacba3f98c" value="TOOL_WINDOW" />
-        <entry key="cb7b66cf-7c41-4c9d-98dc-d6794715d7dc" value="TOOL_WINDOW" />
-        <entry key="de470700-c90c-4555-8b89-749f9ac7cbee" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -1668,11 +1667,11 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/newton_code_share$FindMinimumMaximum.ic" NAME="FindMinimumMaximum Coverage Results" MODIFIED="1678549417996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>arrays.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/newton_code_share$SelectionSort__1_.ic" NAME="SelectionSort (1) Coverage Results" MODIFIED="1680452092582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>sorting.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/newton_code_share$FindMinimumMaximum.ic" NAME="FindMinimumMaximum Coverage Results" MODIFIED="1678549417996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrays.*</FILTER>
     </SUITE>
   </component>
 </project>
