@@ -4,6 +4,37 @@ package linkedlist;
 class LinkedList {
     Node head;
 
+    void insertAtPos(int position, int number) {
+        Node newNode = new Node(number);
+        if (position == 1) {// insert at pos
+            newNode.next = head;
+            head = newNode;
+        } else {
+            Node curr = head;
+            for (int i = 1; i < position - 1; i++) {
+                curr = curr.next;
+            }
+            Node nextNode = curr.next;
+
+            // make connection
+            curr.next = newNode;
+            newNode.next = nextNode;
+        }
+    }
+
+
+    void deleteAtPos(int position) {
+        if (position == 1) {
+            head = head.next;
+        } else {
+            Node curr = head;
+            for (int i = 1; i < position - 1; i++) {
+                curr = curr.next;
+            }
+            curr.next = curr.next.next;
+        }
+    }
+
     void insertAtEnd(int number) {
         Node newNode = new Node(number);
         if (head == null) { // inserting first node

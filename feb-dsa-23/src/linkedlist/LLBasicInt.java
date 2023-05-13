@@ -3,7 +3,6 @@ package linkedlist;
 
 class Node {
     int value;
-    double pecentage; //added
     Node next;
 
     Node(int number) { //added

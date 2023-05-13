@@ -76,3 +76,6 @@
 - Subsequence Product https://my.newtonschool.co/playground/code/y8xseov94q11
 - Lazy Sam (Contest) https://my.newtonschool.co/playground/code/zu09g4w8tmo6
 - XOR Problem (Contest) https://my.newtonschool.co/playground/code/zkz24fe3p7q8
+- Print the Linked List https://my.newtonschool.co/playground/code/mg3dujsxzkuf
+- Insert node at the head https://my.newtonschool.co/playground/code/r109qbfvfr0x
+- 
