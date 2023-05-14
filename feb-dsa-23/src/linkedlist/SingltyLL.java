@@ -1,5 +1,13 @@
 package linkedlist;
 
+class Node {
+    Node next;
+    int value;
+
+    Node(int value) {
+        this.value = value;
+    }
+}
 
 class LinkedList {
     Node head;
@@ -32,6 +40,23 @@ class LinkedList {
                 curr = curr.next;
             }
             curr.next = curr.next.next;
+        }
+    }
+
+    void deleteNodewByValue(int number) {
+        if (head.value == number) {
+            head = head.next;
+        } else {
+            Node curr = head;
+            Node prev = null;
+            while (curr != null) {
+                if (curr.value == number) {
+                    prev.next = prev.next.next;
+                    break;
+                }
+                prev = curr;
+                curr = curr.next;
+            }
         }
     }
 

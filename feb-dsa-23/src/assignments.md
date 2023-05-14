@@ -78,4 +78,7 @@
 - XOR Problem (Contest) https://my.newtonschool.co/playground/code/zkz24fe3p7q8
 - Print the Linked List https://my.newtonschool.co/playground/code/mg3dujsxzkuf
 - Insert node at the head https://my.newtonschool.co/playground/code/r109qbfvfr0x
-- 
+- Delete the Middle of the Linked List https://my.newtonschool.co/playground/code/wa4rivkgcu2o
+- Reversing the Linked List https://my.newtonschool.co/playground/code/5c32ksevc9p4
+- Delete node without head pointer https://my.newtonschool.co/playground/code/iddoo60ayt48
+- Node in the middle https://my.newtonschool.co/playground/code/ag1bubetzsja
