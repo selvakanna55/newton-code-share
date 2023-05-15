@@ -13,3 +13,4 @@
 - Sum and Mean https://my.newtonschool.co/playground/code/brnsnbtaiazm
 - Mohit and array https://my.newtonschool.co/playground/code/m3mncn8nopxq
 - FizzBuzz https://my.newtonschool.co/playground/code/0lq5q5dcwxgs
+- 

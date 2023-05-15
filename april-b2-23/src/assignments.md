@@ -13,3 +13,7 @@
 - Sum and Mean https://my.newtonschool.co/playground/code/brnsnbtaiazm
 - Mohit and array https://my.newtonschool.co/playground/code/m3mncn8nopxq
 - FizzBuzz https://my.newtonschool.co/playground/code/0lq5q5dcwxgs
+- Toeplitz Matrix https://my.newtonschool.co/playground/code/imzbt1eobkf2
+- Identity matrix https://my.newtonschool.co/playground/code/q620xp2bpko5
+- Count Frequency of Characters in List https://my.newtonschool.co/playground/code/9hymmhyhyjud
+- Index of the Element https://my.newtonschool.co/playground/code/li1uim8nabwp
