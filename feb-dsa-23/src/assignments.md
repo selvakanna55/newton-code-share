@@ -82,3 +82,5 @@
 - Reversing the Linked List https://my.newtonschool.co/playground/code/5c32ksevc9p4
 - Delete node without head pointer https://my.newtonschool.co/playground/code/iddoo60ayt48
 - Node in the middle https://my.newtonschool.co/playground/code/ag1bubetzsja
+- Zeros at front of linked list https://my.newtonschool.co/playground/code/njgb3u3ysbx1
+- 
