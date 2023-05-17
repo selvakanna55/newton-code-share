@@ -17,3 +17,8 @@
 - Identity matrix https://my.newtonschool.co/playground/code/q620xp2bpko5
 - Count Frequency of Characters in List https://my.newtonschool.co/playground/code/9hymmhyhyjud
 - Index of the Element https://my.newtonschool.co/playground/code/li1uim8nabwp
+- Gross Salary(Contest) https://my.newtonschool.co/playground/code/tzgqgeogjs2i
+- Anagram https://my.newtonschool.co/playground/code/jip68g8tkllk
+- Shuffle String https://my.newtonschool.co/playground/code/yq50zu1flu2j
+- To Upper Case https://my.newtonschool.co/playground/code/po0girikm4ui
+- 
