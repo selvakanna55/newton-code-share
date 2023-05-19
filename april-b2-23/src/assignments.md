@@ -21,4 +21,5 @@
 - Anagram https://my.newtonschool.co/playground/code/jip68g8tkllk
 - Shuffle String https://my.newtonschool.co/playground/code/yq50zu1flu2j
 - To Upper Case https://my.newtonschool.co/playground/code/po0girikm4ui
-- 
+- Factorial - Recursion https://my.newtonschool.co/playground/code/sv9ezo4sd7ok
+- Insert Operator https://my.newtonschool.co/playground/code/ftvxbynjqg9g
