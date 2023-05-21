@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/april-b2-23/src/recursion/RecursionExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/april-b2-23/src/recursion/SimpleFunctions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/april-b2-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/april-b2-23/src/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,20 @@
       <recent name="sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoublyLL">
+  <component name="RunManager" selected="Application.CircularLL">
+    <configuration name="CircularLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.CircularLL" />
+      <module name="feb-dsa-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DoublyLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.DoublyLL" />
       <module name="feb-dsa-23" />
@@ -90,19 +100,6 @@
     </configuration>
     <configuration name="LLBasicInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.LLBasicInt" />
-      <module name="april-b2-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LLBasicWithIntDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.LLBasicWithIntDouble" />
       <module name="april-b2-23" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircularLL" />
         <item itemvalue="Application.DoublyLL" />
         <item itemvalue="Application.SimpleArrayList" />
         <item itemvalue="Application.SingltyLL" />
         <item itemvalue="Application.LLBasicInt" />
-        <item itemvalue="Application.LLBasicWithIntDouble" />
       </list>
     </recent_temporary>
   </component>
