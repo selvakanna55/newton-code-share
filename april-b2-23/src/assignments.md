@@ -23,3 +23,10 @@
 - To Upper Case https://my.newtonschool.co/playground/code/po0girikm4ui
 - Factorial - Recursion https://my.newtonschool.co/playground/code/sv9ezo4sd7ok
 - Insert Operator https://my.newtonschool.co/playground/code/ftvxbynjqg9g
+- Find Bad Number https://my.newtonschool.co/playground/code/tws91pbil47q
+- Merge Lists(Contest) https://my.newtonschool.co/playground/code/wtmux24d6gqy 
+- Length of a number https://my.newtonschool.co/playground/code/166zstndfz38
+- Element position https://my.newtonschool.co/playground/code/yv5175yr0hkr
+- Divisibility Test https://my.newtonschool.co/playground/code/zx0pifl5vmpp
+- Passcode https://my.newtonschool.co/playground/code/0pgloae2kuc1
+- 
