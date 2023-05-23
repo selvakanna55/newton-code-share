@@ -85,3 +85,6 @@
 - Zeros at front of linked list https://my.newtonschool.co/playground/code/njgb3u3ysbx1
 - Insert node at the head in a doubly linked list https://my.newtonschool.co/playground/code/snosb0jddc2w
 - Insertion in Sorted Doubly Linked List https://my.newtonschool.co/playground/code/tozs0w4lljr3
+- Circular linked list https://my.newtonschool.co/playground/code/89d0n8cbc63v
+- Insertion in circular linked list https://my.newtonschool.co/playground/code/yn4nq46lfib7
+- Reversing a double linked list https://my.newtonschool.co/playground/code/fbnc1h5ma7wb
