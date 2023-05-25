@@ -88,3 +88,4 @@
 - Circular linked list https://my.newtonschool.co/playground/code/89d0n8cbc63v
 - Insertion in circular linked list https://my.newtonschool.co/playground/code/yn4nq46lfib7
 - Reversing a double linked list https://my.newtonschool.co/playground/code/fbnc1h5ma7wb
+- Exchange Nodes https://my.newtonschool.co/playground/code/9mqmtubfrvlr
