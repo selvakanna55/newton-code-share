@@ -89,3 +89,6 @@
 - Insertion in circular linked list https://my.newtonschool.co/playground/code/yn4nq46lfib7
 - Reversing a double linked list https://my.newtonschool.co/playground/code/fbnc1h5ma7wb
 - Exchange Nodes https://my.newtonschool.co/playground/code/9mqmtubfrvlr
+- Smaller elements https://my.newtonschool.co/playground/code/hci2nwtphhk6
+- Count 1's in binary array https://my.newtonschool.co/playground/code/l7mvda2wie6n
+- 
