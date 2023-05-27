@@ -16,7 +16,6 @@ class SimpleSetExample {
         for (int num : li) {
             System.out.print(num + " ");
         }
-
     }
 }
 
