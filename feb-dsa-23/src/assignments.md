@@ -91,4 +91,6 @@
 - Exchange Nodes https://my.newtonschool.co/playground/code/9mqmtubfrvlr
 - Smaller elements https://my.newtonschool.co/playground/code/hci2nwtphhk6
 - Count 1's in binary array https://my.newtonschool.co/playground/code/l7mvda2wie6n
-- 
+- Distinct alphabets https://my.newtonschool.co/playground/code/slilz4yjq8zt
+- First non-repeating character in a String https://my.newtonschool.co/playground/code/vkaviyvtorft
+- Raj and Chocolates https://my.newtonschool.co/playground/code/7qt91ywo6qdv
