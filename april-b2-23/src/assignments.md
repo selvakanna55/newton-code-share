@@ -29,4 +29,11 @@
 - Element position https://my.newtonschool.co/playground/code/yv5175yr0hkr
 - Divisibility Test https://my.newtonschool.co/playground/code/zx0pifl5vmpp
 - Passcode https://my.newtonschool.co/playground/code/0pgloae2kuc1
-- 
+- Find Monopoly (Contest) https://my.newtonschool.co/playground/code/a6cnvx6m7enz
+- Who will take home (Contest) https://my.newtonschool.co/playground/code/ub00mckznn8a
+- Good Sum (Contest) https://my.newtonschool.co/playground/code/kmx4yh4k2yc3
+- Make a triangle (Contest) https://my.newtonschool.co/playground/code/je2uqaygrlrv
+- Good number (Contest) https://my.newtonschool.co/playground/code/nsxsogozniug
+- Type of triangle (Contest) https://my.newtonschool.co/playground/code/d40kgrtk8ljf
+- Three sum divisible by k (Contest) https://my.newtonschool.co/playground/code/zegnvyhl5qog
+- Bubble Sort (descending order) https://my.newtonschool.co/playground/code/dnypku2y4wli
