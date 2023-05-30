@@ -94,3 +94,5 @@
 - Distinct alphabets https://my.newtonschool.co/playground/code/slilz4yjq8zt
 - First non-repeating character in a String https://my.newtonschool.co/playground/code/vkaviyvtorft
 - Raj and Chocolates https://my.newtonschool.co/playground/code/7qt91ywo6qdv
+- Hashing for Pair https://my.newtonschool.co/playground/code/mobnbcizcoy9
+- 
