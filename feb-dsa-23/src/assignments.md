@@ -95,4 +95,6 @@
 - First non-repeating character in a String https://my.newtonschool.co/playground/code/vkaviyvtorft
 - Raj and Chocolates https://my.newtonschool.co/playground/code/7qt91ywo6qdv
 - Hashing for Pair https://my.newtonschool.co/playground/code/mobnbcizcoy9
-- 
+- Class Test Score (Contest) https://my.newtonschool.co/playground/code/ctn0apmhzjpo
+- OR of AND with middle (Contest) https://my.newtonschool.co/playground/code/bmplbnqknvlt
+- Maximum Tastiness of Candy Basket (Contest) https://my.newtonschool.co/playground/code/drp0kmucqif8
