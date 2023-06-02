@@ -37,3 +37,9 @@
 - Type of triangle (Contest) https://my.newtonschool.co/playground/code/d40kgrtk8ljf
 - Three sum divisible by k (Contest) https://my.newtonschool.co/playground/code/zegnvyhl5qog
 - Bubble Sort (descending order) https://my.newtonschool.co/playground/code/dnypku2y4wli
+- Happy Strings https://my.newtonschool.co/playground/code/2d525pnwg7y9
+- Minimum bundles (Contest) https://my.newtonschool.co/playground/code/4yu9owpdmsol
+- Resolution (Contest) https://my.newtonschool.co/playground/code/p6l6iklssr7e
+- Find richest (Contest) https://my.newtonschool.co/playground/code/w990uioiwdvp
+- Wave array https://my.newtonschool.co/playground/code/nngwcvlt1hlk
+- Selection Sort https://my.newtonschool.co/playground/code/jxfx2wg0b82y
