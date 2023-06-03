@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/april-b2-23/src/arrays/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/ArrayOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/arena/KinematicMatrixContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/queue/DequeJavaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/queue/QueueJavaExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/april-b2-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/april-b2-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/maths/FindGCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/maths/FindGCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/queue/QueueLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/queue/QueueLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/feb-dsa-23/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +26,7 @@
         <option value="AnnotationType" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -73,7 +80,7 @@
       <recent name="sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueLinkedList">
+  <component name="RunManager" selected="Application.QueueJavaExample">
     <configuration name="CircularLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.CircularLL" />
       <module name="feb-dsa-23" />
@@ -100,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue.QueueLinkedList" />
+    <configuration name="QueueJavaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.QueueJavaExample" />
       <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.SimpleArrayList" />
-      <module name="april-b2-23" />
+    <configuration name="QueueLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.QueueLinkedList" />
+      <module name="feb-dsa-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueJavaExample" />
         <item itemvalue="Application.QueueLinkedList" />
         <item itemvalue="Application.SimpleQueueArray" />
         <item itemvalue="Application.CircularLL" />
         <item itemvalue="Application.DoublyLL" />
-        <item itemvalue="Application.SimpleArrayList" />
       </list>
     </recent_temporary>
   </component>

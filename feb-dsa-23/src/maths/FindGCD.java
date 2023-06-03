@@ -1,5 +1,7 @@
 package maths;
 
+import java.util.Queue;
+
 public class FindGCD {
 
     static int gcd(int a, int b) {

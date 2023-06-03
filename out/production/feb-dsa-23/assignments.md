@@ -98,3 +98,6 @@
 - Class Test Score (Contest) https://my.newtonschool.co/playground/code/ctn0apmhzjpo
 - OR of AND with middle (Contest) https://my.newtonschool.co/playground/code/bmplbnqknvlt
 - Maximum Tastiness of Candy Basket (Contest) https://my.newtonschool.co/playground/code/drp0kmucqif8
+- operations on queue https://my.newtonschool.co/playground/code/wokhq562ej33
+- Reverse First K elements of Queue https://my.newtonschool.co/playground/code/01jz4i5w2nbw
+- 

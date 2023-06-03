@@ -10,7 +10,7 @@ class Node {
     }
 }
 
-class LinkedList {
+class LinkedList<I extends Number> {
     Node head;
     Node tail;
 
@@ -44,7 +44,7 @@ class LinkedList {
 
 public class QueueLinkedList {
     public static void main(String args[]) {
-        LinkedList list = new LinkedList();
+        LinkedList<Number> list = new LinkedList<Number>();
         list.enque(10);
         list.enque(20);
         list.enque(30);
