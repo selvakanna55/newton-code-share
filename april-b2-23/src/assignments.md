@@ -43,3 +43,4 @@
 - Find richest (Contest) https://my.newtonschool.co/playground/code/w990uioiwdvp
 - Wave array https://my.newtonschool.co/playground/code/nngwcvlt1hlk
 - Selection Sort https://my.newtonschool.co/playground/code/jxfx2wg0b82y
+- Interest of match https://my.newtonschool.co/playground/code/8ollsyndt6wy

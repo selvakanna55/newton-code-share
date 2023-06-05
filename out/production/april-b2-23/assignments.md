@@ -13,4 +13,34 @@
 - Sum and Mean https://my.newtonschool.co/playground/code/brnsnbtaiazm
 - Mohit and array https://my.newtonschool.co/playground/code/m3mncn8nopxq
 - FizzBuzz https://my.newtonschool.co/playground/code/0lq5q5dcwxgs
-- 
+- Toeplitz Matrix https://my.newtonschool.co/playground/code/imzbt1eobkf2
+- Identity matrix https://my.newtonschool.co/playground/code/q620xp2bpko5
+- Count Frequency of Characters in List https://my.newtonschool.co/playground/code/9hymmhyhyjud
+- Index of the Element https://my.newtonschool.co/playground/code/li1uim8nabwp
+- Gross Salary(Contest) https://my.newtonschool.co/playground/code/tzgqgeogjs2i
+- Anagram https://my.newtonschool.co/playground/code/jip68g8tkllk
+- Shuffle String https://my.newtonschool.co/playground/code/yq50zu1flu2j
+- To Upper Case https://my.newtonschool.co/playground/code/po0girikm4ui
+- Factorial - Recursion https://my.newtonschool.co/playground/code/sv9ezo4sd7ok
+- Insert Operator https://my.newtonschool.co/playground/code/ftvxbynjqg9g
+- Find Bad Number https://my.newtonschool.co/playground/code/tws91pbil47q
+- Merge Lists(Contest) https://my.newtonschool.co/playground/code/wtmux24d6gqy 
+- Length of a number https://my.newtonschool.co/playground/code/166zstndfz38
+- Element position https://my.newtonschool.co/playground/code/yv5175yr0hkr
+- Divisibility Test https://my.newtonschool.co/playground/code/zx0pifl5vmpp
+- Passcode https://my.newtonschool.co/playground/code/0pgloae2kuc1
+- Find Monopoly (Contest) https://my.newtonschool.co/playground/code/a6cnvx6m7enz
+- Who will take home (Contest) https://my.newtonschool.co/playground/code/ub00mckznn8a
+- Good Sum (Contest) https://my.newtonschool.co/playground/code/kmx4yh4k2yc3
+- Make a triangle (Contest) https://my.newtonschool.co/playground/code/je2uqaygrlrv
+- Good number (Contest) https://my.newtonschool.co/playground/code/nsxsogozniug
+- Type of triangle (Contest) https://my.newtonschool.co/playground/code/d40kgrtk8ljf
+- Three sum divisible by k (Contest) https://my.newtonschool.co/playground/code/zegnvyhl5qog
+- Bubble Sort (descending order) https://my.newtonschool.co/playground/code/dnypku2y4wli
+- Happy Strings https://my.newtonschool.co/playground/code/2d525pnwg7y9
+- Minimum bundles (Contest) https://my.newtonschool.co/playground/code/4yu9owpdmsol
+- Resolution (Contest) https://my.newtonschool.co/playground/code/p6l6iklssr7e
+- Find richest (Contest) https://my.newtonschool.co/playground/code/w990uioiwdvp
+- Wave array https://my.newtonschool.co/playground/code/nngwcvlt1hlk
+- Selection Sort https://my.newtonschool.co/playground/code/jxfx2wg0b82y
+- Interest of match https://my.newtonschool.co/playground/code/8ollsyndt6wy
