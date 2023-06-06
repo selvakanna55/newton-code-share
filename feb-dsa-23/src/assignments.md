@@ -101,3 +101,5 @@
 - operations on queue https://my.newtonschool.co/playground/code/wokhq562ej33
 - Reverse First K elements of Queue https://my.newtonschool.co/playground/code/01jz4i5w2nbw
 - Yet Another Counting Problem (Contest) https://my.newtonschool.co/playground/code/ri7lwuss0q3f
+- Duplicate removal https://my.newtonschool.co/playground/code/y4k9qr8cle4r
+- Stack operations https://my.newtonschool.co/playground/code/tjmfobac6jqa
