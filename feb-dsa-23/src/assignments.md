@@ -103,3 +103,7 @@
 - Yet Another Counting Problem (Contest) https://my.newtonschool.co/playground/code/ri7lwuss0q3f
 - Duplicate removal https://my.newtonschool.co/playground/code/y4k9qr8cle4r
 - Stack operations https://my.newtonschool.co/playground/code/tjmfobac6jqa
+- Nearest Smaller Element - https://my.newtonschool.co/playground/code/46k0j7ugmrcj
+- Circular Rotation of Array Using Deque https://my.newtonschool.co/playground/code/t2jmy66czu5u
+- Operations on Deque https://my.newtonschool.co/playground/code/t2jmy66czu5u
+- 
