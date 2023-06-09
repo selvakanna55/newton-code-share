@@ -44,3 +44,8 @@
 - Wave array https://my.newtonschool.co/playground/code/nngwcvlt1hlk
 - Selection Sort https://my.newtonschool.co/playground/code/jxfx2wg0b82y
 - Interest of match https://my.newtonschool.co/playground/code/8ollsyndt6wy
+- Score High!! (Contest) https://my.newtonschool.co/playground/code/3sygxmlcwj58
+- Evenly divisible number https://my.newtonschool.co/playground/code/jm6j684xbdsc
+- Separating Negative and Positive numbers https://my.newtonschool.co/playground/code/vv1agjjsbkog
+- Inversion of array https://my.newtonschool.co/playground/code/88ksjxni8cu7
+- 

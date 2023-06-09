@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
+      <change afterPath="$PROJECT_DIR$/april-b2-23/src/basics/PrintEvenIdxElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/april-b2-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/april-b2-23/src/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +74,13 @@
       <recent name="sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeTwoSortedArrays">
-    <configuration name="CircularLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.CircularLL" />
-      <module name="feb-dsa-23" />
+  <component name="RunManager" selected="Application.IceCream">
+    <configuration name="IceCream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.IceCream" />
+      <module name="april-b2-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IceCream" />
         <item itemvalue="Application.MergeTwoSortedArrays" />
         <item itemvalue="Application.QueueJavaExample" />
         <item itemvalue="Application.QueueLinkedList" />
         <item itemvalue="Application.SimpleQueueArray" />
-        <item itemvalue="Application.CircularLL" />
       </list>
     </recent_temporary>
   </component>
