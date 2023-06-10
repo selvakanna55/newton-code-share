@@ -106,4 +106,8 @@
 - Nearest Smaller Element - https://my.newtonschool.co/playground/code/46k0j7ugmrcj
 - Circular Rotation of Array Using Deque https://my.newtonschool.co/playground/code/t2jmy66czu5u
 - Operations on Deque https://my.newtonschool.co/playground/code/t2jmy66czu5u
+- Prefix to Infix https://my.newtonschool.co/playground/code/ybnvwaclizoq
+- It's Birthday https://my.newtonschool.co/playground/code/iwkzcx738a37
+- Modulo Product https://my.newtonschool.co/playground/code/y2zrir3liqzb
+- Good numbers less than N https://my.newtonschool.co/playground/code/2n6zyelxutpa
 - 
