@@ -105,9 +105,12 @@
 - Stack operations https://my.newtonschool.co/playground/code/tjmfobac6jqa
 - Nearest Smaller Element - https://my.newtonschool.co/playground/code/46k0j7ugmrcj
 - Circular Rotation of Array Using Deque https://my.newtonschool.co/playground/code/t2jmy66czu5u
-- Operations on Deque https://my.newtonschool.co/playground/code/t2jmy66czu5u
+- Operations on Deque https://my.newtonschool.co/playground/code/8hexdht3qquq
 - Prefix to Infix https://my.newtonschool.co/playground/code/ybnvwaclizoq
 - It's Birthday https://my.newtonschool.co/playground/code/iwkzcx738a37
 - Modulo Product https://my.newtonschool.co/playground/code/y2zrir3liqzb
 - Good numbers less than N https://my.newtonschool.co/playground/code/2n6zyelxutpa
+- Can you make them equal? https://my.newtonschool.co/playground/code/jm5uwhcltzrs
+- Forming Queue from two stack https://my.newtonschool.co/playground/code/2v80j7pr04fs
+- Sara and average https://my.newtonschool.co/playground/code/tk2ff2tds93v
 - 
