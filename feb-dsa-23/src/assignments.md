@@ -113,4 +113,6 @@
 - Can you make them equal? https://my.newtonschool.co/playground/code/jm5uwhcltzrs
 - Forming Queue from two stack https://my.newtonschool.co/playground/code/2v80j7pr04fs
 - Sara and average https://my.newtonschool.co/playground/code/tk2ff2tds93v
+- Max Widow Sum https://my.newtonschool.co/playground/code/0kus2si4n2qj
+- Maximum of all subarrays of size K https://my.newtonschool.co/playground/code/3e19jraro3ya
 - 
