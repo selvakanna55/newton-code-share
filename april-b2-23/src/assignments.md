@@ -48,4 +48,8 @@
 - Evenly divisible number https://my.newtonschool.co/playground/code/jm6j684xbdsc
 - Separating Negative and Positive numbers https://my.newtonschool.co/playground/code/vv1agjjsbkog
 - Inversion of array https://my.newtonschool.co/playground/code/88ksjxni8cu7
+- Ice cream corner (Contest) https://my.newtonschool.co/playground/code/mq55mfof221u
+- Even Index https://my.newtonschool.co/playground/code/mwuvzn8bzhx9
+- Rahul's Special Matrix https://my.newtonschool.co/playground/code/1sf099t04dqe
+- Subarray Problem https://my.newtonschool.co/playground/code/m4p5cfrw4gxa
 - 
