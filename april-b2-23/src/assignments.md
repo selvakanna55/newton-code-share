@@ -52,4 +52,8 @@
 - Even Index https://my.newtonschool.co/playground/code/mwuvzn8bzhx9
 - Rahul's Special Matrix https://my.newtonschool.co/playground/code/1sf099t04dqe
 - Subarray Problem https://my.newtonschool.co/playground/code/m4p5cfrw4gxa
+- Query Time https://my.newtonschool.co/playground/code/cmjk91tco2io
+- Number of Subarrays With Odd Sum https://my.newtonschool.co/playground/code/u7ill1tooioj
+- Array generator https://my.newtonschool.co/playground/code/9gn5fd2psz4x
+- Arranging Coins https://my.newtonschool.co/playground/code/n45axeigssd0
 - 
