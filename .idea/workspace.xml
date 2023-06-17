@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe" />
+    <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
+      <change beforePath="$PROJECT_DIR$/april-b2-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/april-b2-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/assignments.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

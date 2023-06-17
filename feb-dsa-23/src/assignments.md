@@ -115,4 +115,11 @@
 - Sara and average https://my.newtonschool.co/playground/code/tk2ff2tds93v
 - Max Widow Sum https://my.newtonschool.co/playground/code/0kus2si4n2qj
 - Maximum of all subarrays of size K https://my.newtonschool.co/playground/code/3e19jraro3ya
-- 
+- Query Time https://my.newtonschool.co/playground/code/cmjk91tco2io
+- Number of Subarrays With Odd Sum https://my.newtonschool.co/playground/code/u7ill1tooioj
+- Array generator https://my.newtonschool.co/playground/code/9gn5fd2psz4x
+- Arranging Coins https://my.newtonschool.co/playground/code/n45axeigssd0
+- Encoded String https://my.newtonschool.co/playground/code/xu4wjfo9u3mu
+- Arrange the elements https://my.newtonschool.co/playground/code/is6m268wipu4
+- Rahul's Training https://my.newtonschool.co/playground/code/j2ynuh9673f8
+- Maximum Contiguous Subarray Sum https://my.newtonschool.co/playground/code/1hhfn5jy1mzq
