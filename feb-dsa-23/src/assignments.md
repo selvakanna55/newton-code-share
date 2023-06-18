@@ -123,3 +123,5 @@
 - Arrange the elements https://my.newtonschool.co/playground/code/is6m268wipu4
 - Rahul's Training https://my.newtonschool.co/playground/code/j2ynuh9673f8
 - Maximum Contiguous Subarray Sum https://my.newtonschool.co/playground/code/1hhfn5jy1mzq
+- Max submatrix sum https://my.newtonschool.co/playground/code/3n64ijmmdukm
+- Alternate string https://my.newtonschool.co/playground/code/oj0fsxien8b6
