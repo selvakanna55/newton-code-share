@@ -52,3 +52,9 @@
 - Even Index https://my.newtonschool.co/playground/code/mwuvzn8bzhx9
 - Rahul's Special Matrix https://my.newtonschool.co/playground/code/1sf099t04dqe
 - Subarray Problem https://my.newtonschool.co/playground/code/m4p5cfrw4gxa
+- Nearest prime number https://my.newtonschool.co/playground/code/sgdnf4r52lpn
+- M Special GCD numbers https://my.newtonschool.co/playground/code/o5f5k0vsnqu8
+- Difference operations https://my.newtonschool.co/playground/code/w48d1vn57vlw
+- Suzzi Loves Climbing (Contest) https://my.newtonschool.co/playground/code/ti8uoawvx06e
+- Good Array https://my.newtonschool.co/playground/code/41fuvdeiqv73
+- 
