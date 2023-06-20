@@ -125,3 +125,5 @@
 - Maximum Contiguous Subarray Sum https://my.newtonschool.co/playground/code/1hhfn5jy1mzq
 - Max submatrix sum https://my.newtonschool.co/playground/code/3n64ijmmdukm
 - Alternate string https://my.newtonschool.co/playground/code/oj0fsxien8b6
+- Find Geometric Triplets https://my.newtonschool.co/playground/code/jslv994xz8pw
+- 
