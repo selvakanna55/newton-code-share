@@ -28,7 +28,6 @@
 - Length of a number https://my.newtonschool.co/playground/code/166zstndfz38
 - Element position https://my.newtonschool.co/playground/code/yv5175yr0hkr
 - Divisibility Test https://my.newtonschool.co/playground/code/zx0pifl5vmpp
-- Passcode https://my.newtonschool.co/playground/code/0pgloae2kuc1
 - Find Monopoly (Contest) https://my.newtonschool.co/playground/code/a6cnvx6m7enz
 - Who will take home (Contest) https://my.newtonschool.co/playground/code/ub00mckznn8a
 - Good Sum (Contest) https://my.newtonschool.co/playground/code/kmx4yh4k2yc3
@@ -57,4 +56,9 @@
 - Difference operations https://my.newtonschool.co/playground/code/w48d1vn57vlw
 - Suzzi Loves Climbing (Contest) https://my.newtonschool.co/playground/code/ti8uoawvx06e
 - Good Array https://my.newtonschool.co/playground/code/41fuvdeiqv73
-- 
+- Queue Challenge (Contest) https://my.newtonschool.co/playground/code/y45196icdiml
+- Play Play (Contest) https://my.newtonschool.co/playground/code/8f2szj0qpzwl
+- Divisor's problem https://my.newtonschool.co/playground/code/63mtapwhv8bl
+- Birthday party and return gift (contest) https://my.newtonschool.co/playground/code/xjhfsr9e3gbk
+- Good integers (Contest) https://my.newtonschool.co/playground/code/rw59m17tsduh
+- - Passcode https://my.newtonschool.co/playground/code/0pgloae2kuc1
