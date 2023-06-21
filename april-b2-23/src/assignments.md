@@ -61,4 +61,4 @@
 - Divisor's problem https://my.newtonschool.co/playground/code/63mtapwhv8bl
 - Birthday party and return gift (contest) https://my.newtonschool.co/playground/code/xjhfsr9e3gbk
 - Good integers (Contest) https://my.newtonschool.co/playground/code/rw59m17tsduh
-- - Passcode https://my.newtonschool.co/playground/code/0pgloae2kuc1
+- Passcode https://my.newtonschool.co/playground/code/0pgloae2kuc1
