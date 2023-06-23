@@ -126,4 +126,9 @@
 - Max submatrix sum https://my.newtonschool.co/playground/code/3n64ijmmdukm
 - Alternate string https://my.newtonschool.co/playground/code/oj0fsxien8b6
 - Find Geometric Triplets https://my.newtonschool.co/playground/code/jslv994xz8pw
-- 
+- Newton's College Fest (Contest) https://my.newtonschool.co/playground/code/truo703jypj0
+- Natural Game (Contest) https://my.newtonschool.co/playground/code/buxiqrzy54xb
+- Missing Element https://my.newtonschool.co/playground/code/evtpbx5ezgxq
+- Find unique https://my.newtonschool.co/playground/code/nfo8z1cnb1if
+- Modulo Max https://my.newtonschool.co/playground/code/vz76idqd863z
+- Simple Colours https://my.newtonschool.co/playground/code/efs8kayrdh9w
