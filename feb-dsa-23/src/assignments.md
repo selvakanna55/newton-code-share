@@ -132,3 +132,7 @@
 - Find unique https://my.newtonschool.co/playground/code/nfo8z1cnb1if
 - Modulo Max https://my.newtonschool.co/playground/code/vz76idqd863z
 - Simple Colours https://my.newtonschool.co/playground/code/efs8kayrdh9w
+- Add two numbers https://my.newtonschool.co/playground/code/y3smva9yghgm
+- Increasing array https://my.newtonschool.co/playground/code/4q9lxim0vso5
+- Minimum number of coins https://my.newtonschool.co/playground/code/6dv9j6ghcx15
+- 
