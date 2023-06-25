@@ -135,4 +135,7 @@
 - Add two numbers https://my.newtonschool.co/playground/code/y3smva9yghgm
 - Increasing array https://my.newtonschool.co/playground/code/4q9lxim0vso5
 - Minimum number of coins https://my.newtonschool.co/playground/code/6dv9j6ghcx15
+- Distribution of Chocolates https://my.newtonschool.co/playground/code/zudhnjz57342
+- Terrain Transformation https://my.newtonschool.co/playground/code/0fcz1bfq068s
+- Smallest String (Contest) https://my.newtonschool.co/playground/code/4eg29z4ksyve
 - 
