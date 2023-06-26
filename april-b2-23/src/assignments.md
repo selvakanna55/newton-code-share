@@ -62,3 +62,9 @@
 - Birthday party and return gift (contest) https://my.newtonschool.co/playground/code/xjhfsr9e3gbk
 - Good integers (Contest) https://my.newtonschool.co/playground/code/rw59m17tsduh
 - Passcode https://my.newtonschool.co/playground/code/0pgloae2kuc1
+- Class Student https://my.newtonschool.co/playground/code/unk54mbw5r9m
+- Sum Calculator  https://my.newtonschool.co/playground/code/ydaep99vljpu
+- Border sum (Contest) https://my.newtonschool.co/playground/code/m737rakk93pe
+- Print Pattern (Contest) https://my.newtonschool.co/playground/code/g138vpb4ew4y
+- Ram's Program https://my.newtonschool.co/playground/code/n4927alyuo97
+- Generate Pattern (Contest) https://my.newtonschool.co/playground/code/5qanol77sxqi
