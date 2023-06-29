@@ -140,4 +140,6 @@
 - Smallest String (Contest) https://my.newtonschool.co/playground/code/4eg29z4ksyve
 - Subarrays with equal 1s and 0s https://my.newtonschool.co/playground/code/ogjc01geggd7
 - EVM Machine https://my.newtonschool.co/playground/code/5fm6py3b6s9p
+- Toys https://my.newtonschool.co/playground/code/cqxy29rmuh2m
+- Even/Odd? (Contest) https://my.newtonschool.co/playground/code/ps4n29gpchcu
 - 
