@@ -68,4 +68,10 @@
 - Print Pattern (Contest) https://my.newtonschool.co/playground/code/g138vpb4ew4y
 - Ram's Program https://my.newtonschool.co/playground/code/n4927alyuo97
 - Generate Pattern (Contest) https://my.newtonschool.co/playground/code/5qanol77sxqi
+- Grid and phrase https://my.newtonschool.co/playground/code/03vpzkxep62w
+- Maximum Swaps https://my.newtonschool.co/playground/code/gmm3yhk99y7e
+- String Operations https://my.newtonschool.co/playground/code/1f8a796ca4le
+- Newton's Special Number https://my.newtonschool.co/playground/code/ny6kwfu5k422
+- Is possible? (Contest) https://my.newtonschool.co/playground/code/24j1z1i2djgs
+- Planet (Contest) https://my.newtonschool.co/playground/code/6l97f50ebt66
 - 
