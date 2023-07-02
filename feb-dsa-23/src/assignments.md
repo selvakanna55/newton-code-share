@@ -143,4 +143,7 @@
 - Toys https://my.newtonschool.co/playground/code/cqxy29rmuh2m
 - Even/Odd? (Contest) https://my.newtonschool.co/playground/code/ps4n29gpchcu
 - Division Barrier (Contest) - https://my.newtonschool.co/playground/code/fst8tgiv6hie
-- 
+- Find Bad Number https://my.newtonschool.co/playground/code/efijd1t4v23k
+- Amazon Festive Season https://my.newtonschool.co/playground/code/46ul4uyxoyzr
+- Sum Subsequence https://my.newtonschool.co/playground/code/dpgsb9hdiij7
+- Lazy Salesman https://my.newtonschool.co/playground/code/vy85hr3109qs
