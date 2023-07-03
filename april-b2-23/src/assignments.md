@@ -74,4 +74,8 @@
 - Newton's Special Number https://my.newtonschool.co/playground/code/ny6kwfu5k422
 - Is possible? (Contest) https://my.newtonschool.co/playground/code/24j1z1i2djgs
 - Planet (Contest) https://my.newtonschool.co/playground/code/6l97f50ebt66
+- Sum of numbers https://my.newtonschool.co/playground/code/j2rm1kv8khvl
+- Subset (Contest) https://my.newtonschool.co/playground/code/tcn1hn0qw8v6
+- Exam's Game (Contest) https://my.newtonschool.co/playground/code/6f1xxtp2wp0q
+- Weird Series (Contest) https://my.newtonschool.co/playground/code/5o0hfqq1l7nd
 - 
