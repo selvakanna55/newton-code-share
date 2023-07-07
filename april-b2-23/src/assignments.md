@@ -84,3 +84,7 @@
 - Find unique https://my.newtonschool.co/playground/code/nfo8z1cnb1if
 - Modulo Max https://my.newtonschool.co/playground/code/vz76idqd863z
 - Simple Colours https://my.newtonschool.co/playground/code/efs8kayrdh9w
+- Maximum Odd https://my.newtonschool.co/playground/code/ovlc7cn0so44
+- Even/Odd Factors (Contest) https://my.newtonschool.co/playground/code/n676yxofqvdo
+- Rahul's Learning https://my.newtonschool.co/playground/code/9sfuqvmcm99c
+- 
