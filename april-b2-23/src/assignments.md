@@ -78,4 +78,9 @@
 - Subset (Contest) https://my.newtonschool.co/playground/code/tcn1hn0qw8v6
 - Exam's Game (Contest) https://my.newtonschool.co/playground/code/6f1xxtp2wp0q
 - Weird Series (Contest) https://my.newtonschool.co/playground/code/5o0hfqq1l7nd
-- 
+- Newton's College Fest (Contest) https://my.newtonschool.co/playground/code/truo703jypj0
+- Natural Game (Contest) https://my.newtonschool.co/playground/code/buxiqrzy54xb
+- Missing Element https://my.newtonschool.co/playground/code/evtpbx5ezgxq
+- Find unique https://my.newtonschool.co/playground/code/nfo8z1cnb1if
+- Modulo Max https://my.newtonschool.co/playground/code/vz76idqd863z
+- Simple Colours https://my.newtonschool.co/playground/code/efs8kayrdh9w
