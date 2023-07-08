@@ -1,4 +1,4 @@
-package oops.basics;
+package oops.constructor;
 
 
 class ConstructorBasic {
