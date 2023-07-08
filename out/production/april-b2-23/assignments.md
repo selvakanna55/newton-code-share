@@ -28,7 +28,6 @@
 - Length of a number https://my.newtonschool.co/playground/code/166zstndfz38
 - Element position https://my.newtonschool.co/playground/code/yv5175yr0hkr
 - Divisibility Test https://my.newtonschool.co/playground/code/zx0pifl5vmpp
-- Passcode https://my.newtonschool.co/playground/code/0pgloae2kuc1
 - Find Monopoly (Contest) https://my.newtonschool.co/playground/code/a6cnvx6m7enz
 - Who will take home (Contest) https://my.newtonschool.co/playground/code/ub00mckznn8a
 - Good Sum (Contest) https://my.newtonschool.co/playground/code/kmx4yh4k2yc3
@@ -48,4 +47,44 @@
 - Evenly divisible number https://my.newtonschool.co/playground/code/jm6j684xbdsc
 - Separating Negative and Positive numbers https://my.newtonschool.co/playground/code/vv1agjjsbkog
 - Inversion of array https://my.newtonschool.co/playground/code/88ksjxni8cu7
+- Ice cream corner (Contest) https://my.newtonschool.co/playground/code/mq55mfof221u
+- Even Index https://my.newtonschool.co/playground/code/mwuvzn8bzhx9
+- Rahul's Special Matrix https://my.newtonschool.co/playground/code/1sf099t04dqe
+- Subarray Problem https://my.newtonschool.co/playground/code/m4p5cfrw4gxa
+- Nearest prime number https://my.newtonschool.co/playground/code/sgdnf4r52lpn
+- M Special GCD numbers https://my.newtonschool.co/playground/code/o5f5k0vsnqu8
+- Difference operations https://my.newtonschool.co/playground/code/w48d1vn57vlw
+- Suzzi Loves Climbing (Contest) https://my.newtonschool.co/playground/code/ti8uoawvx06e
+- Good Array https://my.newtonschool.co/playground/code/41fuvdeiqv73
+- Queue Challenge (Contest) https://my.newtonschool.co/playground/code/y45196icdiml
+- Play Play (Contest) https://my.newtonschool.co/playground/code/8f2szj0qpzwl
+- Divisor's problem https://my.newtonschool.co/playground/code/63mtapwhv8bl
+- Birthday party and return gift (contest) https://my.newtonschool.co/playground/code/xjhfsr9e3gbk
+- Good integers (Contest) https://my.newtonschool.co/playground/code/rw59m17tsduh
+- Passcode https://my.newtonschool.co/playground/code/0pgloae2kuc1
+- Class Student https://my.newtonschool.co/playground/code/unk54mbw5r9m
+- Sum Calculator  https://my.newtonschool.co/playground/code/ydaep99vljpu
+- Border sum (Contest) https://my.newtonschool.co/playground/code/m737rakk93pe
+- Print Pattern (Contest) https://my.newtonschool.co/playground/code/g138vpb4ew4y
+- Ram's Program https://my.newtonschool.co/playground/code/n4927alyuo97
+- Generate Pattern (Contest) https://my.newtonschool.co/playground/code/5qanol77sxqi
+- Grid and phrase https://my.newtonschool.co/playground/code/03vpzkxep62w
+- Maximum Swaps https://my.newtonschool.co/playground/code/gmm3yhk99y7e
+- String Operations https://my.newtonschool.co/playground/code/1f8a796ca4le
+- Newton's Special Number https://my.newtonschool.co/playground/code/ny6kwfu5k422
+- Is possible? (Contest) https://my.newtonschool.co/playground/code/24j1z1i2djgs
+- Planet (Contest) https://my.newtonschool.co/playground/code/6l97f50ebt66
+- Sum of numbers https://my.newtonschool.co/playground/code/j2rm1kv8khvl
+- Subset (Contest) https://my.newtonschool.co/playground/code/tcn1hn0qw8v6
+- Exam's Game (Contest) https://my.newtonschool.co/playground/code/6f1xxtp2wp0q
+- Weird Series (Contest) https://my.newtonschool.co/playground/code/5o0hfqq1l7nd
+- Newton's College Fest (Contest) https://my.newtonschool.co/playground/code/truo703jypj0
+- Natural Game (Contest) https://my.newtonschool.co/playground/code/buxiqrzy54xb
+- Missing Element https://my.newtonschool.co/playground/code/evtpbx5ezgxq
+- Find unique https://my.newtonschool.co/playground/code/nfo8z1cnb1if
+- Modulo Max https://my.newtonschool.co/playground/code/vz76idqd863z
+- Simple Colours https://my.newtonschool.co/playground/code/efs8kayrdh9w
+- Maximum Odd https://my.newtonschool.co/playground/code/ovlc7cn0so44
+- Even/Odd Factors (Contest) https://my.newtonschool.co/playground/code/n676yxofqvdo
+- Rahul's Learning https://my.newtonschool.co/playground/code/9sfuqvmcm99c
 - 
