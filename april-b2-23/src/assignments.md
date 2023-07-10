@@ -87,4 +87,9 @@
 - Maximum Odd https://my.newtonschool.co/playground/code/ovlc7cn0so44
 - Even/Odd Factors (Contest) https://my.newtonschool.co/playground/code/n676yxofqvdo
 - Rahul's Learning https://my.newtonschool.co/playground/code/9sfuqvmcm99c
+- Equal String Games https://my.newtonschool.co/playground/code/r73d5kdm3l4a
+- Summing even https://my.newtonschool.co/playground/code/52037n0wutb4
+- Divide array into equal sum arrays https://my.newtonschool.co/playground/code/vfc851hbdnxo
+- Print all palindromes https://my.newtonschool.co/playground/code/dspj3xl40hww
+- Modified Palindrome https://my.newtonschool.co/playground/code/g62zc89fmy17
 - 
