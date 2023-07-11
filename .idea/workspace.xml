@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/constructor/ConstructorOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/constructor/ConstructorWithParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/polymorphism/CompileTimePoly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/feb-b-23/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/inheritance/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/inheritance/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/inheritance/MultiLevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/inheritance/SingleInheritanceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,13 +81,13 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CopyConstructor">
-    <configuration name="CompileTimePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.polymorphism.CompileTimePoly" />
+  <component name="RunManager" selected="Application.MultipleInheritanceExample">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.inheritance.HelloWorld" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.polymorphism.*" />
+          <option name="PATTERN" value="oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorOverloading (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.constructor.ConstructorOverloading" />
+    <configuration name="MethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.inheritance.MethodOverriding" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.constructor.*" />
+          <option name="PATTERN" value="oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorOverloading (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.constructor.ConstructorOverloading" />
+    <configuration name="MultiLevelInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.inheritance.MultiLevelInheritance" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.constructor.*" />
+          <option name="PATTERN" value="oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.constructor.ConstructorOverloading" />
+    <configuration name="MultipleInheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.inheritance.MultipleInheritanceExample" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.constructor.*" />
+          <option name="PATTERN" value="oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.constructor.CopyConstructor" />
+    <configuration name="SingleInheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.inheritance.SingleInheritanceExample" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.constructor.*" />
+          <option name="PATTERN" value="oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CopyConstructor" />
-        <item itemvalue="Application.ConstructorOverloading (2)" />
-        <item itemvalue="Application.ConstructorOverloading (1)" />
-        <item itemvalue="Application.ConstructorOverloading" />
-        <item itemvalue="Application.CompileTimePoly" />
+        <item itemvalue="Application.MultipleInheritanceExample" />
+        <item itemvalue="Application.MethodOverriding" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.MultiLevelInheritance (1)" />
+        <item itemvalue="Application.SingleInheritanceExample" />
       </list>
     </recent_temporary>
   </component>
@@ -1708,6 +1708,56 @@
           <line>23</line>
           <option name="timeStamp" value="445" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/SingleInheritanceExample.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/SingleInheritanceExample.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/SingleInheritanceExample.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="448" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/SingleInheritanceExample.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/SingleInheritanceExample.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/MultiLevelInheritance.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/MultiLevelInheritance.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/MethodOverriding.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="462" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/MethodOverriding.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/MethodOverriding.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
           <line>11</line>
@@ -1725,6 +1775,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/HelloWorld.java</url>
+          <line>5</line>
+          <properties class="oops.inheritance.HelloWorld" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="458" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
