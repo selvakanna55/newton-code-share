@@ -92,4 +92,7 @@
 - Divide array into equal sum arrays https://my.newtonschool.co/playground/code/vfc851hbdnxo
 - Print all palindromes https://my.newtonschool.co/playground/code/dspj3xl40hww
 - Modified Palindrome https://my.newtonschool.co/playground/code/g62zc89fmy17
-- 
+- Digit array addition https://my.newtonschool.co/playground/code/wv1jinfz4k2t
+- Remove zeroes https://my.newtonschool.co/playground/code/rwg2jjxbizj4
+- Remove vowels https://my.newtonschool.co/playground/code/lqybg8yuxrl4
+- Bit difference https://my.newtonschool.co/playground/code/dlapx8dng2y5
