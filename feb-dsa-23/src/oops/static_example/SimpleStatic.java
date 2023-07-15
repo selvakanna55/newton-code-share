@@ -23,7 +23,7 @@ public class SimpleStatic {
 ////        System.out.println(c1.add(10, 20));
 //        System.out.println(Calculator.sum);
 //        Calculator.sum = 99;
-//        System.out.println(Calculator.sum);
+        System.out.println(Calculator.sum);
 //        System.out.println(c1.sum);
         System.out.println(c1.add(10, 20));
         System.out.println(Calculator.add(10, 20));

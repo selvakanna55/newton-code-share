@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/inheritance/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/inheritance/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/inheritance/MultiLevelInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/inheritance/SingleInheritanceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/GetterSetterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/abstraction/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/polymorphism/RuntimePoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-dsa-23/src/oops/encapsulation/accessmodifer/WithInheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-b-23/src/oops/GetterSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-b-23/src/oops/GetterSetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-b-23/src/oops/ThisVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-b-23/src/oops/ThisVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-dsa-23/src/oops/static_example/SimpleStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-dsa-23/src/oops/static_example/SimpleStatic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kannan/Documents/GitHub/newton-code-share/nov-dsa/src/oops/access/diffpackage&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kannan/Documents/GitHub/newton-code-share/feb-b-23/src/oops/inheritance&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -58,6 +61,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\feb-b-23\src\oops\inheritance" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\nov-dsa\src\oops\access\diffpackage" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\october-ms\src\hashing" />
       <recent name="C:\Users\Kannan\Documents\GitHub\newton-code-share\augbatch5\src\oops" />
@@ -81,13 +85,13 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultipleInheritanceExample">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.HelloWorld" />
+  <component name="RunManager" selected="Application.CarExample">
+    <configuration name="CarExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.abstraction.CarExample" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="PATTERN" value="oops.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.MethodOverriding" />
+    <configuration name="CarExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.abstraction.CarExample" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="PATTERN" value="oops.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiLevelInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.MultiLevelInheritance" />
+    <configuration name="CarExample (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.abstraction.CarExample" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="PATTERN" value="oops.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleInheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.MultipleInheritanceExample" />
+    <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.abstraction.CarExample" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="PATTERN" value="oops.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleInheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.SingleInheritanceExample" />
+    <configuration name="RuntimePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.polymorphism.RuntimePoly" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="PATTERN" value="oops.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultipleInheritanceExample" />
-        <item itemvalue="Application.MethodOverriding" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.MultiLevelInheritance (1)" />
-        <item itemvalue="Application.SingleInheritanceExample" />
+        <item itemvalue="Application.CarExample" />
+        <item itemvalue="Application.CarExample (3)" />
+        <item itemvalue="Application.CarExample (2)" />
+        <item itemvalue="Application.CarExample (1)" />
+        <item itemvalue="Application.RuntimePoly" />
       </list>
     </recent_temporary>
   </component>
@@ -1757,6 +1761,16 @@
           <url>file://$PROJECT_DIR$/feb-b-23/src/oops/inheritance/MethodOverriding.java</url>
           <line>12</line>
           <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/GetterSetter.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/oops/polymorphism/RuntimePoly.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="468" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>

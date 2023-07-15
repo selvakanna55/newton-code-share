@@ -1,19 +1,19 @@
 package oops;
 
-public class ThisVariable {
 
+public class GetterSetterExample {
     public static void main(String args[]) {
-        Car c1 = new Car(4);
+        Car22 c1 = new Car22(4);
         c1.applyDrive();
     }
 }
 
 
-class Car {
+class Car22 {
     int wheels;
 
-    Car(int wheels1) {
-        this.wheels = wheels1;
+    Car22(int wheels) {
+        this.wheels = wheels;
     }
 
     void applyDrive() {
