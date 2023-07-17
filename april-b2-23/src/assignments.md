@@ -96,3 +96,8 @@
 - Remove zeroes https://my.newtonschool.co/playground/code/rwg2jjxbizj4
 - Remove vowels https://my.newtonschool.co/playground/code/lqybg8yuxrl4
 - Bit difference https://my.newtonschool.co/playground/code/dlapx8dng2y5
+- Sequence (Contest) https://my.newtonschool.co/playground/code/gbpe3w775qx7
+- Data Plan (Contest) https://my.newtonschool.co/playground/code/88n03ipiqzut
+- Birthday party and return gift (contest) https://my.newtonschool.co/playground/code/rfeuh256xyhc
+- XOR Problem (Contest) https://my.newtonschool.co/playground/code/643neb6kxe5w
+- 
