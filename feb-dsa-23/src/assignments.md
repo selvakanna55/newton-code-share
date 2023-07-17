@@ -147,3 +147,7 @@
 - Amazon Festive Season https://my.newtonschool.co/playground/code/46ul4uyxoyzr
 - Sum Subsequence https://my.newtonschool.co/playground/code/dpgsb9hdiij7
 - Lazy Salesman https://my.newtonschool.co/playground/code/vy85hr3109qs
+- Sequence (Contest) https://my.newtonschool.co/playground/code/gbpe3w775qx7
+- Data Plan (Contest) https://my.newtonschool.co/playground/code/88n03ipiqzut
+- Birthday party and return gift (contest) https://my.newtonschool.co/playground/code/rfeuh256xyhc
+- 
