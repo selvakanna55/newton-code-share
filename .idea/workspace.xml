@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
+      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/recap/RandomExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-b-23/src/oops/recap/SetterConstructor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/april-b2-23/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/april-b2-23/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,20 +81,7 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TicTacToeOops (1)">
-    <configuration name="CarExample (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.abstraction.CarExample" />
-      <module name="feb-b-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.abstraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.abstraction.CarExample" />
       <module name="feb-b-23" />
@@ -106,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToeDSA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lld.TicTacToeDSA" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lld.Main" />
       <module name="feb-b-23" />
       <extension name="coverage">
         <pattern>
@@ -132,7 +121,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToeOops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TicTacToeOops (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lld.TicTacToeOops" />
+      <module name="feb-b-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeOops (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lld.TicTacToeOops" />
       <module name="feb-b-23" />
       <extension name="coverage">
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TicTacToeOops (1)" />
-        <item itemvalue="Application.TicTacToeOops" />
-        <item itemvalue="Application.TicTacToeDSA" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.CarExample" />
-        <item itemvalue="Application.CarExample (3)" />
+        <item itemvalue="Application.TicTacToeOops (3)" />
+        <item itemvalue="Application.TicTacToeOops (2)" />
+        <item itemvalue="Application.TicTacToeOops (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1788,63 +1790,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>107</line>
-          <option name="timeStamp" value="477" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="478" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>81</line>
-          <option name="timeStamp" value="479" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>95</line>
-          <option name="timeStamp" value="480" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
           <line>89</line>
           <option name="timeStamp" value="481" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="482" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="483" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>109</line>
-          <option name="timeStamp" value="484" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>108</line>
-          <option name="timeStamp" value="485" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>110</line>
+          <line>111</line>
           <option name="timeStamp" value="486" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="487" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>98</line>
-          <option name="timeStamp" value="488" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
@@ -1853,13 +1805,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="490" />
+          <line>90</line>
+          <option name="timeStamp" value="492" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
-          <line>90</line>
-          <option name="timeStamp" value="491" />
+          <line>98</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feb-b-23/src/lld/TicTacToeOops.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="494" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>

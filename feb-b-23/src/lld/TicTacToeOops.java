@@ -85,7 +85,7 @@ class TicTacToeGame {
     void play() {
         Scanner sc = new Scanner(System.in);
 
-
+        String result = "Draw";
         for (int i = 1; i <= 9; i++) {
             char piece;
             if (i % 2 == 0) piece = 'O';
@@ -96,10 +96,11 @@ class TicTacToeGame {
             board.move(r, c, piece);
             board.printBoard();
             if (isWinner(board.board, size, piece)) {
-                System.out.println(piece + " is the winner");
+                result = piece + " is the winner";
                 break;
             }
         }
+        System.out.println(result);
     }
 }
 
