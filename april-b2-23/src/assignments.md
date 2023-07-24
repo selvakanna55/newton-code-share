@@ -100,4 +100,8 @@
 - Data Plan (Contest) https://my.newtonschool.co/playground/code/88n03ipiqzut
 - Birthday party and return gift (contest) https://my.newtonschool.co/playground/code/rfeuh256xyhc
 - XOR Problem (Contest) https://my.newtonschool.co/playground/code/643neb6kxe5w
+- Funny subarray https://my.newtonschool.co/playground/code/szv0jhc0wel8
+- Play time https://my.newtonschool.co/playground/code/j7utx0wcpk7s
+- Delete node without head pointer https://my.newtonschool.co/playground/code/xc939wpu5vsx
+- Delete the Middle of the Linked List https://my.newtonschool.co/playground/code/5lxgj1gkvtt5
 - 
