@@ -104,4 +104,7 @@
 - Play time https://my.newtonschool.co/playground/code/j7utx0wcpk7s
 - Delete node without head pointer https://my.newtonschool.co/playground/code/xc939wpu5vsx
 - Delete the Middle of the Linked List https://my.newtonschool.co/playground/code/5lxgj1gkvtt5
+- Reverse Only Letters https://my.newtonschool.co/playground/code/27qq4guk5jvd
+- Long Pressed Name https://my.newtonschool.co/playground/code/rgtj2cqgmod7
+- Sum of non- prime numbers https://my.newtonschool.co/playground/code/d79lf49gmeik
 - 
