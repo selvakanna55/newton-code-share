@@ -107,4 +107,8 @@
 - Reverse Only Letters https://my.newtonschool.co/playground/code/27qq4guk5jvd
 - Long Pressed Name https://my.newtonschool.co/playground/code/rgtj2cqgmod7
 - Sum of non- prime numbers https://my.newtonschool.co/playground/code/d79lf49gmeik
+- Deletion in Doubly Linked List https://my.newtonschool.co/playground/code/zuu4d9lnx6ce
+- Reversing a double linked list https://my.newtonschool.co/playground/code/toxsvhk2qw5s
+- Make it Circular https://my.newtonschool.co/playground/code/fes8hhrwwvp0
+- Exchange Nodes https://my.newtonschool.co/playground/code/8o731xlxu5tr
 - 
