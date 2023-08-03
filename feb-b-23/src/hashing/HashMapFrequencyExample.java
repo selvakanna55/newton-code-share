@@ -2,6 +2,7 @@ package hashing;
 
 
 import java.util.HashMap;
+import java.util.Stack;
 
 class HashMapFrequencyExample {
     public static void main(String args[]) {
@@ -16,5 +17,8 @@ class HashMapFrequencyExample {
             }
         }
         System.out.println(hm);
+        Stack<Integer> st = new Stack<>();
+        st.clear();
+        hm.clear();
     }
 }
