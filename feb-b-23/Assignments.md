@@ -6,3 +6,6 @@
 - Circular linked list https://my.newtonschool.co/playground/code/zsuld4j228a5
 - Distinct alphabets https://my.newtonschool.co/playground/code/6l4ajcehn8y7
 - Hashing for Pair https://my.newtonschool.co/playground/code/fh0y5x61tiy6
+- Duplicate removal https://my.newtonschool.co/playground/code/b3ow0p013bwl
+- Stack operations https://my.newtonschool.co/playground/code/xi3ggx16xxog
+- 

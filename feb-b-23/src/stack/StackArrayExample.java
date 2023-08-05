@@ -1,3 +1,5 @@
+package stack;
+
 class StackArray {
     int capacity;
     int top = -1; //i pointer
