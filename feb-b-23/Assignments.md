@@ -8,4 +8,7 @@
 - Hashing for Pair https://my.newtonschool.co/playground/code/fh0y5x61tiy6
 - Duplicate removal https://my.newtonschool.co/playground/code/b3ow0p013bwl
 - Stack operations https://my.newtonschool.co/playground/code/xi3ggx16xxog
+- operations on queue https://my.newtonschool.co/playground/code/cky3afxny34n
+- Reverse First K elements of Queue https://my.newtonschool.co/playground/code/xpj3wceihzk9
+- Queue Challenge (Contest) https://my.newtonschool.co/playground/code/gvmsby2xstj1
 - 

@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/feb-b-23/src/queue/QueueJavaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feb-b-23/src/queue/QueueUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feb-b-23/src/stack/ValidateBrackets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feb-b-23/Assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/feb-b-23/Assignments.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb-b-23/src/stack/StackArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/feb-b-23/src/stack/StackArrayExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,7 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleHashing">
+  <component name="RunManager" selected="Application.ValidateBrackets">
     <configuration name="LinkedList2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedList2" />
       <module name="feb-b-23" />
@@ -148,19 +146,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lld.Main" />
-      <module name="feb-b-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lld.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SimpleHashing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hashing.SimpleHashing" />
       <module name="feb-b-23" />
@@ -174,13 +159,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidateBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.ValidateBrackets" />
+      <module name="feb-b-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidateBrackets" />
         <item itemvalue="Application.SimpleHashing" />
         <item itemvalue="Application.LinkedList2" />
         <item itemvalue="Application.LinkedList2 (1)" />
         <item itemvalue="Application.LinkedListExample" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
