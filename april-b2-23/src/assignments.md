@@ -111,4 +111,8 @@
 - Reversing a double linked list https://my.newtonschool.co/playground/code/toxsvhk2qw5s
 - Make it Circular https://my.newtonschool.co/playground/code/fes8hhrwwvp0
 - Exchange Nodes https://my.newtonschool.co/playground/code/8o731xlxu5tr
+- Fashionable Integers (Contest) https://my.newtonschool.co/playground/code/tuuk75iie7xp
+- Digits Rearrangement (Contest) https://my.newtonschool.co/playground/code/k63w1kageu94
+- Rahul's Groceries (Contest) https://my.newtonschool.co/playground/code/e5hlwrwba6yj
+- 404 (Contest) https://my.newtonschool.co/playground/code/q22p9lysmdjt
 - 
