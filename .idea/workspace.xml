@@ -76,7 +76,7 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValidateBrackets">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="LinkedList2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedList2" />
       <module name="feb-b-23" />
@@ -129,15 +129,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListExample" />
-      <module name="feb-b-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="july-fsd-a-2023" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ValidateBrackets" />
         <item itemvalue="Application.SimpleHashing" />
         <item itemvalue="Application.LinkedList2" />
         <item itemvalue="Application.LinkedList2 (1)" />
-        <item itemvalue="Application.LinkedListExample" />
       </list>
     </recent_temporary>
   </component>
