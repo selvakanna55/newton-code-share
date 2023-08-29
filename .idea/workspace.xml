@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/homework/BinaryAddition.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/basic/CalculatorSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/basic/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/basic/PrintStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +52,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -79,13 +81,13 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="LinkedList2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedList2" />
-      <module name="feb-b-23" />
+  <component name="RunManager" selected="Application.DataType">
+    <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.DataType" />
+      <module name="july-fsd-a-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataType" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ValidateBrackets" />
         <item itemvalue="Application.SimpleHashing" />
         <item itemvalue="Application.LinkedList2" />
-        <item itemvalue="Application.LinkedList2 (1)" />
       </list>
     </recent_temporary>
   </component>
