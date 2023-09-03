@@ -1,0 +1,5 @@
+- Fahrenheit to Celsius https://my.newtonschool.co/playground/code/egrvqgz4snou?lecture_hash=g9aes9avp1fa
+- Nobita and Profit https://my.newtonschool.co/playground/code/5ldnoshbgz3m?lecture_hash=g9aes9avp1fa
+- Week Day - https://my.newtonschool.co/playground/code/gy9zbugt5656?lecture_hash=g9j7r6akxu6h
+- Assess Sign https://my.newtonschool.co/playground/code/5m3lhexv3ljf?lecture_hash=g9j7r6akxu6h
+- 
