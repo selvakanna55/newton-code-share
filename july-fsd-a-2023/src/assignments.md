@@ -4,4 +4,5 @@
 - Assess Sign https://my.newtonschool.co/playground/code/5m3lhexv3ljf?lecture_hash=g9j7r6akxu6h
 - Menu Items https://my.newtonschool.co/playground/code/r7ke1fzvi0tw?lecture_hash=g9j7r6akxu6h
 - Steps Execution https://my.newtonschool.co/playground/code/ki1s1nd91sgp?lecture_hash=g9aes9avp1fa
+- Ice cream https://my.newtonschool.co/playground/code/6vkm0hmychh2?lecture_hash=g9aes9avp1fa
 - 
