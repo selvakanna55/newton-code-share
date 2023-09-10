@@ -6,4 +6,5 @@
 - Steps Execution https://my.newtonschool.co/playground/code/ki1s1nd91sgp?lecture_hash=g9aes9avp1fa
 - Ice cream https://my.newtonschool.co/playground/code/6vkm0hmychh2?lecture_hash=g9aes9avp1fa
 - FizzBuzz https://my.newtonschool.co/playground/code/yf7oo3of0vt9?lecture_hash=g9j7r6akxu6h
+- Star Triangle (right angle) https://my.newtonschool.co/playground/code/unqw79ag11e3?lecture_hash=1mr8cj7elfgx
 - 
