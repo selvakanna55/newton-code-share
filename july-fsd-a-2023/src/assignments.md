@@ -7,4 +7,9 @@
 - Ice cream https://my.newtonschool.co/playground/code/6vkm0hmychh2?lecture_hash=g9aes9avp1fa
 - FizzBuzz https://my.newtonschool.co/playground/code/yf7oo3of0vt9?lecture_hash=g9j7r6akxu6h
 - Star Triangle (right angle) https://my.newtonschool.co/playground/code/unqw79ag11e3?lecture_hash=1mr8cj7elfgx
+- Max in Three Numbers https://my.newtonschool.co/playground/code/ked5twfuncsq?lecture_hash=5z4y92gxdlz5
+- Determine the Winner https://my.newtonschool.co/playground/code/0d63ur72ut24?lecture_hash=9o19dhytbynq
+- Calculate Shipping Cost https://my.newtonschool.co/playground/code/tl0f2bmp1af9?lecture_hash=9o19dhytbynq
+- Increment and Decrement https://my.newtonschool.co/playground/code/o6qj9ssxrijh?lecture_hash=g9aes9avp1fa
+- Is Alphabet? https://my.newtonschool.co/playground/code/hkua5wd8d8gj?lecture_hash=yas24w8hjr5g
 - 
