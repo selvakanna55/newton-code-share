@@ -12,4 +12,7 @@
 - Calculate Shipping Cost https://my.newtonschool.co/playground/code/tl0f2bmp1af9?lecture_hash=9o19dhytbynq
 - Increment and Decrement https://my.newtonschool.co/playground/code/o6qj9ssxrijh?lecture_hash=g9aes9avp1fa
 - Is Alphabet? https://my.newtonschool.co/playground/code/hkua5wd8d8gj?lecture_hash=yas24w8hjr5g
-- 
+- Right angle triangle pattern https://my.newtonschool.co/playground/code/r9q843nsb0rq?lecture_hash=1mr8cj7elfgx
+- Newton and his Picture https://my.newtonschool.co/playground/code/5opih3pdse5f?lecture_hash=1mr8cj7elfgx
+- Anti-Fibonacci https://my.newtonschool.co/playground/code/gdekhcz9vpaf?lecture_hash=1mr8cj7elfgx
+- Pyramid Pattern https://my.newtonschool.co/playground/code/zxiho49cjhw1?lecture_hash=1mr8cj7elfgx
