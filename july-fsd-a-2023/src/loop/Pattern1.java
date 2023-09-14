@@ -98,6 +98,33 @@ public class Pattern1 {
             System.out.println();
         }
 
+        /*
+         *
+         * *
+         * * *
+         * * * *
+         * * * * *
+         */
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (j <= n - i) {
+                    System.out.print("  ");
+                } else {
+                    System.out.print("* ");
+                }
+            }
+            System.out.println();
+        }
+
+        int num = 1;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) { // <=n to <=i
+                System.out.print(num + " ");
+                num = num + 1;
+            }
+            System.out.println();
+        }
+
 
     }
 

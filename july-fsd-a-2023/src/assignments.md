@@ -16,3 +16,6 @@
 - Newton and his Picture https://my.newtonschool.co/playground/code/5opih3pdse5f?lecture_hash=1mr8cj7elfgx
 - Anti-Fibonacci https://my.newtonschool.co/playground/code/gdekhcz9vpaf?lecture_hash=1mr8cj7elfgx
 - Pyramid Pattern https://my.newtonschool.co/playground/code/zxiho49cjhw1?lecture_hash=1mr8cj7elfgx
+- Butterfly pattern https://my.newtonschool.co/playground/code/ncm3cw4cwhqu?lecture_hash=1mr8cj7elfgx
+- Electricity Bill(Contest) https://my.newtonschool.co/playground/code/vg5ngvub1xmk
+- 
