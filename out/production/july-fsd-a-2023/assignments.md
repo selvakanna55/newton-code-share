@@ -18,4 +18,9 @@
 - Pyramid Pattern https://my.newtonschool.co/playground/code/zxiho49cjhw1?lecture_hash=1mr8cj7elfgx
 - Butterfly pattern https://my.newtonschool.co/playground/code/ncm3cw4cwhqu?lecture_hash=1mr8cj7elfgx
 - Electricity Bill(Contest) https://my.newtonschool.co/playground/code/vg5ngvub1xmk
-- 
+- Gross Pay (Contest) https://my.newtonschool.co/playground/code/80ol9cfbse84
+- Which figure (Contest) https://my.newtonschool.co/playground/code/br9khw2g2eu7
+- Gross Salary(Contest) https://my.newtonschool.co/playground/code/379fgqtyjpcj
+- Tickets to college https://my.newtonschool.co/playground/code/nkwi88yuaawh
+- Month Days https://my.newtonschool.co/playground/code/me438fnti76d
+- Number of Days https://my.newtonschool.co/playground/code/4r71yup1x6my?lecture_hash=9o19dhytbynq
