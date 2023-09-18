@@ -24,3 +24,9 @@
 - Tickets to college https://my.newtonschool.co/playground/code/nkwi88yuaawh
 - Month Days https://my.newtonschool.co/playground/code/me438fnti76d
 - Number of Days https://my.newtonschool.co/playground/code/4r71yup1x6my?lecture_hash=9o19dhytbynq
+- Tuberculosis Vaccination (Contest) https://my.newtonschool.co/playground/code/3hl7twcdqwtj
+- Value of PI https://my.newtonschool.co/playground/code/r10x2ynfdyhn?lecture_hash=38lqguzynb5q
+- Print the input! https://my.newtonschool.co/playground/code/vkqia8lflowg?lecture_hash=38lqguzynb5q
+- Bound (Contest) https://my.newtonschool.co/playground/code/vp1v57672xbi
+- Find distance from n (Contest) https://my.newtonschool.co/playground/code/4flvsponxjp4
+- 

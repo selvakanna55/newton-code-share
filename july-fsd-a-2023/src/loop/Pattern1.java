@@ -116,6 +116,13 @@ public class Pattern1 {
             System.out.println();
         }
 
+        /*
+        1
+        2 3
+        4 5 6
+        7 8 9 10
+        11 12 13 14 15
+        * */
         int num = 1;
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= i; j++) { // <=n to <=i
@@ -125,6 +132,25 @@ public class Pattern1 {
             System.out.println();
         }
 
+        /*
+                        * * * * *
+                    * * * * *
+                * * * * *
+            * * * * *
+         * * * * *
+
+         */
+
+        for (int i = 1; i <= n; i++) {
+            int space = n - i;
+            for (int j = 1; j <= space; j++) { //print space n-i times
+                System.out.print("  ");
+            }
+            for (int j = 1; j <= n; j++) { //print stars n times
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
 
     }
 
