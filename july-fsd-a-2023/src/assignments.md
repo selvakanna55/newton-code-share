@@ -29,4 +29,5 @@
 - Print the input! https://my.newtonschool.co/playground/code/vkqia8lflowg?lecture_hash=38lqguzynb5q
 - Bound (Contest) https://my.newtonschool.co/playground/code/vp1v57672xbi
 - Find distance from n (Contest) https://my.newtonschool.co/playground/code/4flvsponxjp4
+- Sum of Sums of Digits https://my.newtonschool.co/playground/code/h5f2qvluf4vk?lecture_hash=fymentbijvr3
 - 

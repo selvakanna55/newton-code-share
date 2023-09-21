@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/functions/NoParamAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/functions/SimpleAdd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/functions/FunctionsTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/basic/Typecasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/basic/Typecasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +79,35 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleAdd1">
-    <configuration name="NoParamAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.NoParamAddition" />
+  <component name="RunManager" selected="Application.FunctionsTest1">
+    <configuration name="Function1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.Function1" />
+      <module name="july-fsd-a-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Function2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.Function2" />
+      <module name="july-fsd-a-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.FunctionsTest1" />
       <module name="july-fsd-a-2023" />
       <extension name="coverage">
         <pattern>
@@ -108,32 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleAdd1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.SimpleAdd1" />
-      <module name="july-fsd-a-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="functions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="input_output.SimpleInput" />
-      <module name="july-fsd-a-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="input_output.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Typecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.Typecasting" />
       <module name="july-fsd-a-2023" />
@@ -149,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleAdd1" />
-        <item itemvalue="Application.NoParamAddition" />
+        <item itemvalue="Application.FunctionsTest1" />
+        <item itemvalue="Application.Function2" />
+        <item itemvalue="Application.Function1" />
         <item itemvalue="Application.Typecasting" />
         <item itemvalue="Application.Pattern1" />
-        <item itemvalue="Application.SimpleInput" />
       </list>
     </recent_temporary>
   </component>
@@ -1849,21 +1847,6 @@
           <option name="timeStamp" value="515" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/basic/Typecasting.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="516" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/basic/Typecasting.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="517" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/basic/Typecasting.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="518" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-17.0.1/lib/src.zip!/java.base/java/io/PrintStream.java</url>
           <line>936</line>
           <option name="timeStamp" value="519" />
@@ -1875,7 +1858,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/basic/Typecasting.java</url>
-          <line>7</line>
+          <line>13</line>
           <option name="timeStamp" value="521" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1919,14 +1902,14 @@
           <option name="timeStamp" value="532" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/functions/SimpleAdd1.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="542" />
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/functions/Function2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="545" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/functions/SimpleAdd1.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="545" />
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/functions/FunctionsTest1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="547" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
