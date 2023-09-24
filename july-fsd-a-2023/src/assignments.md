@@ -30,4 +30,6 @@
 - Bound (Contest) https://my.newtonschool.co/playground/code/vp1v57672xbi
 - Find distance from n (Contest) https://my.newtonschool.co/playground/code/4flvsponxjp4
 - Sum of Sums of Digits https://my.newtonschool.co/playground/code/h5f2qvluf4vk?lecture_hash=fymentbijvr3
+- Count divisors https://my.newtonschool.co/playground/code/dezu3rqmpl1y?lecture_hash=fymentbijvr3
+- Odd even pattern(Contest) https://my.newtonschool.co/playground/code/z1y6qao78qoz
 - 
