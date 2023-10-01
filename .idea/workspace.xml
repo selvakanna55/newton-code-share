@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/array/MoveNegativeToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/array/Sort012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/array2d/Array2DIO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/july-fsd-a-2023/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/july-fsd-a-2023/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +83,20 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.FunctionsTest1">
+  <component name="RunManager" selected="Application.Array2DIO">
+    <configuration name="Array2DIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array2d.Array2DIO" />
+      <module name="july-fsd-a-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Function1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functions.Function1" />
       <module name="july-fsd-a-2023" />
@@ -120,19 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Pattern1" />
-      <module name="july-fsd-a-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Typecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.Typecasting" />
       <module name="july-fsd-a-2023" />
@@ -148,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array2DIO" />
         <item itemvalue="Application.FunctionsTest1" />
         <item itemvalue="Application.Function2" />
         <item itemvalue="Application.Function1" />
         <item itemvalue="Application.Typecasting" />
-        <item itemvalue="Application.Pattern1" />
       </list>
     </recent_temporary>
   </component>
@@ -1911,6 +1914,11 @@
           <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/functions/FunctionsTest1.java</url>
           <line>4</line>
           <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/array2d/Array2DIO.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="548" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
