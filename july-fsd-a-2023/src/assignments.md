@@ -36,4 +36,5 @@
 - Equalise the Array https://my.newtonschool.co/playground/code/b175dfqrex3p?lecture_hash=dpgr2i0lckhw
 - Distributing Lottery Money https://my.newtonschool.co/playground/code/br75b6374orf?lecture_hash=kaf7g9c3urp8
 - Apple and Oranges (Functional Problem) https://my.newtonschool.co/playground/code/xuynl1zy4zwi?lecture_hash=kaf7g9c3urp8
+- Digit's place (contest) https://my.newtonschool.co/playground/code/8vgrevzq9wq4
 - 
