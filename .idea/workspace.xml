@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/array2d/MatrixColumnSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/array2d/MatrixMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/arraylist/SimpleArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" afterDir="false" />
     </list>
@@ -81,7 +80,7 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array2DIO">
+  <component name="RunManager" selected="Application.SimpleArrayList">
     <configuration name="Array2DIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array2d.Array2DIO" />
       <module name="july-fsd-a-2023" />
@@ -134,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Typecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.Typecasting" />
+    <configuration name="SimpleArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylist.SimpleArrayList" />
       <module name="july-fsd-a-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleArrayList" />
         <item itemvalue="Application.Array2DIO" />
         <item itemvalue="Application.FunctionsTest1" />
         <item itemvalue="Application.Function2" />
         <item itemvalue="Application.Function1" />
-        <item itemvalue="Application.Typecasting" />
       </list>
     </recent_temporary>
   </component>

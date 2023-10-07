@@ -40,4 +40,5 @@
 - OddEven rotation https://my.newtonschool.co/playground/code/xu1026j2iq04?lecture_hash=jjyutrqct21d
 - Print the Matrix https://my.newtonschool.co/playground/code/b9nnd3a28jin?lecture_hash=94ekhf971yej
 - Matrix ZigZag Traversal https://my.newtonschool.co/playground/code/yrx81ydd3gki?lecture_hash=94ekhf971yej
-- 
+- Array List Implementation  https://my.newtonschool.co/playground/code/38xglgtlri0z?lecture_hash=hs8j1rfmsuur
+- Operation on ArrayList https://my.newtonschool.co/playground/code/w5coc1t57b7i?lecture_hash=hs8j1rfmsuur

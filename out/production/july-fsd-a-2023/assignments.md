@@ -33,4 +33,11 @@
 - Count divisors https://my.newtonschool.co/playground/code/dezu3rqmpl1y?lecture_hash=fymentbijvr3
 - Odd even pattern(Contest) https://my.newtonschool.co/playground/code/z1y6qao78qoz
 - Third largest element https://my.newtonschool.co/playground/code/21x3dla9mgq4?lecture_hash=dpgr2i0lckhw
+- Equalise the Array https://my.newtonschool.co/playground/code/b175dfqrex3p?lecture_hash=dpgr2i0lckhw
+- Distributing Lottery Money https://my.newtonschool.co/playground/code/br75b6374orf?lecture_hash=kaf7g9c3urp8
+- Apple and Oranges (Functional Problem) https://my.newtonschool.co/playground/code/xuynl1zy4zwi?lecture_hash=kaf7g9c3urp8
+- Digit's place (contest) https://my.newtonschool.co/playground/code/8vgrevzq9wq4
+- OddEven rotation https://my.newtonschool.co/playground/code/xu1026j2iq04?lecture_hash=jjyutrqct21d
+- Print the Matrix https://my.newtonschool.co/playground/code/b9nnd3a28jin?lecture_hash=94ekhf971yej
+- Matrix ZigZag Traversal https://my.newtonschool.co/playground/code/yrx81ydd3gki?lecture_hash=94ekhf971yej
 - 
