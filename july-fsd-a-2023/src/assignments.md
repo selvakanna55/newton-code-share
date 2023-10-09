@@ -42,3 +42,8 @@
 - Matrix ZigZag Traversal https://my.newtonschool.co/playground/code/yrx81ydd3gki?lecture_hash=94ekhf971yej
 - Array List Implementation  https://my.newtonschool.co/playground/code/38xglgtlri0z?lecture_hash=hs8j1rfmsuur
 - Operation on ArrayList https://my.newtonschool.co/playground/code/w5coc1t57b7i?lecture_hash=hs8j1rfmsuur
+- Maximum Marks https://my.newtonschool.co/playground/code/gcqvpnlg9d4k
+- NoXor (Simple Contest) https://my.newtonschool.co/playground/code/mdbbyxhs8mo7
+- Diagonal sum II https://my.newtonschool.co/playground/code/pnkx7278vvlr
+- Compute power https://my.newtonschool.co/playground/code/h1iabwft8dbd
+- Negative integer in Array https://my.newtonschool.co/playground/code/tj7ewv3lnwp9
