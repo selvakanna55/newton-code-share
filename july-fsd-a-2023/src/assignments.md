@@ -48,4 +48,4 @@
 - Compute power https://my.newtonschool.co/playground/code/h1iabwft8dbd
 - Negative integer in Array https://my.newtonschool.co/playground/code/tj7ewv3lnwp9
 - Count Frequency of Characters in List https://my.newtonschool.co/playground/code/sbb1s4pr365s?lecture_hash=vh1845bb6mi7
-- 
+- Generate Spiral Matrix https://my.newtonschool.co/playground/code/0bt3ja169gup?lecture_hash=nc1tarvn9c3w
