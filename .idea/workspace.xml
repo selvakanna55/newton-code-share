@@ -1915,6 +1915,11 @@
           <line>8</line>
           <option name="timeStamp" value="548" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/functions/DigitSum.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="549" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
           <line>11</line>

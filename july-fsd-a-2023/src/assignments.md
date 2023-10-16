@@ -51,4 +51,7 @@
 - Generate Spiral Matrix https://my.newtonschool.co/playground/code/0bt3ja169gup?lecture_hash=nc1tarvn9c3w
 - The Classical Chase (Contest) https://my.newtonschool.co/playground/code/ftsx0n5mesxh
 - Zero grid https://my.newtonschool.co/playground/code/guyqkk3eb9kt
+- Maximum Odd https://my.newtonschool.co/playground/code/js2hdu5l6ko8
+- Lone Sum Supremacy (Contest) https://my.newtonschool.co/playground/code/e2jk4dgm2exw
+- 
 - 
