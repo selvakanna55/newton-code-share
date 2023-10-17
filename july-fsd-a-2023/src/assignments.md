@@ -53,5 +53,5 @@
 - Zero grid https://my.newtonschool.co/playground/code/guyqkk3eb9kt
 - Maximum Odd https://my.newtonschool.co/playground/code/js2hdu5l6ko8
 - Lone Sum Supremacy (Contest) https://my.newtonschool.co/playground/code/e2jk4dgm2exw
-- 
-- 
+- Print another sequence (Contest) https://my.newtonschool.co/playground/code/hf5xbw71o7gq
+- Palindrome https://my.newtonschool.co/playground/code/2q3tlzx0hm8j
