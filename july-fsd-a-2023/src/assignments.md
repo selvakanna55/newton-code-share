@@ -55,3 +55,7 @@
 - Lone Sum Supremacy (Contest) https://my.newtonschool.co/playground/code/e2jk4dgm2exw
 - Print another sequence (Contest) https://my.newtonschool.co/playground/code/hf5xbw71o7gq
 - Palindrome https://my.newtonschool.co/playground/code/2q3tlzx0hm8j
+- Fibonacci Numbers https://my.newtonschool.co/playground/code/y6q4mmltxh1b
+- Palindrome [Recursive] https://my.newtonschool.co/playground/code/lcwpcy391ipe
+- Reverse a sentence https://my.newtonschool.co/playground/code/akt72lqzl3ad
+- 
