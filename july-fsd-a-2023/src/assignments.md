@@ -58,4 +58,6 @@
 - Fibonacci Numbers https://my.newtonschool.co/playground/code/y6q4mmltxh1b
 - Palindrome [Recursive] https://my.newtonschool.co/playground/code/lcwpcy391ipe
 - Reverse a sentence https://my.newtonschool.co/playground/code/akt72lqzl3ad
+- Race https://my.newtonschool.co/playground/code/ayetqipjxatu
+- Array sum without loops https://my.newtonschool.co/playground/code/1w2nyd59o9pl
 - 
