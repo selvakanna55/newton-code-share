@@ -60,4 +60,7 @@
 - Reverse a sentence https://my.newtonschool.co/playground/code/akt72lqzl3ad
 - Race https://my.newtonschool.co/playground/code/ayetqipjxatu
 - Array sum without loops https://my.newtonschool.co/playground/code/1w2nyd59o9pl
-- 
+- Remove zeroes https://my.newtonschool.co/playground/code/vkefag0pd87f
+- Element position https://my.newtonschool.co/playground/code/90uaekez89q1
+- Divisibility Test https://my.newtonschool.co/playground/code/2o9eb4w75mg6
+- Flips (Contest) https://my.newtonschool.co/playground/code/bqbuhcltosre
