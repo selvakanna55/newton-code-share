@@ -1,6 +1,7 @@
 package searching;
 
 
+// https://learn.newtonschool.co/visuals/linear_search/0
 class LinearSearch {
     public static int linearSearch(int arr[], int target) {
         // TC: O(n) , SC: O(1)
