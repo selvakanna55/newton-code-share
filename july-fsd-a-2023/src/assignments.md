@@ -64,3 +64,4 @@
 - Element position https://my.newtonschool.co/playground/code/90uaekez89q1
 - Divisibility Test https://my.newtonschool.co/playground/code/2o9eb4w75mg6
 - Flips (Contest) https://my.newtonschool.co/playground/code/bqbuhcltosre
+- Maximum consecutive one's https://my.newtonschool.co/playground/code/pwrwr5fck56e
