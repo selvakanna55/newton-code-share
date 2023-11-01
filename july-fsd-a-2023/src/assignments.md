@@ -65,3 +65,8 @@
 - Divisibility Test https://my.newtonschool.co/playground/code/2o9eb4w75mg6
 - Flips (Contest) https://my.newtonschool.co/playground/code/bqbuhcltosre
 - Maximum consecutive one's https://my.newtonschool.co/playground/code/pwrwr5fck56e
+- Find Positions of X in array https://my.newtonschool.co/playground/code/52tgd2c0x45p?lecture_hash=vhkdvk54drk2
+- Insert Operator https://my.newtonschool.co/playground/code/yvfcl3r8enng?lecture_hash=hq9o5ugbekwr
+- Find element in 2D array https://my.newtonschool.co/playground/code/xzv6r32vglwa
+- Alice and sum (Contest) https://my.newtonschool.co/playground/code/q5f4quk0mon5
+- Distinct Colors https://my.newtonschool.co/playground/code/8tq284dxus5t

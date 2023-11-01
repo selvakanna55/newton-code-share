@@ -3,6 +3,7 @@ package sorting;
 
 import java.util.*;
 
+// https://learn.newtonschool.co/visuals/selection_sort/0
 class SelectionSort {
     public static void selectionSort(int arr[]) {
         // TC: O(n^2), SC: O(1)
