@@ -70,3 +70,9 @@
 - Find element in 2D array https://my.newtonschool.co/playground/code/xzv6r32vglwa
 - Alice and sum (Contest) https://my.newtonschool.co/playground/code/q5f4quk0mon5
 - Distinct Colors https://my.newtonschool.co/playground/code/8tq284dxus5t
+- Superstar Element https://my.newtonschool.co/playground/code/ub05k4zftlk3
+- Subarray Count https://my.newtonschool.co/playground/code/9mznnr09dqb1
+- Common Factors https://my.newtonschool.co/playground/code/xgtj7igc1vau
+- Sum of all substrings https://my.newtonschool.co/playground/code/ertxkpbigvll
+- Smaller elements https://my.newtonschool.co/playground/code/siwg6kh46ivj
+- Close to Right (Contest) https://my.newtonschool.co/playground/code/s2bit150rfz5
