@@ -3,6 +3,9 @@ package sorting;
 
 import java.util.Arrays;
 
+// https://learn.newtonschool.co/visuals/merge_sort/0
+// https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/
+
 // don't change the name of this class
 // you can add inner classes if needed
 class MergeSort {
