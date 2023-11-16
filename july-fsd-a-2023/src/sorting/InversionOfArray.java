@@ -2,6 +2,7 @@ package sorting;
 
 import java.util.Scanner;
 
+// https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
 // don't change the name of this class
 // you can add inner classes if needed
 class InversionOfArray {

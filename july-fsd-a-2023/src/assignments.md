@@ -76,3 +76,6 @@
 - Sum of all substrings https://my.newtonschool.co/playground/code/ertxkpbigvll
 - Smaller elements https://my.newtonschool.co/playground/code/siwg6kh46ivj
 - Close to Right (Contest) https://my.newtonschool.co/playground/code/s2bit150rfz5
+- Golden Rule https://my.newtonschool.co/playground/code/spbhqg36shpw
+- Array formation https://my.newtonschool.co/playground/code/6uk0pt0dqn85
+- 
