@@ -78,4 +78,5 @@
 - Close to Right (Contest) https://my.newtonschool.co/playground/code/s2bit150rfz5
 - Golden Rule https://my.newtonschool.co/playground/code/spbhqg36shpw
 - Array formation https://my.newtonschool.co/playground/code/6uk0pt0dqn85
+- Count Numbers https://my.newtonschool.co/playground/code/vaajwr08ygk5
 - 
