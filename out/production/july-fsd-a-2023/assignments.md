@@ -40,4 +40,43 @@
 - OddEven rotation https://my.newtonschool.co/playground/code/xu1026j2iq04?lecture_hash=jjyutrqct21d
 - Print the Matrix https://my.newtonschool.co/playground/code/b9nnd3a28jin?lecture_hash=94ekhf971yej
 - Matrix ZigZag Traversal https://my.newtonschool.co/playground/code/yrx81ydd3gki?lecture_hash=94ekhf971yej
+- Array List Implementation  https://my.newtonschool.co/playground/code/38xglgtlri0z?lecture_hash=hs8j1rfmsuur
+- Operation on ArrayList https://my.newtonschool.co/playground/code/w5coc1t57b7i?lecture_hash=hs8j1rfmsuur
+- Maximum Marks https://my.newtonschool.co/playground/code/gcqvpnlg9d4k
+- NoXor (Simple Contest) https://my.newtonschool.co/playground/code/mdbbyxhs8mo7
+- Diagonal sum II https://my.newtonschool.co/playground/code/pnkx7278vvlr
+- Compute power https://my.newtonschool.co/playground/code/h1iabwft8dbd
+- Negative integer in Array https://my.newtonschool.co/playground/code/tj7ewv3lnwp9
+- Count Frequency of Characters in List https://my.newtonschool.co/playground/code/sbb1s4pr365s?lecture_hash=vh1845bb6mi7
+- Generate Spiral Matrix https://my.newtonschool.co/playground/code/0bt3ja169gup?lecture_hash=nc1tarvn9c3w
+- The Classical Chase (Contest) https://my.newtonschool.co/playground/code/ftsx0n5mesxh
+- Zero grid https://my.newtonschool.co/playground/code/guyqkk3eb9kt
+- Maximum Odd https://my.newtonschool.co/playground/code/js2hdu5l6ko8
+- Lone Sum Supremacy (Contest) https://my.newtonschool.co/playground/code/e2jk4dgm2exw
+- Print another sequence (Contest) https://my.newtonschool.co/playground/code/hf5xbw71o7gq
+- Palindrome https://my.newtonschool.co/playground/code/2q3tlzx0hm8j
+- Fibonacci Numbers https://my.newtonschool.co/playground/code/y6q4mmltxh1b
+- Palindrome [Recursive] https://my.newtonschool.co/playground/code/lcwpcy391ipe
+- Reverse a sentence https://my.newtonschool.co/playground/code/akt72lqzl3ad
+- Race https://my.newtonschool.co/playground/code/ayetqipjxatu
+- Array sum without loops https://my.newtonschool.co/playground/code/1w2nyd59o9pl
+- Remove zeroes https://my.newtonschool.co/playground/code/vkefag0pd87f
+- Element position https://my.newtonschool.co/playground/code/90uaekez89q1
+- Divisibility Test https://my.newtonschool.co/playground/code/2o9eb4w75mg6
+- Flips (Contest) https://my.newtonschool.co/playground/code/bqbuhcltosre
+- Maximum consecutive one's https://my.newtonschool.co/playground/code/pwrwr5fck56e
+- Find Positions of X in array https://my.newtonschool.co/playground/code/52tgd2c0x45p?lecture_hash=vhkdvk54drk2
+- Insert Operator https://my.newtonschool.co/playground/code/yvfcl3r8enng?lecture_hash=hq9o5ugbekwr
+- Find element in 2D array https://my.newtonschool.co/playground/code/xzv6r32vglwa
+- Alice and sum (Contest) https://my.newtonschool.co/playground/code/q5f4quk0mon5
+- Distinct Colors https://my.newtonschool.co/playground/code/8tq284dxus5t
+- Superstar Element https://my.newtonschool.co/playground/code/ub05k4zftlk3
+- Subarray Count https://my.newtonschool.co/playground/code/9mznnr09dqb1
+- Common Factors https://my.newtonschool.co/playground/code/xgtj7igc1vau
+- Sum of all substrings https://my.newtonschool.co/playground/code/ertxkpbigvll
+- Smaller elements https://my.newtonschool.co/playground/code/siwg6kh46ivj
+- Close to Right (Contest) https://my.newtonschool.co/playground/code/s2bit150rfz5
+- Golden Rule https://my.newtonschool.co/playground/code/spbhqg36shpw
+- Array formation https://my.newtonschool.co/playground/code/6uk0pt0dqn85
+- Count Numbers https://my.newtonschool.co/playground/code/vaajwr08ygk5
 - 

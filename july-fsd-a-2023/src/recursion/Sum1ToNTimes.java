@@ -17,6 +17,6 @@ class Sum1ToNTimes {
         // TimeComplexity: O(n), SpaceComplexity: O(1)
 
 
-        System.out.println(sum1ToN(1, n));
+//        System.out.println(sum1ToN(1, n));
     }
 }

@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/basic/MathPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/Factorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/GcdLcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/IsPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/PrimeFactorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/SieveOfEratosthenes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/PrimeFactorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/PrimeFactorization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/recursion/Sum1ToNTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/recursion/Sum1ToNTimes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,26 +80,13 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleArrayList">
+  <component name="RunManager" selected="Application.PrimeFactorization">
     <configuration name="Array2DIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array2d.Array2DIO" />
       <module name="july-fsd-a-2023" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="array2d.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Function1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.Function1" />
-      <module name="july-fsd-a-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,6 +120,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeFactorization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maths.PrimeFactorization" />
+      <module name="july-fsd-a-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraylist.SimpleArrayList" />
       <module name="july-fsd-a-2023" />
@@ -151,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeFactorization" />
         <item itemvalue="Application.SimpleArrayList" />
         <item itemvalue="Application.Array2DIO" />
         <item itemvalue="Application.FunctionsTest1" />
         <item itemvalue="Application.Function2" />
-        <item itemvalue="Application.Function1" />
       </list>
     </recent_temporary>
   </component>
@@ -1924,6 +1921,31 @@
           <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/functions/DigitSum.java</url>
           <line>7</line>
           <option name="timeStamp" value="549" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/maths/PrimeFactorization.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/maths/PrimeFactorization.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="551" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/maths/PrimeFactorization.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/maths/PrimeFactorization.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/maths/PrimeFactorization.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="554" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>

@@ -79,4 +79,9 @@
 - Golden Rule https://my.newtonschool.co/playground/code/spbhqg36shpw
 - Array formation https://my.newtonschool.co/playground/code/6uk0pt0dqn85
 - Count Numbers https://my.newtonschool.co/playground/code/vaajwr08ygk5
+- Prime Numbers Before N https://my.newtonschool.co/playground/code/p148i7aos9uk?lecture_hash=9yngkbqyfe0o
+- Even substrings (contest) https://my.newtonschool.co/playground/code/fdlgc4psn9er
+- Make Multiple https://my.newtonschool.co/playground/code/x7bki4lsv7de?lecture_hash=cskm2125hjjr
+- Nth number made of prime digits https://my.newtonschool.co/playground/code/me96wwgs0ohy
+- Functions- prime https://my.newtonschool.co/playground/code/f8pl2bsm6h24
 - 
