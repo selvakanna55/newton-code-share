@@ -84,4 +84,5 @@
 - Make Multiple https://my.newtonschool.co/playground/code/x7bki4lsv7de?lecture_hash=cskm2125hjjr
 - Nth number made of prime digits https://my.newtonschool.co/playground/code/me96wwgs0ohy
 - Functions- prime https://my.newtonschool.co/playground/code/f8pl2bsm6h24
+- Simple Colours https://my.newtonschool.co/playground/code/iu4vl0wloesc?lecture_hash=xzs8do11i42o
 - 
