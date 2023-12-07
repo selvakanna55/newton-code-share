@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/modulo_arithmatic/FactorialWithMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/modulo_arithmatic/PrintArrayInCircularForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/CompileTimePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/ConstructorBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/InheritanceWithSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/StaticAndThis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
         <option value="AnnotationType" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -81,13 +83,13 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintArrayInCircularForm">
-    <configuration name="Array2DIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array2d.Array2DIO" />
+  <component name="RunManager" selected="Application.InheritanceExample">
+    <configuration name="ConstructorBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.ConstructorBasic" />
       <module name="july-fsd-a-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array2d.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionsTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.FunctionsTest1" />
+    <configuration name="ConstructorBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.ConstructorBasic" />
       <module name="july-fsd-a-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functions.*" />
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.InheritanceExample" />
+      <module name="july-fsd-a-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,26 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.SimpleArrayList" />
-      <module name="july-fsd-a-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceExample" />
+        <item itemvalue="Application.ConstructorBasic (1)" />
+        <item itemvalue="Application.ConstructorBasic" />
         <item itemvalue="Application.PrintArrayInCircularForm" />
         <item itemvalue="Application.PrimeFactorization" />
-        <item itemvalue="Application.SimpleArrayList" />
-        <item itemvalue="Application.Array2DIO" />
-        <item itemvalue="Application.FunctionsTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -1947,6 +1949,16 @@
           <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/maths/PrimeFactorization.java</url>
           <line>16</line>
           <option name="timeStamp" value="554" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-17.0.1/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="557" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/oops/ConstructorBasic.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="559" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
