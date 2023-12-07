@@ -85,4 +85,7 @@
 - Nth number made of prime digits https://my.newtonschool.co/playground/code/me96wwgs0ohy
 - Functions- prime https://my.newtonschool.co/playground/code/f8pl2bsm6h24
 - Simple Colours https://my.newtonschool.co/playground/code/iu4vl0wloesc?lecture_hash=xzs8do11i42o
-- 
+- Minimize XOR https://my.newtonschool.co/playground/code/nwhyj5ci38rv?lecture_hash=fxdlrz164ulx
+- Chef and String https://my.newtonschool.co/playground/code/acp3hamkyj42
+- Min Max Difference (Contest) https://my.newtonschool.co/playground/code/qf4slel1h3xd
+- The Game of Battle War(Contest) https://my.newtonschool.co/playground/code/cnz5oj1wmylh
