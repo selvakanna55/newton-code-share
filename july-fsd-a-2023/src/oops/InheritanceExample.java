@@ -20,7 +20,7 @@ class Vehicle {
     }
 }
 
-class FourWheeler extends Vehicle {
+class FourWheeler extends Vehicle { // fourwheeler is a vehicle
     int wheels = 4;
 
     void printMaxCapacity() {

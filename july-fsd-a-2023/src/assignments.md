@@ -89,3 +89,6 @@
 - Chef and String https://my.newtonschool.co/playground/code/acp3hamkyj42
 - Min Max Difference (Contest) https://my.newtonschool.co/playground/code/qf4slel1h3xd
 - The Game of Battle War(Contest) https://my.newtonschool.co/playground/code/cnz5oj1wmylh
+- Bank Account 2 https://my.newtonschool.co/playground/code/lnpfegh4hl4t?lecture_hash=xbxso3zyx8hi
+- Student management system https://my.newtonschool.co/playground/code/cnfmtv85zjjd?lecture_hash=r57a575yjopv
+- 

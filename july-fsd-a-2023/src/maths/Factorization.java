@@ -1,9 +1,6 @@
 package maths;
 
 
-import java.util.*;
-
-
 public class Factorization {
     // Newton School Online Java compiler to run Java online.
     // Write Java code in this online editor and run it.
