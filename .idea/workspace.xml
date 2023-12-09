@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/ArrayOfObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/GetterSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/SameClassAccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/TestingPackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/Factorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/Factorization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/InheritanceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/InheritanceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/july-fsd-a-2023/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/july-fsd-a-2023/assignments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/Bitmanipulation.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
