@@ -91,4 +91,8 @@
 - The Game of Battle War(Contest) https://my.newtonschool.co/playground/code/cnz5oj1wmylh
 - Bank Account 2 https://my.newtonschool.co/playground/code/lnpfegh4hl4t?lecture_hash=xbxso3zyx8hi
 - Student management system https://my.newtonschool.co/playground/code/cnfmtv85zjjd?lecture_hash=r57a575yjopv
+- Candy Love (Contest) https://my.newtonschool.co/playground/code/hxkbha7qdn67
+- Beautiful Fork https://my.newtonschool.co/playground/code/iq81tc8vzlqm
+- Circle https://my.newtonschool.co/playground/code/1uadnbvxaq7q
+- Exam's Game (Contest)  https://my.newtonschool.co/playground/code/blg676crol80
 - 

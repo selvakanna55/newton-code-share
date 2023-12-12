@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/Bitmanipulation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/DifferentPackageExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/oops/games/TicTacToeWithoutOops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/GcdLcm.java" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/maths/GcdLcm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +83,7 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestingPackage (1)">
+  <component name="RunManager" selected="Application.TicTacToeWithoutOops">
     <configuration name="ConstructorBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.ConstructorBasic" />
       <module name="july-fsd-a-2023" />
@@ -119,20 +123,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintArrayInCircularForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo_arithmatic.PrintArrayInCircularForm" />
-      <module name="july-fsd-a-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="modulo_arithmatic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestingPackage (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestingPackage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.TestingPackage" />
       <module name="july-fsd-a-2023" />
       <extension name="coverage">
@@ -158,13 +149,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToeWithoutOops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.games.TicTacToeWithoutOops" />
+      <module name="july-fsd-a-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.games.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToeWithoutOops" />
         <item itemvalue="Application.TestingPackage (1)" />
         <item itemvalue="Application.TestingPackage" />
         <item itemvalue="Application.InheritanceExample" />
         <item itemvalue="Application.ConstructorBasic" />
-        <item itemvalue="Application.PrintArrayInCircularForm" />
       </list>
     </recent_temporary>
   </component>
@@ -1978,6 +1982,31 @@
           <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/oops/TestingPackage.java</url>
           <line>8</line>
           <option name="timeStamp" value="562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/oops/games/TicTacToeWithoutOops.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="591" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/oops/games/TicTacToeWithoutOops.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="594" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/oops/games/TicTacToeWithoutOops.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="596" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/oops/games/TicTacToeWithoutOops.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="598" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/july-fsd-a-2023/src/oops/games/TicTacToeWithoutOops.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="599" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/october-ms/src/recursion/Sum1ToN.java</url>
