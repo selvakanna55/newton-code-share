@@ -1,4 +1,4 @@
-package oops.games;
+package oops.tictactoe;
 
 import java.util.*;
 
