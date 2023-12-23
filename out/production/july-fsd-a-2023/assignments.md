@@ -95,4 +95,8 @@
 - Beautiful Fork https://my.newtonschool.co/playground/code/iq81tc8vzlqm
 - Circle https://my.newtonschool.co/playground/code/1uadnbvxaq7q
 - Exam's Game (Contest)  https://my.newtonschool.co/playground/code/blg676crol80
+- Candy Crush https://my.newtonschool.co/playground/code/jvt0m0k9n789
+- Newton Infinite Callback (Contest) https://my.newtonschool.co/playground/code/7lg93x6n5bpw
+- Encoded output https://my.newtonschool.co/playground/code/auf0kpeziv7d
+- Remaining amount https://my.newtonschool.co/playground/code/c24bqtvoxrdf
 - 

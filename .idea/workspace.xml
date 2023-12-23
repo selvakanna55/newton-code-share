@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/array/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/dsa1_recap_quetions_/PalindromeTwoPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/linkedlist/DoubleLinkedListRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/linkedlist/LinkedListWithTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/linkedlist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/linkedlist/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/linkedlist/MiddleOfTheLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/linkedlist/SinglyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/july-fsd-a-2023/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/july-fsd-a-2023/assignments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +88,7 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunTicTacToe">
+  <component name="RunManager" selected="Application.DoubleLinkedListRun">
     <configuration name="ConstructorBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.ConstructorBasic" />
       <module name="july-fsd-a-2023" />
@@ -95,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.ConstructorBasic" />
+    <configuration name="DoubleLinkedListRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleLinkedListRun" />
       <module name="july-fsd-a-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.InheritanceExample" />
+    <configuration name="PalindromeTwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa1_recap_quetions_.PalindromeTwoPointer" />
       <module name="july-fsd-a-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="dsa1_recap_quetions_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoubleLinkedListRun" />
+        <item itemvalue="Application.PalindromeTwoPointer" />
         <item itemvalue="Application.RunTicTacToe" />
         <item itemvalue="Application.TicTacToeWithoutOops" />
         <item itemvalue="Application.TestingPackage" />
-        <item itemvalue="Application.InheritanceExample" />
-        <item itemvalue="Application.ConstructorBasic" />
       </list>
     </recent_temporary>
   </component>

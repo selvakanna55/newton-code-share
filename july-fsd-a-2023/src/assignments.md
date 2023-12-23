@@ -99,4 +99,7 @@
 - Newton Infinite Callback (Contest) https://my.newtonschool.co/playground/code/7lg93x6n5bpw
 - Encoded output https://my.newtonschool.co/playground/code/auf0kpeziv7d
 - Remaining amount https://my.newtonschool.co/playground/code/c24bqtvoxrdf
+- Snack machine https://my.newtonschool.co/playground/code/b9vwnpq5b4o8
+- Shapes - Class Inheritance https://my.newtonschool.co/playground/code/tjx5td713il7?lecture_hash=2jd471j2chrs
+- Filter https://my.newtonschool.co/playground/code/e7xg7xeyypxd?lecture_hash=vrmbi7y7rft8
 - 
