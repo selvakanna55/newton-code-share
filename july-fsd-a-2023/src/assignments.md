@@ -102,4 +102,9 @@
 - Snack machine https://my.newtonschool.co/playground/code/b9vwnpq5b4o8
 - Shapes - Class Inheritance https://my.newtonschool.co/playground/code/tjx5td713il7?lecture_hash=2jd471j2chrs
 - Filter https://my.newtonschool.co/playground/code/e7xg7xeyypxd?lecture_hash=vrmbi7y7rft8
+- Anywhere door https://my.newtonschool.co/playground/code/is2puog5chd9
+- Delete the Middle of the Linked List https://my.newtonschool.co/playground/code/qmm5043doyp7?lecture_hash=ud98xjbwbeoz
+- Delete node without head pointer https://my.newtonschool.co/playground/code/0idhrb5anmh8
+- Cakewalk? (Contest) https://my.newtonschool.co/playground/code/pdr3h4mf1kss
+- 2 Jumps https://my.newtonschool.co/playground/code/5dyoas5xs252
 - 
