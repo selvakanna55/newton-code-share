@@ -107,4 +107,5 @@
 - Delete node without head pointer https://my.newtonschool.co/playground/code/0idhrb5anmh8
 - Cakewalk? (Contest) https://my.newtonschool.co/playground/code/pdr3h4mf1kss
 - 2 Jumps https://my.newtonschool.co/playground/code/5dyoas5xs252
-- 
+- Circular linked list https://my.newtonschool.co/playground/code/x7b8jqp3jbxu?lecture_hash=bsm0ff6sl27h
+- Make A, B Equal https://my.newtonschool.co/playground/code/zehmqgj8qztm
