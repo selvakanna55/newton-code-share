@@ -109,3 +109,6 @@
 - 2 Jumps https://my.newtonschool.co/playground/code/5dyoas5xs252
 - Circular linked list https://my.newtonschool.co/playground/code/x7b8jqp3jbxu?lecture_hash=bsm0ff6sl27h
 - Make A, B Equal https://my.newtonschool.co/playground/code/zehmqgj8qztm
+- Cookies https://my.newtonschool.co/playground/code/84sqlsar6o48
+- Long ATM Queue https://my.newtonschool.co/playground/code/6mf2rka56j97
+- 
