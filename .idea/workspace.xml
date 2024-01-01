@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
+      <change afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/hashing/HashMapExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" beforeDir="false" afterPath="$PROJECT_DIR$/july-fsd-a-2023/src/assignments.md" afterDir="false" />
     </list>
@@ -80,13 +81,13 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.DoubleLinkedListRun">
-    <configuration name="ConstructorBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.ConstructorBasic" />
+  <component name="RunManager" selected="Application.Chaining">
+    <configuration name="Chaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashingChaining.Chaining" />
       <module name="july-fsd-a-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="HashingChaining.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuadraticProbingImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashing.QuadraticProbingImpl" />
+      <module name="july-fsd-a-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunTicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tictactoe.RunTicTacToe" />
       <module name="july-fsd-a-2023" />
@@ -146,39 +160,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestingPackage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.TestingPackage" />
-      <module name="july-fsd-a-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TicTacToeWithoutOops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tictactoe.TicTacToeWithoutOops" />
-      <module name="july-fsd-a-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tictactoe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chaining" />
+        <item itemvalue="Application.QuadraticProbingImpl" />
         <item itemvalue="Application.DoubleLinkedListRun" />
         <item itemvalue="Application.PalindromeTwoPointer" />
         <item itemvalue="Application.RunTicTacToe" />
-        <item itemvalue="Application.TicTacToeWithoutOops" />
-        <item itemvalue="Application.TestingPackage" />
       </list>
     </recent_temporary>
   </component>

@@ -111,4 +111,4 @@
 - Make A, B Equal https://my.newtonschool.co/playground/code/zehmqgj8qztm
 - Cookies https://my.newtonschool.co/playground/code/84sqlsar6o48
 - Long ATM Queue https://my.newtonschool.co/playground/code/6mf2rka56j97
-- 
+- Make Arrays Equal https://my.newtonschool.co/playground/code/p5aiujnt8y6d

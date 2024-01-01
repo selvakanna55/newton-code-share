@@ -99,4 +99,17 @@
 - Newton Infinite Callback (Contest) https://my.newtonschool.co/playground/code/7lg93x6n5bpw
 - Encoded output https://my.newtonschool.co/playground/code/auf0kpeziv7d
 - Remaining amount https://my.newtonschool.co/playground/code/c24bqtvoxrdf
-- 
+- Snack machine https://my.newtonschool.co/playground/code/b9vwnpq5b4o8
+- Shapes - Class Inheritance https://my.newtonschool.co/playground/code/tjx5td713il7?lecture_hash=2jd471j2chrs
+- Filter https://my.newtonschool.co/playground/code/e7xg7xeyypxd?lecture_hash=vrmbi7y7rft8
+- Anywhere door https://my.newtonschool.co/playground/code/is2puog5chd9
+- Delete the Middle of the Linked List https://my.newtonschool.co/playground/code/qmm5043doyp7?lecture_hash=ud98xjbwbeoz
+- Delete node without head pointer https://my.newtonschool.co/playground/code/0idhrb5anmh8
+- Cakewalk? (Contest) https://my.newtonschool.co/playground/code/pdr3h4mf1kss
+- 2 Jumps https://my.newtonschool.co/playground/code/5dyoas5xs252
+- Circular linked list https://my.newtonschool.co/playground/code/x7b8jqp3jbxu?lecture_hash=bsm0ff6sl27h
+- Make A, B Equal https://my.newtonschool.co/playground/code/zehmqgj8qztm
+- Cookies https://my.newtonschool.co/playground/code/84sqlsar6o48
+- Long ATM Queue https://my.newtonschool.co/playground/code/6mf2rka56j97
+- Check if array is sorted and rotated clockwise 
+- Make Arrays Equal https://my.newtonschool.co/playground/code/p5aiujnt8y6d
