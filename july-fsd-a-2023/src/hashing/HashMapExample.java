@@ -34,6 +34,14 @@ public class HashMapExample {
             //    }
             hm.put(arr[i], hm.getOrDefault(arr[i], 0) + 1);
         }
+        hm.keySet();
+        hm.clear();
+        hm.containsValue(10);
+//        hm.remove();
+        if (!hm.containsKey(10)) {
+            hm.put(10, 14);
+        }
+        hm.putIfAbsent(10, 14);
         System.out.println(hm);
         //    System.out.println(hm.keySet());
         //    System.out.println(hm.values());
