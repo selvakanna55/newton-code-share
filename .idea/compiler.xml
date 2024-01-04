@@ -13,20 +13,6 @@
         <module name="newton (1) (com.project)" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="demo" target="17" />
-      <module name="ecommerce" target="17" />
-      <module name="newton" target="18" />
-      <module name="newton (1) (com.project)" target="17" />
-      <module name="products" target="17" />
-    </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="demo" options="-parameters" />
-      <module name="ecommerce" options="-parameters" />
-      <module name="newton" options="-parameters" />
-      <module name="products" options="-parameters" />
-    </option>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
