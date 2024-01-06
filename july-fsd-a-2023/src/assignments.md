@@ -113,4 +113,6 @@
 - Long ATM Queue https://my.newtonschool.co/playground/code/6mf2rka56j97
 - Make Arrays Equal https://my.newtonschool.co/playground/code/p5aiujnt8y6d
 - Longest Sub-Array with Sum K https://my.newtonschool.co/playground/code/l2mpu04a6tp4?lecture_hash=mnam2c2pfa3f
-- 
+- Set Operations https://my.newtonschool.co/playground/code/54bwwjqr2xrk?course-hash=zvkq0wy5wkze
+- Takeoff https://my.newtonschool.co/playground/code/87m1axk3uzfz?course-hash=zvkq0wy5wkze
+- Favourite Candy https://my.newtonschool.co/playground/code/i0dbwgyif1l9?course-hash=zvkq0wy5wkze
