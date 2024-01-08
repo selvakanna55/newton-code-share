@@ -116,3 +116,9 @@
 - Set Operations https://my.newtonschool.co/playground/code/54bwwjqr2xrk?course-hash=zvkq0wy5wkze
 - Takeoff https://my.newtonschool.co/playground/code/87m1axk3uzfz?course-hash=zvkq0wy5wkze
 - Favourite Candy https://my.newtonschool.co/playground/code/i0dbwgyif1l9?course-hash=zvkq0wy5wkze
+- operations on queue https://my.newtonschool.co/playground/code/8lny9dwbeilf?lecture_hash=mkv8zycdwgky
+- Find the logic https://my.newtonschool.co/playground/code/1ubmlib5g5rd
+- Jumpy(Contest) https://my.newtonschool.co/playground/code/y4glocswbww6
+- Efficient power function https://my.newtonschool.co/playground/code/kwmp17uz3swf?course-hash=zvkq0wy5wkze
+- Yet Another Counting Problem (Contest) https://my.newtonschool.co/playground/code/5sgo7cba8wwk
+- Substring Reversal https://my.newtonschool.co/playground/code/2zn9z4srsz4j
