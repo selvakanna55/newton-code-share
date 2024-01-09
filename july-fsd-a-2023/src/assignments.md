@@ -122,3 +122,7 @@
 - Efficient power function https://my.newtonschool.co/playground/code/kwmp17uz3swf?course-hash=zvkq0wy5wkze
 - Yet Another Counting Problem (Contest) https://my.newtonschool.co/playground/code/5sgo7cba8wwk
 - Substring Reversal https://my.newtonschool.co/playground/code/2zn9z4srsz4j
+- Implement a Stack using Queue https://my.newtonschool.co/playground/code/91no9xw60197?course-hash=zvkq0wy5wkze
+- Evaluate Expression using Stack https://my.newtonschool.co/playground/code/wfhy6btqkw64?lecture_hash=k7tzibo4qgwc
+- Longest Substring with At Most Two Distinct Characters https://my.newtonschool.co/playground/code/1qps66hjv9q6?lecture_hash=f339djkfpz6x
+- 
