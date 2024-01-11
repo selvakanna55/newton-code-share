@@ -125,4 +125,8 @@
 - Implement a Stack using Queue https://my.newtonschool.co/playground/code/91no9xw60197?course-hash=zvkq0wy5wkze
 - Evaluate Expression using Stack https://my.newtonschool.co/playground/code/wfhy6btqkw64?lecture_hash=k7tzibo4qgwc
 - Longest Substring with At Most Two Distinct Characters https://my.newtonschool.co/playground/code/1qps66hjv9q6?lecture_hash=f339djkfpz6x
+- Sort it (Contest) https://my.newtonschool.co/playground/code/1rt4fxfs5uff
+- Squid game (contest) https://my.newtonschool.co/playground/code/8zw5lhq3rnmh
+- Yet another divisor maximization problem https://my.newtonschool.co/playground/code/vicsd4zaq6yg
+- Network of String (Contest) https://my.newtonschool.co/playground/code/8ed6284y3jy9
 - 
