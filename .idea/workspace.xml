@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1655c92d-b8b7-4d2c-ac5c-b7dccd639aed" name="Changes" comment="oops recap, machine coding tic tac toe">
-      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/recursion/DynamicSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/recursion/InsertOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/merge_sort/ExploringSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/merge_sort/InversionOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/merge_sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may-aug-quick-dsa/src/merge_sort/MergeTwoSortedArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +85,7 @@
       <command value="https://my.newtonschool.co/playground/code/jm5uwhcltzrs" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumOfAnArray">
+  <component name="RunManager" selected="Application.MergeTwoSortedArrays">
     <configuration name="Chaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashingChaining.Chaining" />
       <module name="july-fsd-a-2023" />
@@ -104,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuadraticProbingImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashing.QuadraticProbingImpl" />
-      <module name="july-fsd-a-2023" />
+    <configuration name="MergeTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="merge_sort.MergeTwoSortedArrays" />
+      <module name="may-aug-quick-dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashing.*" />
+          <option name="PATTERN" value="merge_sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +147,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MergeTwoSortedArrays" />
       <item itemvalue="Application.SumOfAnArray" />
       <item itemvalue="Application.FindPositionsOfXInArray" />
       <item itemvalue="Application.Chaining" />
-      <item itemvalue="Application.QuadraticProbingImpl" />
       <item itemvalue="Application.ValidBrackets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeTwoSortedArrays" />
         <item itemvalue="Application.SumOfAnArray" />
         <item itemvalue="Application.FindPositionsOfXInArray" />
         <item itemvalue="Application.ValidBrackets" />
         <item itemvalue="Application.Chaining" />
-        <item itemvalue="Application.QuadraticProbingImpl" />
       </list>
     </recent_temporary>
   </component>
