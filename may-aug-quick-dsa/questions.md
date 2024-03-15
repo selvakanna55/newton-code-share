@@ -15,6 +15,10 @@
 - https://my.newtonschool.co/playground/code/bswbhtwabk9s
 
 **Linked List**
- - https://my.newtonschool.co/playground/code/n2a13j7qg8uo
- - https://my.newtonschool.co/playground/code/yfirafumnpo4
- - 
+- https://my.newtonschool.co/playground/code/n2a13j7qg8uo
+- https://my.newtonschool.co/playground/code/yfirafumnpo4
+
+**Stack**
+- https://my.newtonschool.co/playground/code/8v8ix8cmt6n2
+- https://my.newtonschool.co/playground/code/8esmz889uuc4
+- 
